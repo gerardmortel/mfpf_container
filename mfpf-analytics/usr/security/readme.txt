@@ -1,0 +1,1 @@
+You can place your keystore, truststore, and LTPA keys (ltpa.keys) files in this folder and reference it in the keystore.xml file available in ../config directory

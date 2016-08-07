@@ -1,0 +1,1 @@
+This folder contains the mfp-init script file that gets executed on the container during Container startup.

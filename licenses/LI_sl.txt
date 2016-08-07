@@ -1,0 +1,327 @@
+OBVESTILO
+
+Ta dokument vsebuje spodnje licenène informacije za veè programov. Vsaka licenèna informacija identificira programe, za katere velja. Veljajo samo tiste licenène informacije za programe, za katere je imetnik licence pridobil pooblastila.
+
+
+==============================================
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (Z125-3301-14).
+
+Ime programa: IBM MobileFirst Platform Foundation V7.1
+Številka programa: 5725-I43
+
+Ime programa: IBM MobileFirst Platform Foundation for iOS V7.1
+Številka programa: 5725-I43
+
+Ime programa: IBM MobileFirst Platform Foundation - System Pattern V7.1
+Številka programa: 5725-I43
+
+Kot je opisano v dokumentu Mednarodna licenèna pogodba za program ("IPLA") in teh licenènih informacijah, družba IBM imetniku licence podeljuje omejeno pravico za uporabo programa. Ta pravica je omejena z ravnijo pooblašèene uporabe, kot je enota vrednosti procesorja ("PVU"), enota vrednosti vira ("RVU"), enota vrednosti ("VU") ali druga doloèena raven uporabe, ki jo plaèuje imetnik licence, kot je razvidno iz dokazila o upravièenosti. Uporaba imetnika licence je lahko omejena tudi na doloèen raèunalnik ali le v obliki podpornega programa oziroma zanjo veljajo druge omejitve. Ker imetnik licence ni plaèal polne cene programa, brez doplaèila programa ne sme uporabljati na noben drug naèin. Imetnik licence poleg tega nima pooblastil za uporabo programa za namen izvajanja komercialnih storitev IT za katero koli tretjo osebo, za omogoèanje komercialnega gostovanja ali dodeljevanja èasa oziroma za podlicenciranje ali najem programa, razen èe je to izrecno navedeno v ustreznih pogodbah, po katerih imetnik licence pridobi pooblastila za uporabo programa. Imetniku licence so lahko na voljo dodatne pravice na podlagi doplaèila oziroma razliènih ali dodatnih pogojev. Družba IBM si pridržuje pravico odloèanja o tem, ali bo imetniku licence omogoèila takšne dodatne pravice.
+
+Specifikacije tega programa so na voljo v skupnih razdelkih Opis in tehniène informacije v obvestilih za program.
+
+Slika namestitve veè izdelkov
+
+Program je ponujen kot del paketa namestitve veè izdelkov. Imetnik licence lahko namesti in uporablja samo program (in njegove podporne programe, èe obstajajo), za katerega je pridobil veljavno pooblastilo, in ne sme namestiti ali uporabljati nobene druge programske opreme, vkljuèene v sliki, razen èe je imetnik licence zanjo pridobili loèena pooblastila.
+
+Podporni programi
+
+Program je licenciran kot paket, sestavljen iz veè izdelkov, in vkljuèuje podporne programe, doloèene spodaj. Imetnik licence lahko namesti in uporablja takšne podporne programe samo v podporo svoji uporabi glavnega programa na podlagi te pogodbe in znotraj obsega potrdila o upravièenosti za program (razen èe niso kjerkoli v tem dokumentu s podatki o licenciranju ponujene pravice v veèjem obsegu). Fraza "v podporo svoji uporabi" vkljuèuje samo tisto uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licencirano uporabo glavnega programa ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Imetnik licence ne sme prenesti ali znova tržiti podpornih programov loèeno od glavnega programa. Podpornemu programu so lahko priložena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Ko pravica imetnika licence za uporabo programa ugasne ali preneha, mora prenehati z uporabo, unièiti ali nemudoma vrniti vse kopije podpornih programov pogodbeni stranki, pri kateri je pridobil program. Èe je imetnik licence prenesel podporne programe, se mora obrniti na stranko, pri kateri je pridobil program. Èe želi imetnik licence licencirati podporne programe za kakršnokoli uporabo, ki presega zgornje omejitve, naj se za pridobitev ustrezne licence obrne na IBM-ovega prodajnega predstavnika ali na stranko, pri kateri je pridobil program.
+
+Sledijo podporni programi, ki so licencirani s programom:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Loèeno licencirana koda
+
+Doloèbe tega odstavka ne veljajo do mere, ko so po zakonodaji, ki ureja to licenco, ocenjene kot niène ali takšne, da jih ni mogoèe uveljaviti. Vse komponente, navedene spodaj, so obravnavane kot "loèeno licencirana koda". IBM-ova loèeno licencirana koda je podeljena imetniku licence v skladu s pogoji ustreznih licenènih pogodb drugega proizvajalca, ki so razloženi v datotekah NON_IBM_LICENSE, dodanih programu. Ne glede na pogoje iz te pogodbe ali katerekoli druge pogodbe, ki jo lahko sklene imetnik licence z IBM-om, veljajo za uporabo vseh loèeno licenciranih kod pogoji takšnih licenènih pogodb z drugim proizvajalcem, razen èe ni spodaj doloèeno drugaèe.
+
+Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno loèeno licencirano kodo. Takšna dodatna loèeno licencirana koda in z njo povezane licence so navedene v drugi datoteki NON_IBM_LICENSE, ki jo dobite s posodobitvijo ali popravkom programa. Imetnik licence potrjuje, da je prebral licenène pogodbe, vsebovane v datotekah NON_IBM_LICENSE, in da z njimi soglaša. Èe imetnik licence ne soglaša z doloèbami iz teh licenènih pogodb drugega proizvajalca, ne sme uporabljati loèeno licencirane kode.
+
+Za programe, pridobljene v skladu z mednarodno licenèno pogodbo za program ("IPLA") ali mednarodno licenèno pogodbo za program brez garancije ("ILAN"), ko je imetnik licence izvirni imetnik licence programa, ki ne soglaša z licenènimi pogodbami drugega proizvajalca, lahko v doloèenem èasovnem okviru, ki je doloèen v razdelku "Garancija z vraèilom denarja" IBM-ove pogodbe IPLA ali ILAN, vrne program v skladu s tema pogodbama.
+
+Opomba: ne glede na katerekoli pogoje v licenèni pogodbi drugega proizvajalca, tej pogodbi ali katerikoli drugi pogodbi, ki jo lahko sklene imetnik licence z IBM-om, velja naslednje:
+(a) IBM nudi loèeno licencirano kodo imetniku licence BREZ VSAKRŠNIH GARANCIJ;
+(b) IBM ZAVRAÈA KATEREKOLI IN VSE IZRECNE IN NAKAZANE GARANCIJE IN POGOJE, KAR VKLJUÈUJE TUDI (VENDAR NI OMEJENO NA) GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA TRŽNOST IN PRIMERNOST ZA DOLOÈEN NAMEN Z OZIROM NA LOÈENO LICENCIRANO KODO;
+(c) IBM ni odgovoren imetniku licence in ga bo branil, zavaroval ali mu povrnil škodo v zvezi s kakršnimikoli zahtevki, vloženimi v povezavi z loèeno licencirano kodo; in
+(d) IBM ni odgovoren za nobeno posredno, neposredno, nakljuèno, posebno, kazensko, dodatno ali posledièno škodo, kar vkljuèuje tudi (vendar ni omejeno na) izgubljene podatke, izgubljene prihranke in izgubljene dobièke z ozirom za loèeno licencirano kodo.
+
+Ne glede na te izjeme veljajo v Nemèiji in Avstriji za IBM-ovo garancijo in odgovornost za loèeno licencirano kodo samo ustrezni pogoji, ki veljajo za Nemèijo in Avstrijo v IBM-ovih licenènih pogodbah.
+
+Opomba: IBM lahko za nekatere loèeno licencirane kode nudi omejeno podporo. Èe je na voljo takšna podpora, bodo podrobnosti in vsi dodatni pogoji, povezani s takšno podporo, doloèeni v dokumentu s podatki o licenciranju.
+
+Sledijo loèeno licencirane kode:
+Android Robot (graphic)
+android_device.png
+android.png
+
+Primerjalni preskusi
+
+Imetnik licence lahko razkrije rezultate primerjalnih preskusov programa ali njegovih podkomponent katerikoli tretji strani, pod pogojem, da imetnik licence (A) javno razkrije celotno metodologijo, uporabljeno v primerjalnem preskusu (to je nastavitev strojne in programske opreme, namestitveni postopek in konfiguracijske datoteke), (B) izvede primerjalni preskus imetnika licence z izvajanjem programa v svojem podanem operacijskem okolju z uporabo najnovejših ustreznih posodobitev in popravkov, ki jih nudijo za program IBM ali drugi proizvajalci, ki nudijo IBM-ove izdelke ("drugi proizvajalci") in (C) upošteva katerekoli in vse smernice za naravnavanje zmogljivosti in za "najboljše prakse", ki so na voljo v dokumentaciji programa in na IBM-ovih spletnih mestih s podporo za program. Èe imetnik licence objavi rezultate kateregakoli primerjalnega preskusa za program, imajo IBM in drugi proizvajalci ne glede na navzkrižja, ki izhajajo iz katerekoli pogodbe med imetnikom licence in IBM-om ali drugim proizvajalcem, pravico objaviti rezultate primerjalnih preskusov v zvezi z izdelki imetnika licence, pod pogojem, da IBM ali drugi proizvajalci pri preskušanju izdelkov imetnika licence upoštevajo zgornje zahteve (A), (B) in (C).
+
+Ne glede na zgoraj povedano ne sme imetnik licence v nobenih okolišèinah objaviti rezultatov primerjalnih preskusov, opravljenih v tehnologiji Oracle Outside In Technology, èe ne pridobi predhodnega pisnega dovoljenja.
+
+Za naslednje programe ali podkomponente veljajo zgornji pogoji za primerjalne preskuse:
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Izvorne komponente in vzorèno gradivo
+
+Program lahko vkljuèuje nekatere komponente v obliki izvorne kode ("izvorne komponente") in drugo gradivo, imenovano "vzorèno gradivo". Imetnik licence lahko kopira in spreminja izvorne komponente ter vzorèno gradivo za notranjo uporabo samo v primeru, da je takšna uporaba v okviru licenènih pravic, doloèenih v tej pogodbi, vendar imetnik licence ne sme spreminjati ali brisati kakršnihkoli informacij o avtorstvu ali obvestil v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ GARANCIJ KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNE ALI NAKAZANE, KAR VKLJUÈUJE TUDI GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Aplikacija
+
+Aplikacija je merska enota, na podlagi katere se lahko licencira program. Aplikacija je program z edinstvenim imenom, ki se ga lahko loèeno namesti v raèunalnik. Imetnik licence mora pridobiti zadostna pooblastila za aplikacijo, da pokrije vse aplikacije, ki obsegajo kateri koli del programa, se z njim povezujejo ali jih program upravlja.
+
+Pogoji, specifièni za program
+
+Podrobnosti podpornih programov
+
+IBM WebSphere Application Server Liberty Core
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Workgroup Server Edition Version
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Enterprise Server Edition Version (samo v sistemu zLinux)
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM Web Application Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 z vzorcem BLU Acceleration Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Pooblastilo: razmerje 1 navidezni strežnik / 1 aplikacija
+- Omejitev uporabe: vsak pooblašèen navidezni strežnik mora biti konfiguriran v samostojnem naèinu; imetnik licence ne sme združiti v gruèo veè navideznih strežnikov, da bi tako podprl glavni program. Za podporo gruèni konfiguraciji je treba kupiti loèena pooblastila za navidezni strežnik.
+
+IBM API Connect Essentials
+- Pooblastilo: razmerje 50.000 meseènih klicev API-ja / 1 aplikacija
+
+"Koliènik n/m" pomeni, da prejme imetnik licence doloèeno število ('n') pooblastil za podporni program za vsako doloèeno število ('m') pooblastil glavnega programa kot celote. Razen èe ni doloèeno drugaèe, je število pooblastil za podporni program zaokroženo na veèkratnik števila 'n'. Èe program na primer vkljuèuje 100 PVU-jev za podporni program za vsakih 500 PVU-jev, pridobljenih za glavni program, in pridobi imetnik licence 1200 PVU-jev programa, lahko namesti podporni program in omogoèi procesorska jedra, ki so mu na voljo ali jih upravlja, za najveè 300 PVU-jev. Teh PVU-jev ni potrebno všteti kot dela skupne zahteve PVU za namestitev programa zaradi namestitve podpornega programa (èeprav bo te PVU-jev morda potrebno všteti zaradi drugih razlogov, kot je na primer omogoèanje procesorskih jeder za glavni program).
+
+"Navidezni strežnik" je merska enota, na podlagi katere je lahko licenciran podporni program. Strežnik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmožnosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohišja strežniških rezin ali drugo podobno opremo, šteje vsaka loèena fizièna naprava (to je rezina ali ohišna naprava), ki vsebuje zahtevane komponente, kot loèen strežnik. Navidezni strežnik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu strežniku, ali neparticioniran fizièni strežnik.
+
+"Uporaba z glavnim programom" pomeni, da je podporni program zagotovljen izkljuèno za uporabo z glavnim programom. Niti imetnik licence niti katerakoli aplikacija, program ali naprava nimajo pooblastila za neposredno uporabo ali dostopanje do storitev podpornega programa, razen pooblastila imetnika licence za dostopanje do podpornega programa z namenom izvajanja skrbniških funkcij za podporni program, kot so izdelava varnostne kopije, obnovitev in pooblašèena konfiguracija.
+
+"Meseèni klici API-ja" je merska enota, na podlagi katere je lahko licenciran podporni program. Klic API-ja je poziv programa prek programljivega vmesnika. Pridobiti je treba zadostna potrdila za najveèje število klicev API-ja v kateremkoli koledarskem mesecu.
+
+Mobilne platforme OS
+
+IBM je preizkusil vzorène aplikacije, ustvarjene z mobilnimi orodji, ki so na voljo v programu ("mobilna orodja"), da bi spoznal, ali se bodo pravilno izvajale v doloèenih razlièicah platform mobilnih operacijskih sistemov proizvajalcev Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) in Google (Android) (skupno ime "platforme mobilnih OS"), vendar platforme mobilnih OS ponujajo tretje osebe, zato niso pod nadzorom družbe IBM in se lahko spremenijo brez obvešèanja družbe IBM. Kot takšne in ne glede na kakršnekoli morebitne drugaène navedbe, IBM ne jamèi za pravilno izvajanje, vzajemno delovanje ali združljivost katerih koli aplikacij ali drugih izhodnih podatkov, ustvarjenih z mobilnimi orodji, s katerim koli mobilnim operacijskim sistemom oz. platformo ali mobilno napravo.
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (Z125-3301-14).
+
+Ime programa: IBM MobileFirst Platform Foundation - Enterprise V7.1
+Številka programa: 5725-I43
+
+Kot je opisano v dokumentu Mednarodna licenèna pogodba za program ("IPLA") in teh licenènih informacijah, družba IBM imetniku licence podeljuje omejeno pravico za uporabo programa. Ta pravica je omejena z ravnijo pooblašèene uporabe, kot je enota vrednosti procesorja ("PVU"), enota vrednosti vira ("RVU"), enota vrednosti ("VU") ali druga doloèena raven uporabe, ki jo plaèuje imetnik licence, kot je razvidno iz dokazila o upravièenosti. Uporaba imetnika licence je lahko omejena tudi na doloèen raèunalnik ali le v obliki podpornega programa oziroma zanjo veljajo druge omejitve. Ker imetnik licence ni plaèal polne cene programa, brez doplaèila programa ne sme uporabljati na noben drug naèin. Imetnik licence poleg tega nima pooblastil za uporabo programa za namen izvajanja komercialnih storitev IT za katero koli tretjo osebo, za omogoèanje komercialnega gostovanja ali dodeljevanja èasa oziroma za podlicenciranje ali najem programa, razen èe je to izrecno navedeno v ustreznih pogodbah, po katerih imetnik licence pridobi pooblastila za uporabo programa. Imetniku licence so lahko na voljo dodatne pravice na podlagi doplaèila oziroma razliènih ali dodatnih pogojev. Družba IBM si pridržuje pravico odloèanja o tem, ali bo imetniku licence omogoèila takšne dodatne pravice.
+
+Specifikacije tega programa so na voljo v skupnih razdelkih Opis in tehniène informacije v obvestilih za program.
+
+Slika namestitve veè izdelkov
+
+Program je ponujen kot del paketa namestitve veè izdelkov. Imetnik licence lahko namesti in uporablja samo program (in njegove podporne programe, èe obstajajo), za katerega je pridobil veljavno pooblastilo, in ne sme namestiti ali uporabljati nobene druge programske opreme, vkljuèene v sliki, razen èe je imetnik licence zanjo pridobili loèena pooblastila.
+
+Podporni programi
+
+Program je licenciran kot paket, sestavljen iz veè izdelkov, in vkljuèuje podporne programe, doloèene spodaj. Imetnik licence lahko namesti in uporablja takšne podporne programe samo v podporo svoji uporabi glavnega programa na podlagi te pogodbe in znotraj obsega potrdila o upravièenosti za program (razen èe niso kjerkoli v tem dokumentu s podatki o licenciranju ponujene pravice v veèjem obsegu). Fraza "v podporo svoji uporabi" vkljuèuje samo tisto uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licencirano uporabo glavnega programa ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Imetnik licence ne sme prenesti ali znova tržiti podpornih programov loèeno od glavnega programa. Podpornemu programu so lahko priložena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Ko pravica imetnika licence za uporabo programa ugasne ali preneha, mora prenehati z uporabo, unièiti ali nemudoma vrniti vse kopije podpornih programov pogodbeni stranki, pri kateri je pridobil program. Èe je imetnik licence prenesel podporne programe, se mora obrniti na stranko, pri kateri je pridobil program. Èe želi imetnik licence licencirati podporne programe za kakršnokoli uporabo, ki presega zgornje omejitve, naj se za pridobitev ustrezne licence obrne na IBM-ovega prodajnega predstavnika ali na stranko, pri kateri je pridobil program.
+
+Sledijo podporni programi, ki so licencirani s programom:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Primerjalni preskusi
+
+Imetnik licence lahko razkrije rezultate primerjalnih preskusov programa ali njegovih podkomponent katerikoli tretji strani, pod pogojem, da imetnik licence (A) javno razkrije celotno metodologijo, uporabljeno v primerjalnem preskusu (to je nastavitev strojne in programske opreme, namestitveni postopek in konfiguracijske datoteke), (B) izvede primerjalni preskus imetnika licence z izvajanjem programa v svojem podanem operacijskem okolju z uporabo najnovejših ustreznih posodobitev in popravkov, ki jih nudijo za program IBM ali drugi proizvajalci, ki nudijo IBM-ove izdelke ("drugi proizvajalci") in (C) upošteva katerekoli in vse smernice za naravnavanje zmogljivosti in za "najboljše prakse", ki so na voljo v dokumentaciji programa in na IBM-ovih spletnih mestih s podporo za program. Èe imetnik licence objavi rezultate kateregakoli primerjalnega preskusa za program, imajo IBM in drugi proizvajalci ne glede na navzkrižja, ki izhajajo iz katerekoli pogodbe med imetnikom licence in IBM-om ali drugim proizvajalcem, pravico objaviti rezultate primerjalnih preskusov v zvezi z izdelki imetnika licence, pod pogojem, da IBM ali drugi proizvajalci pri preskušanju izdelkov imetnika licence upoštevajo zgornje zahteve (A), (B) in (C).
+
+Ne glede na zgoraj povedano ne sme imetnik licence v nobenih okolišèinah objaviti rezultatov primerjalnih preskusov, opravljenih v tehnologiji Oracle Outside In Technology, èe ne pridobi predhodnega pisnega dovoljenja.
+
+Za naslednje programe ali podkomponente veljajo zgornji pogoji za primerjalne preskuse:
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Izvorne komponente in vzorèno gradivo
+
+Program lahko vkljuèuje nekatere komponente v obliki izvorne kode ("izvorne komponente") in drugo gradivo, imenovano "vzorèno gradivo". Imetnik licence lahko kopira in spreminja izvorne komponente ter vzorèno gradivo za notranjo uporabo samo v primeru, da je takšna uporaba v okviru licenènih pravic, doloèenih v tej pogodbi, vendar imetnik licence ne sme spreminjati ali brisati kakršnihkoli informacij o avtorstvu ali obvestil v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ GARANCIJ KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNE ALI NAKAZANE, KAR VKLJUÈUJE TUDI GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Splošni pogoji obraèunavanja
+
+Naslovljiva naprava je merska enota, na podlagi katere je lahko licenciran program. Naslovljiva naprava je naprava, v kateri je namešèena aplikacija, ki jo naslavlja program. Vsaka namestitev aplikacije, ki jo naslavlja program, se šteje kot loèena naslovljiva naprava. Imetnik licence mora pridobiti zadostna pooblastila, da z njimi pokrije najveèje število naslovljivih naprav v katerem koli koledarskem mesecu.
+
+
+Pogoji, specifièni za program
+
+Podrobnosti podpornih programov
+
+IBM WebSphere Application Server Liberty Core
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Workgroup Server Edition Version
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Enterprise Server Edition Version (samo v sistemu zLinux)
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM Web Application Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 z vzorcem BLU Acceleration Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Pooblastilo: razmerje 1 navidezni strežnik / 3600 naslovljivih naprav 
+- Omejitev uporabe: vsak pooblašèen navidezni strežnik mora biti konfiguriran v samostojnem naèinu; imetnik licence ne sme združiti v gruèo veè navideznih strežnikov, da bi tako podprl glavni program. Za podporo gruèni konfiguraciji je treba kupiti loèena pooblastila za navidezni strežnik.
+
+IBM API Connect Essentials
+- Pooblastilo: razmerje 50.000 meseènih klicev API-ja / 200 naslovljivih naprav
+
+"Koliènik n/m" pomeni, da prejme imetnik licence doloèeno število ('n') pooblastil za podporni program za vsako doloèeno število ('m') pooblastil glavnega programa kot celote. Razen èe ni doloèeno drugaèe, je število pooblastil za podporni program zaokroženo na veèkratnik števila 'n'. Èe program na primer vkljuèuje 100 PVU-jev za podporni program za vsakih 500 PVU-jev, pridobljenih za glavni program, in pridobi imetnik licence 1200 PVU-jev programa, lahko namesti podporni program in omogoèi procesorska jedra, ki so mu na voljo ali jih upravlja, za najveè 300 PVU-jev. Teh PVU-jev ni potrebno všteti kot dela skupne zahteve PVU za namestitev programa zaradi namestitve podpornega programa (èeprav bo te PVU-jev morda potrebno všteti zaradi drugih razlogov, kot je na primer omogoèanje procesorskih jeder za glavni program).
+
+"Uporaba z glavnim programom" pomeni, da je podporni program zagotovljen izkljuèno za uporabo z glavnim programom. Niti imetnik licence niti katerakoli aplikacija, program ali naprava nimajo pooblastila za neposredno uporabo ali dostopanje do storitev podpornega programa, razen pooblastila imetnika licence za dostopanje do podpornega programa z namenom izvajanja skrbniških funkcij za podporni program, kot so izdelava varnostne kopije, obnovitev in pooblašèena konfiguracija.
+
+"Navidezni strežnik" je merska enota, na podlagi katere je lahko licenciran podporni program. Strežnik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmožnosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohišja strežniških rezin ali drugo podobno opremo, šteje vsaka loèena fizièna naprava (to je rezina ali ohišna naprava), ki vsebuje zahtevane komponente, kot loèen strežnik. Navidezni strežnik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu strežniku, ali neparticioniran fizièni strežnik.
+
+"Meseèni klici API-ja" je merska enota, na podlagi katere je lahko licenciran podporni program. Klic API-ja je poziv programa prek programljivega vmesnika. Pridobiti je treba zadostna potrdila za najveèje število klicev API-ja v kateremkoli koledarskem mesecu.
+
+Mobilne platforme OS
+
+IBM je preizkusil vzorène aplikacije, ustvarjene z mobilnimi orodji, ki so na voljo v programu ("mobilna orodja"), da bi spoznal, ali se bodo pravilno izvajale v doloèenih razlièicah platform mobilnih operacijskih sistemov proizvajalcev Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) in Google (Android) (skupno ime "platforme mobilnih OS"), vendar platforme mobilnih OS ponujajo tretje osebe, zato niso pod nadzorom družbe IBM in se lahko spremenijo brez obvešèanja družbe IBM. Kot takšne in ne glede na kakršnekoli morebitne drugaène navedbe, IBM ne jamèi za pravilno izvajanje, vzajemno delovanje ali združljivost katerih koli aplikacij ali drugih izhodnih podatkov, ustvarjenih z mobilnimi orodji, s katerim koli mobilnim operacijskim sistemom oz. platformo ali mobilno napravo.
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za program (Z125-3301-14).
+
+Ime programa: IBM MobileFirst Platform Foundation - Consumer V7.1
+Številka programa: 5725-I43
+
+Kot je opisano v dokumentu Mednarodna licenèna pogodba za program ("IPLA") in teh licenènih informacijah, družba IBM imetniku licence podeljuje omejeno pravico za uporabo programa. Ta pravica je omejena z ravnijo pooblašèene uporabe, kot je enota vrednosti procesorja ("PVU"), enota vrednosti vira ("RVU"), enota vrednosti ("VU") ali druga doloèena raven uporabe, ki jo plaèuje imetnik licence, kot je razvidno iz dokazila o upravièenosti. Uporaba imetnika licence je lahko omejena tudi na doloèen raèunalnik ali le v obliki podpornega programa oziroma zanjo veljajo druge omejitve. Ker imetnik licence ni plaèal polne cene programa, brez doplaèila programa ne sme uporabljati na noben drug naèin. Imetnik licence poleg tega nima pooblastil za uporabo programa za namen izvajanja komercialnih storitev IT za katero koli tretjo osebo, za omogoèanje komercialnega gostovanja ali dodeljevanja èasa oziroma za podlicenciranje ali najem programa, razen èe je to izrecno navedeno v ustreznih pogodbah, po katerih imetnik licence pridobi pooblastila za uporabo programa. Imetniku licence so lahko na voljo dodatne pravice na podlagi doplaèila oziroma razliènih ali dodatnih pogojev. Družba IBM si pridržuje pravico odloèanja o tem, ali bo imetniku licence omogoèila takšne dodatne pravice.
+
+Specifikacije tega programa so na voljo v skupnih razdelkih Opis in tehniène informacije v obvestilih za program.
+
+Slika namestitve veè izdelkov
+
+Program je ponujen kot del paketa namestitve veè izdelkov. Imetnik licence lahko namesti in uporablja samo program (in njegove podporne programe, èe obstajajo), za katerega je pridobil veljavno pooblastilo, in ne sme namestiti ali uporabljati nobene druge programske opreme, vkljuèene v sliki, razen èe je imetnik licence zanjo pridobili loèena pooblastila.
+
+Podporni programi
+
+Program je licenciran kot paket, sestavljen iz veè izdelkov, in vkljuèuje podporne programe, doloèene spodaj. Imetnik licence lahko namesti in uporablja takšne podporne programe samo v podporo svoji uporabi glavnega programa na podlagi te pogodbe in znotraj obsega potrdila o upravièenosti za program (razen èe niso kjerkoli v tem dokumentu s podatki o licenciranju ponujene pravice v veèjem obsegu). Fraza "v podporo svoji uporabi" vkljuèuje samo tisto uporabo, ki je potrebna ali kako drugaèe neposredno povezana z licencirano uporabo glavnega programa ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Imetnik licence ne sme prenesti ali znova tržiti podpornih programov loèeno od glavnega programa. Podpornemu programu so lahko priložena licenèna doloèila, ki (èe obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij doloèbe iz teh licenènih informacij prevladajo nad doloèbami podpornega programa. Ko pravica imetnika licence za uporabo programa ugasne ali preneha, mora prenehati z uporabo, unièiti ali nemudoma vrniti vse kopije podpornih programov pogodbeni stranki, pri kateri je pridobil program. Èe je imetnik licence prenesel podporne programe, se mora obrniti na stranko, pri kateri je pridobil program. Èe želi imetnik licence licencirati podporne programe za kakršnokoli uporabo, ki presega zgornje omejitve, naj se za pridobitev ustrezne licence obrne na IBM-ovega prodajnega predstavnika ali na stranko, pri kateri je pridobil program.
+
+Sledijo podporni programi, ki so licencirani s programom:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Primerjalni preskusi
+
+Imetnik licence lahko razkrije rezultate primerjalnih preskusov programa ali njegovih podkomponent katerikoli tretji strani, pod pogojem, da imetnik licence (A) javno razkrije celotno metodologijo, uporabljeno v primerjalnem preskusu (to je nastavitev strojne in programske opreme, namestitveni postopek in konfiguracijske datoteke), (B) izvede primerjalni preskus imetnika licence z izvajanjem programa v svojem podanem operacijskem okolju z uporabo najnovejših ustreznih posodobitev in popravkov, ki jih nudijo za program IBM ali drugi proizvajalci, ki nudijo IBM-ove izdelke ("drugi proizvajalci") in (C) upošteva katerekoli in vse smernice za naravnavanje zmogljivosti in za "najboljše prakse", ki so na voljo v dokumentaciji programa in na IBM-ovih spletnih mestih s podporo za program. Èe imetnik licence objavi rezultate kateregakoli primerjalnega preskusa za program, imajo IBM in drugi proizvajalci ne glede na navzkrižja, ki izhajajo iz katerekoli pogodbe med imetnikom licence in IBM-om ali drugim proizvajalcem, pravico objaviti rezultate primerjalnih preskusov v zvezi z izdelki imetnika licence, pod pogojem, da IBM ali drugi proizvajalci pri preskušanju izdelkov imetnika licence upoštevajo zgornje zahteve (A), (B) in (C).
+
+Ne glede na zgoraj povedano ne sme imetnik licence v nobenih okolišèinah objaviti rezultatov primerjalnih preskusov, opravljenih v tehnologiji Oracle Outside In Technology, èe ne pridobi predhodnega pisnega dovoljenja.
+
+Za naslednje programe ali podkomponente veljajo zgornji pogoji za primerjalne preskuse:
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Izvorne komponente in vzorèno gradivo
+
+Program lahko vkljuèuje nekatere komponente v obliki izvorne kode ("izvorne komponente") in drugo gradivo, imenovano "vzorèno gradivo". Imetnik licence lahko kopira in spreminja izvorne komponente ter vzorèno gradivo za notranjo uporabo samo v primeru, da je takšna uporaba v okviru licenènih pravic, doloèenih v tej pogodbi, vendar imetnik licence ne sme spreminjati ali brisati kakršnihkoli informacij o avtorstvu ali obvestil v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ GARANCIJ KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNE ALI NAKAZANE, KAR VKLJUÈUJE TUDI GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+Splošni pogoji obraèunavanja
+
+Tisoè naslovljivih naprav je merska enota, na podlagi katere je lahko licenciran program. Naslovljiva naprava je naprava, v kateri je namešèena aplikacija, ki jo naslavlja program. Vsaka namestitev aplikacije, ki jo naslavlja program, se šteje kot loèena naslovljiva naprava. Vsako pooblastilo za tisoè naslovljivih naprav predstavlja tisoè naslovljivih naprav. Imetnik licence mora pridobiti zadostna pooblastila, da z njimi pokrije najveèje število naslovljivih naprav v katerem koli koledarskem mesecu.
+
+
+Pogoji, specifièni za program
+
+Imetnik licence ne sme uporabljati naslovljivih naprav programa IBM MobileFirst Platform Foundation Consumer z uslužbenci.
+
+Uslužbenec je oseba, ki za svoje delo prejema dnevno/tedensko/meseèno plaèo, periodièno plaèilo, plaèilo po urni postavki ali kakšno drugo plaèilo, oziroma vsaka entiteta, ki jo imetnik licence na podlagi pogojev te licence pooblasti za uporabo programske opreme, do katere je upravièen s to licenco. 
+
+Podrobnosti podpornih programov
+
+IBM WebSphere Application Server Liberty Core
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Workgroup Server Edition
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 Enterprise Server Edition (samo v sistemu zLinux)
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM Web Application Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM DB2 z vzorcem BLU Acceleration Pattern
+- Omejitve uporabe: uporaba z glavnim programom
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Pooblastilo: razmerje 1 navidezni strežnik / 150 tisoè naslovljivih naprav
+- Omejitev uporabe: vsak pooblašèen navidezni strežnik mora biti konfiguriran v samostojnem naèinu; imetnik licence ne sme združiti v gruèo veè navideznih strežnikov, da bi tako podprl glavni program. Za podporo gruèni konfiguraciji je treba kupiti loèena pooblastila za navidezni strežnik.
+
+IBM API Connect Essentials
+- Pooblastilo: razmerje 50.000 meseènih klicev API-ja / 10.000 naslovljivih naprav
+
+"Koliènik n/m" pomeni, da prejme imetnik licence doloèeno število ('n') pooblastil za podporni program za vsako doloèeno število ('m') pooblastil glavnega programa kot celote. Razen èe ni doloèeno drugaèe, je število pooblastil za podporni program zaokroženo na veèkratnik števila 'n'. Èe program na primer vkljuèuje 100 PVU-jev za podporni program za vsakih 500 PVU-jev, pridobljenih za glavni program, in pridobi imetnik licence 1200 PVU-jev programa, lahko namesti podporni program in omogoèi procesorska jedra, ki so mu na voljo ali jih upravlja, za najveè 300 PVU-jev. Teh PVU-jev ni potrebno všteti kot dela skupne zahteve PVU za namestitev programa zaradi namestitve podpornega programa (èeprav bo te PVU-jev morda potrebno všteti zaradi drugih razlogov, kot je na primer omogoèanje procesorskih jeder za glavni program).
+
+"Navidezni strežnik" je merska enota, na podlagi katere je lahko licenciran podporni program. Strežnik je fizièni raèunalnik, sestavljen iz procesorskih enot, pomnilnika in vhodno/izhodnih zmožnosti, ki izvaja zahtevane procedure, ukaze ali aplikacije za enega ali veè uporabnikov ali odjemalskih naprav. Èe uporablja imetnik licence omare, ohišja strežniških rezin ali drugo podobno opremo, šteje vsaka loèena fizièna naprava (to je rezina ali ohišna naprava), ki vsebuje zahtevane komponente, kot loèen strežnik. Navidezni strežnik je navidezni raèunalnik, ustvarjen s particioniranjem sredstev, ki so na voljo fiziènemu strežniku, ali neparticioniran fizièni strežnik.
+
+"Uporaba z glavnim programom" pomeni, da je podporni program zagotovljen izkljuèno za uporabo z glavnim programom. Niti imetnik licence niti katerakoli aplikacija, program ali naprava nimajo pooblastila za neposredno uporabo ali dostopanje do storitev podpornega programa, razen pooblastila imetnika licence za dostopanje do podpornega programa z namenom izvajanja skrbniških funkcij za podporni program, kot so izdelava varnostne kopije, obnovitev in pooblašèena konfiguracija.
+
+"Meseèni klici API-ja" je merska enota, na podlagi katere je lahko licenciran podporni program. Klic API-ja je poziv programa prek programljivega vmesnika. Pridobiti je treba zadostna potrdila za najveèje število klicev API-ja v kateremkoli koledarskem mesecu.
+
+Mobilne platforme OS
+
+IBM je preizkusil vzorène aplikacije, ustvarjene z mobilnimi orodji, ki so na voljo v programu ("mobilna orodja"), da bi spoznal, ali se bodo pravilno izvajale v doloèenih razlièicah platform mobilnih operacijskih sistemov proizvajalcev Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) in Google (Android) (skupno ime "platforme mobilnih OS"), vendar platforme mobilnih OS ponujajo tretje osebe, zato niso pod nadzorom družbe IBM in se lahko spremenijo brez obvešèanja družbe IBM. Kot takšne in ne glede na kakršnekoli morebitne drugaène navedbe, IBM ne jamèi za pravilno izvajanje, vzajemno delovanje ali združljivost katerih koli aplikacij ali drugih izhodnih podatkov, ustvarjenih z mobilnimi orodji, s katerim koli mobilnim operacijskim sistemom oz. platformo ali mobilno napravo.
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+

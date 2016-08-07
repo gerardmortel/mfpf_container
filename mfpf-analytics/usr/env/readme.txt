@@ -1,0 +1,1 @@
+This folder contains the environment properties used for server initialization (server.env) and custom JVM options jvm.options. 

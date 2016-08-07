@@ -1,0 +1,1 @@
+Place your MobileFirst project WAR files in this folder. Alternately, you can copy the entire project from the MobileFirst Studio to this folder.

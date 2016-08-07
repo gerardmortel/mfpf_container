@@ -1,0 +1,6 @@
+scripts/*
+mfpf-libs/mfpf-analytics.tgz
+mfpf-libs/*.jar
+mfpf-libs/apache-ant-1.9.4/*
+usr/*/readme.txt
+usr/readme.txt

@@ -1,0 +1,327 @@
+AVIS
+
+Ce document inclut ci-dessous des documents Informations sur la Licence pour différents Logiciels. Chaque document Informations sur la Licence identifie le ou les Logiciels auxquels il s'applique. Seuls les documents Informations sur la Licence correspondant au(x) Logiciel(s) pour lesquels le Détenteur de la Licence a fait l'acquisition d'Autorisations d'Utilisation s'appliquent.
+
+
+==============================================
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, le Conditions Internationales d'Utilisation de Logiciel (Z125-3301-14) s'applique.
+
+Nom du Logiciel : IBM MobileFirst Platform Foundation V7.1
+Référence du Logiciel : 5725-I43
+
+Nom du Logiciel : IBM MobileFirst Platform Foundation for iOS V7.1
+Référence du Logiciel : 5725-I43
+
+Nom du Logiciel : IBM MobileFirst Platform Foundation - System Pattern V7.1
+Référence du Logiciel : 5725-I43
+
+Tel que décrit dans les Conditions Internationales d'Utilisation de Logiciel ("IPLA") et dans le présent document Informations sur la Licence, IBM concède au Détenteur de la Licence un droit limité pour utiliser le Logiciel. Ce droit est limité au niveau d'Utilisation Autorisée, telle qu'une Unité de Valeur par Coeur Processeur ("PVU"), une Unité de Valeur Ressource ("RVU"), une Unité de Valeur ("VU") ou tout autre niveau d'utilisation spécifié, payé par le Détenteur de la Licence comme en témoigne l'Autorisation d'Utilisation. L'utilisation par le Détenteur de la Licence peut également être limitée à une machine spécifiée, ou à une utilisation en tant que Logiciel Auxiliaire, ou être soumise à d'autres restrictions. Si que le Détenteur de la Licence n'a pas payé la totalité de la valeur économique du Logiciel, aucune autre utilisation n'est autorisé sans le paiement de frais supplémentaires. En outre, le Détenteur de la Licence n'est pas autorisé à utiliser le Logiciel pour fournir des services informatiques commerciaux à une tierce partie, pour fournir un hébergement ou un partage de temps commercial, ou pour accorder des sous-licences pour le Logiciel ni pour le louer, sauf indication contraire expresse dans les contrats applicables au titre desquels le Détenteur de la Licence a obtenu les Autorisations d'Utilisation du Logiciel. Des droits supplémentaires pourront être concédés au Détenteur de la Licence sous réserve du paiement de frais supplémentaires ou sous des conditions différentes ou supplémentaires. Ces droits supplémentaires seront concédés au Détenteur de la Licence à la seule discrétion d'IBM.
+
+Les spécifications de ce Logiciel se trouvent dans les sections collectives "Description" et "Technical Information" des Lettres d'annonce dudit Logiciel.
+
+Image d'Installation Multi-Produit
+
+Le Logiciel est fourni dans le cadre d'une image d'installation multi-produit. Le Détenteur de la Licence est autorisé à installer et à utiliser uniquement le Logiciel (ainsi que ses Logiciels Auxiliaires, le cas échéant) pour lequel il a obtenu une Autorisation d'Utilisation valide ; il n'est pas autorisé à installer ni à utiliser les autres logiciels inclus dans l'image à moins d'avoir fait l'acquisition des Autorisations d'Utilisation appropriées.
+
+Logiciels Auxiliaires
+
+Le Logiciel est concédé sous licence en tant que module multi-produit et inclut les Logiciels Auxiliaires répertoriés ci-dessous. Le Détenteur de la Licence est autorisé à installer et à utiliser lesdits Logiciels Auxiliaires uniquement dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat et dans les limites de l'Autorisation d'Utilisation du Logiciel (sauf si le présent document Informations sur la Licence octroie des droits supplémentaires au Détenteur de la Licence). L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Le Détenteur de la Licence n'est pas autorisé à utiliser les Logiciels Auxiliaires à toute autre fin. Le Détenteur de la Licence n'est pas autorisé à transférer ni à commercialiser les Logiciels Auxiliaires séparément du Logiciel Principal. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Lorsque le droit d'utilisation du Logiciel par le Détenteur de la Licence arrive à expiration ou est résilié, le Détenteur de la Licence doit cesser d'utiliser et détruire ou renvoyer rapidement tous les exemplaires des Logiciels Auxiliaires au tiers auprès de qui il a acquis le Logiciel. Si le Détenteur de la Licence a téléchargé les Logiciels Auxiliaires, il doit contacter le tiers auprès de qui il a acquis le Logiciel. Pour toute utilisation des Logiciels Auxiliaires non autorisée par le présent Contrat, le Détenteur de la Licence doit prendre contact avec un Ingénieur Commercial IBM ou avec le tiers auprès de qui il a acquis le Logiciel pour acquérir la licence correspondante.
+
+Les Logiciels Auxiliaires suivants sont concédés sous licence avec le Logiciel :
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Code sous Licence Distincte
+
+Les dispositions du présent paragraphe s'appliquent, sauf si elles sont considérées comme non valables ou inapplicables dans le cadre de la loi en vigueur régissant la présente licence. Chacun des composants répertoriés ci-dessous doit être considéré comme du "Code sous Licence Distincte". Le Code sous Licence Distincte est concédé sous licence au Détenteur de la Licence par IBM dans le cadre des dispositions du contrat de licence tiers applicable indiqué dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel. Nonobstant toute disposition du Contrat ou de tout autre contrat conclu entre le Détenteur de la Licence et IBM, les dispositions de ce contrat de licence tiers régissent l'utilisation de l'intégralité du Code sous Licence Distincte par le Détenteur de la Licence, sauf indication contraire ci-après.
+
+Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans un autre fichier NON_IBM_LICENSE joint à la mise à jour ou au correctif du Logiciel. Le Détenteur de la Licence reconnaît avoir lu le(s) fichier(s) NON_IBM_LICENSE et accepte les dispositions de licence y figurant. Si le Détenteur de la Licence n'accepte pas les dispositions des contrats de licence tiers, il n'est pas autorisé à utiliser le Code sous Licence Distincte.
+
+Pour les Logiciels dont la licence a été acquise dans le cadre des Conditions Internationales d'Utilisation de Logiciels IBM ou des Conditions Internationales d'Utilisation de Logiciels IBM non garantis, si le Détenteur de la Licence est le détenteur initial de la licence et qu'il n'accepte pas les dispositions des contrats de licence tiers, le Détenteur de la Licence est autorisé à renvoyer le Logiciel conformément aux dispositions énoncées dans la clause "Garantie "satisfait ou remboursé"" du Contrat IBM et ce, durant la période qui y est spécifiée.
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM :
+(a) IBM fournit ce Code sous Licence Distincte au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ;
+(b) IBM NE FOURNIT AUCUNE GARANTIE EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ EN CE QUI CONCERNE LE CODE SOUS LICENCE DISTINCTE ;
+(c) IBM ne pourra être tenue responsable envers le Détenteur de la Licence ni ne l'indemnisera pour toute réclamation relative au Code sous Licence Distincte ; et
+(d) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment perte de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage lié au Code sous Licence Distincte.
+
+Nonobstant ces exclusions, en Allemagne et en Autriche, la garantie et la responsabilité d'IBM en ce qui concerne le Code sous Licence Distincte sont régies uniquement par les dispositions respectives applicables à l'Allemagne et à l'Autriche dans les contrats de licence IBM.
+
+Remarque : IBM peut fournir un support limité pour certains composants du Code sous Licence Distincte. Si ce support est disponible, les détails et les éventuelles dispositions supplémentaires y afférents seront énoncés dans le document Informations sur la Licence.
+
+Les composants suivants sont du Code sous Licence Distincte :
+Android Robot (graphic)
+android_device.png
+android.png
+
+Tests de performance
+
+Le Détenteur de la Licence peut divulguer les résultats des tests de performance du Logiciel ou de ses sous-composants à un tiers sous réserve (A) de rendre publique la méthodologie complète utilisée dans le test de performance (par exemple, la configuration matérielle et logicielle, la procédure d'installation et les fichiers de configuration), (B) d'effectuer les tests de performance en exécutant le Logiciel dans son Environnement Opérationnel Spécifié avec les mises à jour et les correctifs applicables les plus récents du Logiciel fournis par IBM ou par les tiers qui fournissent des produits IBM (les "Tiers") et (C) de suivre en tout point toutes les instructions relatives à l'optimisation des performances et aux "pratiques en usage dans la profession" figurant dans la documentation et sur les sites Web IBM de support du Logiciel. Si le Détenteur de la Licence publie les résultats des tests de performance pour le Logiciel, sauf mention contraire dans un contrat conclu entre le Détenteur de la Licence et IBM ou les Tiers, IBM et les Tiers se réservent le droit de publier les résultats des tests de performance concernant les produits du Détenteur de la Licence sous réserve du respect des conditions (A), (B) et (C) ci-dessus lors du test des produits du Détenteur de la Licence.
+
+Nonobstant les dispositions ci-dessus, le Détenteur de la Licence n'est en aucun cas autorisé à publier les résultats des tests de performance exécutés sur la technologie Outside In Technology s'il n'a pas obtenu d'accord préalable écrit.
+
+Les dispositions régissant les tests de performance énoncées ci-dessus s'appliquent aux Logiciels et sous-composants suivants :
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel peut contenir des composants inclus sous la forme de code source ("Composants Source") ainsi que d'autres éléments appelés Échantillons et Exemples. Le Détenteur de la Licence est autorisé à copier et modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes, sous réserve que ladite utilisation reste dans les limites des droits de licence concédés au titre du présent Contrat et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Application
+
+Le terme "Application" désigne une unité de mesure selon laquelle le Logiciel est concédé sous licence. Une "Application" est un logiciel avec un nom unique pouvant être installé séparément sur une unité informatique. Le Détenteur de la Licence doit obtenir un nombre suffisant d'Autorisations d'Utilisation pour couvrir toutes les Applications qui incorporent une partie du Logiciel, se connectent à ou sont gérées par celui-ci.
+
+Dispositions particulières au Logiciel
+
+Détails relatifs aux Logiciels Auxiliaires
+
+IBM WebSphere Application Server Liberty Core
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Workgroup Server Edition
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Enterprise Server Edition (sur zLinux uniquement)
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM Web Application Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 avec BLU Acceleration Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Autorisation d'Utilisation : Ratio 1 Serveur Virtuel / 1 Application
+- Restriction d'utilisation : Chaque Serveur Virtuel autorisé doit être configuré en mode autonome ; Le Détenteur de la Licence ne peut pas mettre en cluster plusieurs Serveurs Virtuels pour prendre en charge le Logiciel Principal. Le Détenteur de la Licence doit faire l'acquisition d'Autorisations d'Utilisation de type Serveur Virtuel distinctes pour prendre en charge une configuration en cluster.
+
+IBM API Connect Essentials
+- Autorisation d'Utilisation : Ratio 50 Mille Appels d'API par mois / 1 Application
+
+Le terme "Ratio n/m" désigne le rapport selon lequel le Détenteur de la Licence reçoit un certain nombre ('n') d'Autorisations d'Utilisation du Logiciel Auxiliaire pour chaque nombre donné ('m') d'Autorisations d'Utilisation du Logiciel Principal en tout. En dépit de toute contraire, le nombre d'Autorisations d'Utilisation du Logiciel Auxiliaire est arrondi au multiple supérieur de 'n'. Par exemple, si un Logiciel inclut 100 Unités de Valeur par Cœur Processeur ("PVU") pour un Logiciel Auxiliaire pour chaque tranche de 500 PVU obtenues pour le Logiciel Principal et que le Détenteur de la Licence acquiert 1 200 PVU du Logiciel, le Détenteur de la Licence est autorisé à installer le Logiciel Auxiliaire et à mettre à disposition ou faire gérer par le Logiciel Auxiliaire jusqu'à 300 PVU. Il n'est pas nécessaire d'inclure ces PVU dans le nombre total de PVU requises pour l'installation du Logiciel comptant pour l'installation du Logiciel Auxiliaire, bien que ces PVU puissent être comptabilisées pour d'autres raisons, comme la mise à disposition de coeurs processeur pour le Logiciel Principal.
+
+Le terme "Serveur Virtuel" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un serveur est un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné.
+
+Le terme "Utilisation par le Logiciel Principal" signifie que le Logiciel Auxiliaire est fourni uniquement en vue de son utilisation par le Logiciel Principal. Ni le Détenteur de la Licence ni aucun(e) application, logiciel ou périphérique n'est autorisé(e) à utiliser ou accéder directement aux services du Logiciel Auxiliaire. Le Détenteur de la Licence est autorisé à accéder au Logiciel Auxiliaire uniquement afin de réaliser des opérations d'administration pour ledit Logiciel Auxiliaire, telles que la sauvegarde, la récupération ou la configuration autorisée.
+
+Le terme "Appels d'API par mois" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un Appel d'API désigne l'appel du Logiciel via une interface programmable. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation pour couvrir le nombre maximum d'Appels d'API au cours d'un mois calendaire.
+
+Plateformes de systèmes d'exploitation mobiles
+
+IBM a testé des modèles d'applications créés avec les outils mobiles fournis avec le Logiciel ("Outils mobiles") pour déterminer si ces modèles s'exécuteront correctement sur certaines versions des plateformes de systèmes d'exploitation mobiles d'Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) et Google (Android) (collectivement "Plateformes de systèmes d'exploitation mobiles"). Cependant, les Plateformes de systèmes d'exploitation mobiles sont fournies par des tiers. Elles ne sont pas sous le contrôle d'IBM et pourront faire l'objet de modifications sans qu'IBM en soit avertie. Nonobstant toute mention contraire dans le présent document, IBM ne garantit donc pas que les applications ou autres données de sortie créées à l'aide des Outils mobiles s'exécuteront correctement sur, fonctionneront ou seront compatibles avec des Plateformes de systèmes d'exploitation mobiles ou des unités mobiles.
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, le Conditions Internationales d'Utilisation de Logiciel (Z125-3301-14) s'applique.
+
+Nom du Logiciel : IBM MobileFirst Platform Foundation - Enterprise V7.1
+Référence du Logiciel : 5725-I43
+
+Tel que décrit dans les Conditions Internationales d'Utilisation de Logiciel ("IPLA") et dans le présent document Informations sur la Licence, IBM concède au Détenteur de la Licence un droit limité pour utiliser le Logiciel. Ce droit est limité au niveau d'Utilisation Autorisée, telle qu'une Unité de Valeur par Coeur Processeur ("PVU"), une Unité de Valeur Ressource ("RVU"), une Unité de Valeur ("VU") ou tout autre niveau d'utilisation spécifié, payé par le Détenteur de la Licence comme en témoigne l'Autorisation d'Utilisation. L'utilisation par le Détenteur de la Licence peut également être limitée à une machine spécifiée, ou à une utilisation en tant que Logiciel Auxiliaire, ou être soumise à d'autres restrictions. Si que le Détenteur de la Licence n'a pas payé la totalité de la valeur économique du Logiciel, aucune autre utilisation n'est autorisé sans le paiement de frais supplémentaires. En outre, le Détenteur de la Licence n'est pas autorisé à utiliser le Logiciel pour fournir des services informatiques commerciaux à une tierce partie, pour fournir un hébergement ou un partage de temps commercial, ou pour accorder des sous-licences pour le Logiciel ni pour le louer, sauf indication contraire expresse dans les contrats applicables au titre desquels le Détenteur de la Licence a obtenu les Autorisations d'Utilisation du Logiciel. Des droits supplémentaires pourront être concédés au Détenteur de la Licence sous réserve du paiement de frais supplémentaires ou sous des conditions différentes ou supplémentaires. Ces droits supplémentaires seront concédés au Détenteur de la Licence à la seule discrétion d'IBM.
+
+Les spécifications de ce Logiciel se trouvent dans les sections collectives "Description" et "Technical Information" des Lettres d'annonce dudit Logiciel.
+
+Image d'Installation Multi-Produit
+
+Le Logiciel est fourni dans le cadre d'une image d'installation multi-produit. Le Détenteur de la Licence est autorisé à installer et à utiliser uniquement le Logiciel (ainsi que ses Logiciels Auxiliaires, le cas échéant) pour lequel il a obtenu une Autorisation d'Utilisation valide ; il n'est pas autorisé à installer ni à utiliser les autres logiciels inclus dans l'image à moins d'avoir fait l'acquisition des Autorisations d'Utilisation appropriées.
+
+Logiciels Auxiliaires
+
+Le Logiciel est concédé sous licence en tant que module multi-produit et inclut les Logiciels Auxiliaires répertoriés ci-dessous. Le Détenteur de la Licence est autorisé à installer et à utiliser lesdits Logiciels Auxiliaires uniquement dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat et dans les limites de l'Autorisation d'Utilisation du Logiciel (sauf si le présent document Informations sur la Licence octroie des droits supplémentaires au Détenteur de la Licence). L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Le Détenteur de la Licence n'est pas autorisé à utiliser les Logiciels Auxiliaires à toute autre fin. Le Détenteur de la Licence n'est pas autorisé à transférer ni à commercialiser les Logiciels Auxiliaires séparément du Logiciel Principal. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Lorsque le droit d'utilisation du Logiciel par le Détenteur de la Licence arrive à expiration ou est résilié, le Détenteur de la Licence doit cesser d'utiliser et détruire ou renvoyer rapidement tous les exemplaires des Logiciels Auxiliaires au tiers auprès de qui il a acquis le Logiciel. Si le Détenteur de la Licence a téléchargé les Logiciels Auxiliaires, il doit contacter le tiers auprès de qui il a acquis le Logiciel. Pour toute utilisation des Logiciels Auxiliaires non autorisée par le présent Contrat, le Détenteur de la Licence doit prendre contact avec un Ingénieur Commercial IBM ou avec le tiers auprès de qui il a acquis le Logiciel pour acquérir la licence correspondante.
+
+Les Logiciels Auxiliaires suivants sont concédés sous licence avec le Logiciel :
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Tests de performance
+
+Le Détenteur de la Licence peut divulguer les résultats des tests de performance du Logiciel ou de ses sous-composants à un tiers sous réserve (A) de rendre publique la méthodologie complète utilisée dans le test de performance (par exemple, la configuration matérielle et logicielle, la procédure d'installation et les fichiers de configuration), (B) d'effectuer les tests de performance en exécutant le Logiciel dans son Environnement Opérationnel Spécifié avec les mises à jour et les correctifs applicables les plus récents du Logiciel fournis par IBM ou par les tiers qui fournissent des produits IBM (les "Tiers") et (C) de suivre en tout point toutes les instructions relatives à l'optimisation des performances et aux "pratiques en usage dans la profession" figurant dans la documentation et sur les sites Web IBM de support du Logiciel. Si le Détenteur de la Licence publie les résultats des tests de performance pour le Logiciel, sauf mention contraire dans un contrat conclu entre le Détenteur de la Licence et IBM ou les Tiers, IBM et les Tiers se réservent le droit de publier les résultats des tests de performance concernant les produits du Détenteur de la Licence sous réserve du respect des conditions (A), (B) et (C) ci-dessus lors du test des produits du Détenteur de la Licence.
+
+Nonobstant les dispositions ci-dessus, le Détenteur de la Licence n'est en aucun cas autorisé à publier les résultats des tests de performance exécutés sur la technologie Outside In Technology s'il n'a pas obtenu d'accord préalable écrit.
+
+Les dispositions régissant les tests de performance énoncées ci-dessus s'appliquent aux Logiciels et sous-composants suivants :
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel peut contenir des composants inclus sous la forme de code source ("Composants Source") ainsi que d'autres éléments appelés Échantillons et Exemples. Le Détenteur de la Licence est autorisé à copier et modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes, sous réserve que ladite utilisation reste dans les limites des droits de licence concédés au titre du présent Contrat et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Dispositions Générales relatives aux Redevances
+
+Le terme "Unité Adressable" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Une Unité Adressable désigne une unité sur laquelle une application adressable par le Logiciel est installée. Chaque installation d'application qui est adressable par le Logiciel compte comme une Unité Adressable distincte. Le Détenteur de la Licence doit obtenir un nombre suffisant d'Autorisations d'Utilisation pour le nombre maximum d'Unités Adressables au cours d'un mois calendaire.
+
+
+Dispositions particulières au Logiciel
+
+Détails relatifs aux Logiciels Auxiliaires
+
+IBM WebSphere Application Server Liberty Core
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Workgroup Server Edition
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Enterprise Server Edition (sur zLinux uniquement)
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM Web Application Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 avec BLU Acceleration Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Autorisation d'Utilisation : Ratio 1 Serveur Virtuel / 3600 Serveurs Virtuels 
+- Restriction d'utilisation : Chaque Serveur Virtuel autorisé doit être configuré en mode autonome ; Le Détenteur de la Licence ne peut pas mettre en cluster plusieurs Serveurs Virtuels pour prendre en charge le Logiciel Principal. Le Détenteur de la Licence doit faire l'acquisition d'Autorisations d'Utilisation de type Serveur Virtuel distinctes pour prendre en charge une configuration en cluster.
+
+IBM API Connect Essentials
+- Autorisation d'Utilisation : Ratio 50 Mille Appels d'API par mois / 200 Unités Adressables
+
+Le terme "Ratio n/m" désigne le rapport selon lequel le Détenteur de la Licence reçoit un certain nombre ('n') d'Autorisations d'Utilisation du Logiciel Auxiliaire pour chaque nombre donné ('m') d'Autorisations d'Utilisation du Logiciel Principal en tout. En dépit de toute contraire, le nombre d'Autorisations d'Utilisation du Logiciel Auxiliaire est arrondi au multiple supérieur de 'n'. Par exemple, si un Logiciel inclut 100 Unités de Valeur par Cœur Processeur ("PVU") pour un Logiciel Auxiliaire pour chaque tranche de 500 PVU obtenues pour le Logiciel Principal et que le Détenteur de la Licence acquiert 1 200 PVU du Logiciel, le Détenteur de la Licence est autorisé à installer le Logiciel Auxiliaire et à mettre à disposition ou faire gérer par le Logiciel Auxiliaire jusqu'à 300 PVU. Il n'est pas nécessaire d'inclure ces PVU dans le nombre total de PVU requises pour l'installation du Logiciel comptant pour l'installation du Logiciel Auxiliaire, bien que ces PVU puissent être comptabilisées pour d'autres raisons, comme la mise à disposition de coeurs processeur pour le Logiciel Principal.
+
+Le terme "Utilisation par le Logiciel Principal" signifie que le Logiciel Auxiliaire est fourni uniquement en vue d'une utilisation par le Logiciel. Ni le Détenteur de la Licence ni aucun(e) application, logiciel ou périphérique n'est autorisé(e) à utiliser ou accéder directement aux services du Logiciel Auxiliaire. Le Détenteur de la Licence est autorisé à accéder au Logiciel Auxiliaire uniquement afin de réaliser des opérations d'administration pour ledit Logiciel Auxiliaire, telles que la sauvegarde, la récupération ou la configuration autorisée.
+
+Le terme "Serveur Virtuel" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un serveur est un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné.
+
+Le terme "Appels d'API par mois" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un Appel d'API désigne l'appel du Logiciel via une interface programmable. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation pour couvrir le nombre maximum d'Appels d'API au cours d'un mois calendaire.
+
+Plateformes de systèmes d'exploitation mobiles
+
+IBM a testé des modèles d'applications créés avec les outils mobiles fournis avec le Logiciel ("Outils mobiles") pour déterminer si ces modèles s'exécuteront correctement sur certaines versions des plateformes de systèmes d'exploitation mobiles d'Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) et Google (Android) (collectivement "Plateformes de systèmes d'exploitation mobiles"). Cependant, les Plateformes de systèmes d'exploitation mobiles sont fournies par des tiers. Elles ne sont pas sous le contrôle d'IBM et pourront faire l'objet de modifications sans qu'IBM en soit avertie. Nonobstant toute mention contraire dans le présent document, IBM ne garantit donc pas que les applications ou autres données de sortie créées à l'aide des Outils mobiles s'exécuteront correctement sur, fonctionneront ou seront compatibles avec des Plateformes de systèmes d'exploitation mobiles ou des unités mobiles.
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, le Conditions Internationales d'Utilisation de Logiciel (Z125-3301-14) s'applique.
+
+Nom du Logiciel : IBM MobileFirst Platform Foundation - Consumer V7.1
+Référence du Logiciel : 5725-I43
+
+Tel que décrit dans les Conditions Internationales d'Utilisation de Logiciel ("IPLA") et dans le présent document Informations sur la Licence, IBM concède au Détenteur de la Licence un droit limité pour utiliser le Logiciel. Ce droit est limité au niveau d'Utilisation Autorisée, telle qu'une Unité de Valeur par Coeur Processeur ("PVU"), une Unité de Valeur Ressource ("RVU"), une Unité de Valeur ("VU") ou tout autre niveau d'utilisation spécifié, payé par le Détenteur de la Licence comme en témoigne l'Autorisation d'Utilisation. L'utilisation par le Détenteur de la Licence peut également être limitée à une machine spécifiée, ou à une utilisation en tant que Logiciel Auxiliaire, ou être soumise à d'autres restrictions. Si que le Détenteur de la Licence n'a pas payé la totalité de la valeur économique du Logiciel, aucune autre utilisation n'est autorisé sans le paiement de frais supplémentaires. En outre, le Détenteur de la Licence n'est pas autorisé à utiliser le Logiciel pour fournir des services informatiques commerciaux à une tierce partie, pour fournir un hébergement ou un partage de temps commercial, ou pour accorder des sous-licences pour le Logiciel ni pour le louer, sauf indication contraire expresse dans les contrats applicables au titre desquels le Détenteur de la Licence a obtenu les Autorisations d'Utilisation du Logiciel. Des droits supplémentaires pourront être concédés au Détenteur de la Licence sous réserve du paiement de frais supplémentaires ou sous des conditions différentes ou supplémentaires. Ces droits supplémentaires seront concédés au Détenteur de la Licence à la seule discrétion d'IBM.
+
+Les spécifications de ce Logiciel se trouvent dans les sections collectives "Description" et "Technical Information" des Lettres d'annonce dudit Logiciel.
+
+Image d'Installation Multi-Produit
+
+Le Logiciel est fourni dans le cadre d'une image d'installation multi-produit. Le Détenteur de la Licence est autorisé à installer et à utiliser uniquement le Logiciel (ainsi que ses Logiciels Auxiliaires, le cas échéant) pour lequel il a obtenu une Autorisation d'Utilisation valide ; il n'est pas autorisé à installer ni à utiliser les autres logiciels inclus dans l'image à moins d'avoir fait l'acquisition des Autorisations d'Utilisation appropriées.
+
+Logiciels Auxiliaires
+
+Le Logiciel est concédé sous licence en tant que module multi-produit et inclut les Logiciels Auxiliaires répertoriés ci-dessous. Le Détenteur de la Licence est autorisé à installer et à utiliser lesdits Logiciels Auxiliaires uniquement dans le cadre de son utilisation du Logiciel Principal au titre du présent Contrat et dans les limites de l'Autorisation d'Utilisation du Logiciel (sauf si le présent document Informations sur la Licence octroie des droits supplémentaires au Détenteur de la Licence). L'expression "dans le cadre de son utilisation" inclut uniquement les tâches liées directement ou nécessaires à l'utilisation autorisée du Logiciel Principal ou d'un Logiciel Auxiliaire. Le Détenteur de la Licence n'est pas autorisé à utiliser les Logiciels Auxiliaires à toute autre fin. Le Détenteur de la Licence n'est pas autorisé à transférer ni à commercialiser les Logiciels Auxiliaires séparément du Logiciel Principal. Un Logiciel Auxiliaire peut inclure des dispositions de licence, et le cas échéant, celles-ci s'appliquent à l'utilisation de ce Logiciel Auxiliaire par le Détenteur de la Licence. En cas de contradiction entre les dispositions, celles du présent document Informations sur la Licence prévalent sur celles du Logiciel Auxiliaire. Lorsque le droit d'utilisation du Logiciel par le Détenteur de la Licence arrive à expiration ou est résilié, le Détenteur de la Licence doit cesser d'utiliser et détruire ou renvoyer rapidement tous les exemplaires des Logiciels Auxiliaires au tiers auprès de qui il a acquis le Logiciel. Si le Détenteur de la Licence a téléchargé les Logiciels Auxiliaires, il doit contacter le tiers auprès de qui il a acquis le Logiciel. Pour toute utilisation des Logiciels Auxiliaires non autorisée par le présent Contrat, le Détenteur de la Licence doit prendre contact avec un Ingénieur Commercial IBM ou avec le tiers auprès de qui il a acquis le Logiciel pour acquérir la licence correspondante.
+
+Les Logiciels Auxiliaires suivants sont concédés sous licence avec le Logiciel :
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Tests de performance
+
+Le Détenteur de la Licence peut divulguer les résultats des tests de performance du Logiciel ou de ses sous-composants à un tiers sous réserve (A) de rendre publique la méthodologie complète utilisée dans le test de performance (par exemple, la configuration matérielle et logicielle, la procédure d'installation et les fichiers de configuration), (B) d'effectuer les tests de performance en exécutant le Logiciel dans son Environnement Opérationnel Spécifié avec les mises à jour et les correctifs applicables les plus récents du Logiciel fournis par IBM ou par les tiers qui fournissent des produits IBM (les "Tiers") et (C) de suivre en tout point toutes les instructions relatives à l'optimisation des performances et aux "pratiques en usage dans la profession" figurant dans la documentation et sur les sites Web IBM de support du Logiciel. Si le Détenteur de la Licence publie les résultats des tests de performance pour le Logiciel, sauf mention contraire dans un contrat conclu entre le Détenteur de la Licence et IBM ou les Tiers, IBM et les Tiers se réservent le droit de publier les résultats des tests de performance concernant les produits du Détenteur de la Licence sous réserve du respect des conditions (A), (B) et (C) ci-dessus lors du test des produits du Détenteur de la Licence.
+
+Nonobstant les dispositions ci-dessus, le Détenteur de la Licence n'est en aucun cas autorisé à publier les résultats des tests de performance exécutés sur la technologie Outside In Technology s'il n'a pas obtenu d'accord préalable écrit.
+
+Les dispositions régissant les tests de performance énoncées ci-dessus s'appliquent aux Logiciels et sous-composants suivants :
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel peut contenir des composants inclus sous la forme de code source ("Composants Source") ainsi que d'autres éléments appelés Échantillons et Exemples. Le Détenteur de la Licence est autorisé à copier et modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes, sous réserve que ladite utilisation reste dans les limites des droits de licence concédés au titre du présent Contrat et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+Dispositions Générales relatives aux Redevances
+
+Le terme "Mille Unités Adressables" désigne une unité de mesure par laquelle le Logiciel peut être concédé sous licence. Une Unité Adressable désigne une unité sur laquelle une application adressable par le Logiciel est installée. Chaque installation d'application qui est adressable par le Logiciel compte comme une Unité Adressable distincte. Chaque Autorisation d'Utilisation de type Mille Unités Adressables représente un Millier d'Unités Adressables. Le Détenteur de la Licence doit obtenir un nombre suffisant d'Autorisations d'Utilisation pour le nombre maximum d'Unités Adressables au cours d'un mois calendaire.
+
+
+Dispositions particulières au Logiciel
+
+Le Détenteur de la Licence n'est pas autorisé à utiliser les Unités Adressables du Logiciel IBM MobileFirst Platform Foundation Consumer avec des Employés.
+
+Un Employé désigne une personne embauchée qui touche un salaire, un revenu périodique ou horaire, une redevance ou un paiement pour effectuer des travaux pour le Détenteur de la Licence ou toute entité à laquelle le Détenteur de la Licence peut fournir, conformément à la présente licence, l'autorisation d'utiliser le logiciel habilité. 
+
+Détails relatifs aux Logiciels Auxiliaires
+
+IBM WebSphere Application Server Liberty Core
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Workgroup Server Edition
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 Enterprise Server Edition (sur zLinux uniquement)
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM Web Application Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM DB2 avec BLU Acceleration Pattern
+- Restrictions d'utilisation : Utilisation par le Logiciel Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Autorisation d'Utilisation : Ratio 1 Serveur Virtuel / 150 Mille Unités Adressables
+- Restriction d'utilisation : Chaque Serveur Virtuel autorisé doit être configuré en mode autonome ; Le Détenteur de la Licence ne peut pas mettre en cluster plusieurs Serveurs Virtuels pour prendre en charge le Logiciel Principal. Le Détenteur de la Licence doit faire l'acquisition d'Autorisations d'Utilisation de type Serveur Virtuel distinctes pour prendre en charge une configuration en cluster.
+
+IBM API Connect Essentials
+- Autorisation d'Utilisation : Ratio 50 Mille Appels d'API par mois / 10 Mille Unités Adressables
+
+Le terme "Ratio n/m" désigne le rapport selon lequel le Détenteur de la Licence reçoit un certain nombre ('n') d'Autorisations d'Utilisation du Logiciel Auxiliaire pour chaque nombre donné ('m') d'Autorisations d'Utilisation du Logiciel Principal en tout. En dépit de toute contraire, le nombre d'Autorisations d'Utilisation du Logiciel Auxiliaire est arrondi au multiple supérieur de 'n'. Par exemple, si un Logiciel inclut 100 Unités de Valeur par Cœur Processeur ("PVU") pour un Logiciel Auxiliaire pour chaque tranche de 500 PVU obtenues pour le Logiciel Principal et que le Détenteur de la Licence acquiert 1 200 PVU du Logiciel, le Détenteur de la Licence est autorisé à installer le Logiciel Auxiliaire et à mettre à disposition ou faire gérer par le Logiciel Auxiliaire jusqu'à 300 PVU. Il n'est pas nécessaire d'inclure ces PVU dans le nombre total de PVU requises pour l'installation du Logiciel comptant pour l'installation du Logiciel Auxiliaire, bien que ces PVU puissent être comptabilisées pour d'autres raisons, comme la mise à disposition de coeurs processeur pour le Logiciel Principal.
+
+Le terme "Serveur Virtuel" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un serveur est un ordinateur physique constitué d'unités de traitement, de mémoire et de fonctions d'entrée-sortie, qui exécute les procédures, les commandes ou les applications demandées pour un ou plusieurs utilisateurs ou unités client. Lorsque les armoires, les boîtiers de lames ou tout autre matériel similaire est utilisé, chaque unité physique distincte (lame ou unité montée en armoire, par exemple) qui dispose des composants requis est considérée comme un serveur à part entière. Un Serveur Virtuel est soit un ordinateur virtuel créé à partir du partitionnement des ressources résidant sur un Serveur physique, soit un serveur physique non partitionné.
+
+Le terme "Utilisation par le Logiciel Principal" signifie que le Logiciel Auxiliaire est fourni uniquement en vue de son utilisation par le Logiciel Principal. Ni le Détenteur de la Licence ni aucun(e) application, logiciel ou périphérique n'est autorisé(e) à utiliser ou accéder directement aux services du Logiciel Auxiliaire. Le Détenteur de la Licence est autorisé à accéder au Logiciel Auxiliaire uniquement afin de réaliser des opérations d'administration pour ledit Logiciel Auxiliaire, telles que la sauvegarde, la récupération ou la configuration autorisée.
+
+Le terme "Appels d'API par mois" désigne une unité de mesure par laquelle le Logiciel Auxiliaire peut être concédé sous licence. Un Appel d'API désigne l'appel du Logiciel via une interface programmable. Le Détenteur de la Licence doit se procurer un nombre suffisant d'Autorisations d'Utilisation pour couvrir le nombre maximum d'Appels d'API au cours d'un mois calendaire.
+
+Plateformes de systèmes d'exploitation mobiles
+
+IBM a testé des modèles d'applications créés avec les outils mobiles fournis avec le Logiciel ("Outils mobiles") pour déterminer si ces modèles s'exécuteront correctement sur certaines versions des plateformes de systèmes d'exploitation mobiles d'Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) et Google (Android) (collectivement "Plateformes de systèmes d'exploitation mobiles"). Cependant, les Plateformes de systèmes d'exploitation mobiles sont fournies par des tiers. Elles ne sont pas sous le contrôle d'IBM et pourront faire l'objet de modifications sans qu'IBM en soit avertie. Nonobstant toute mention contraire dans le présent document, IBM ne garantit donc pas que les applications ou autres données de sortie créées à l'aide des Outils mobiles s'exécuteront correctement sur, fonctionneront ou seront compatibles avec des Plateformes de systèmes d'exploitation mobiles ou des unités mobiles.
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+

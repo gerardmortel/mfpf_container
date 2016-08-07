@@ -1,0 +1,327 @@
+HINWEIS
+
+Dieses Dokument enthält weiter unten Lizenzinformationsdokumente für mehrere Programme. In jedem Lizenzinformationsdokument ist das Programm angegeben, auf das es sich bezieht, wobei auch mehrere Programme angegeben sein können. Es kommen nur die Lizenzinformationsdokumente für diejenigen Programme zur Anwendung, für die der Lizenznehmer Berechtigungen erworben hat.
+
+
+==============================================
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommt Internationale Nutzungsbedingungen für Programmpakete (Z125-3301-14) zur Anwendung.
+
+Programmname: IBM MobileFirst Platform Foundation V7.1
+Programmnummer: 5725-I43
+
+Programmname: IBM MobileFirst Platform Foundation for iOS V7.1
+Programmnummer: 5725-I43
+
+Programmname: IBM MobileFirst Platform Foundation - System Pattern V7.1
+Programmnummer: 5725-I43
+
+Gemäß der Beschreibung in den Internationalen Nutzungsbedingungen für Programmpakete ("IPLA") und dieser Lizenzinformation gewährt IBM dem Lizenznehmer ein beschränktes Recht zur Nutzung des Programms. Dieses Recht ist auf die Art der Nutzungsberechtigung, z. B. Prozessor-Value-Unit ("PVU"), Ressourcen-Value-Unit ("RVU") oder Value-Unit ("VU"), oder eine andere angegebene Nutzungsstufe beschränkt, für die der Lizenznehmer laut Berechtigungsnachweis (Proof of Entitlement = PoE) bezahlt hat. Die Nutzung des Lizenznehmers kann außerdem auf eine bestimmte Maschine beschränkt sein, ggf. darf er das Programm nur als Unterstützungsprogramm verwenden oder die Nutzung kann sonstigen Beschränkungen unterliegen. Da der Lizenznehmer nicht für den gesamten wirtschaftlichen Wert des Programms bezahlt hat, sind andere Nutzungsarten ohne Zahlung zusätzlicher Gebühren untersagt. Ferner ist der Lizenznehmer nicht berechtigt, das Programm zur Bereitstellung kommerzieller IT-Services für Dritte, zur Bereitstellung kommerzieller Hosting-Services oder für kommerziell betriebenes Time-Sharing einzusetzen oder das Programm zu vermieten, zu verleasen oder Unterlizenzen für das Programm zu vergeben, sofern dies in den maßgeblichen Vereinbarungen, unter denen der Lizenznehmer die Berechtigungen zur Nutzung des Programms erworben hat, nicht ausdrücklich vorgesehen ist. Dem Lizenznehmer werden abhängig von der Zahlung zusätzlicher Gebühren oder unter abweichenden oder ergänzenden Bedingungen ggf. weitere Rechte eingeräumt. IBM behält sich das Recht vor, darüber zu entscheiden, ob dem Lizenznehmer weitere Rechte gewährt werden.
+
+Die Programmspezifikationen sind in den Abschnitten "Description" und "Technical Information" der Ankündigungsschreiben des Programms zu finden.
+
+Installationsimage mit mehreren Produkten
+
+Das Programm wird als Teil eines Installationsimage bereitgestellt, das mehrere Produkte enthält. Der Lizenznehmer ist nur zur Installation und Nutzung des Programms (und seiner Unterstützungsprogramme, sofern vorhanden), für das er eine gültige Berechtigung erworben hat, berechtigt und darf die darüber hinaus im Image enthaltene Software nicht installieren oder nutzen, sofern er keine separaten Berechtigungen für die jeweilige Software erworben hat.
+
+Unterstützungsprogramme
+
+Das Programm wird als Multiproduktpaket lizenziert und enthält die nachfolgend aufgeführten Unterstützungsprogramme. Der Lizenznehmer darf die Unterstützungsprogramme unter dieser Vereinbarung und im Rahmen der Berechtigungsnachweise (Proofs of Entitlement = PoEs) für das Programm nur zur Unterstützung des Hauptprogramms installieren und nutzen (sofern an anderer Stelle in dieser Lizenzinformation keine weitergehenden Rechte erteilt werden). Der Ausdruck "nur zur Unterstützung" umfasst nur die erforderliche Nutzung oder diejenige Nutzung, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms steht. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Der Lizenznehmer ist nicht berechtigt, die Unterstützungsprogramme ohne das Hauptprogramm zu übertragen oder weiterzuvertreiben. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, denen die Nutzung des betreffenden Unterstützungsprogramms durch den Lizenznehmer unterliegt. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Wenn das Recht des Lizenznehmers zur Nutzung des Programms abläuft oder erlischt, muss er die Nutzung der Unterstützungsprogramme einstellen und alle Kopien der Unterstützungsprogramme vernichten oder unverzüglich bei der Stelle zurückgeben, von der er das Programm bezogen hat. Hat der Lizenznehmer die Unterstützungsprogramme heruntergeladen, sollte er sich an die Stelle wenden, von der er das Programm bezogen hat. Um die Unterstützungsprogramme für eine Nutzung ohne die obigen Beschränkungen zu lizenzieren, sollte sich der Lizenznehmer bitte an seinen IBM Vertriebsbeauftragten oder an die Stelle wenden, von der er das Programm bezogen hat, um die entsprechende Lizenz zu erwerben.
+
+Diese Liste enthält die Unterstützungsprogramme, die mit dem Programm lizenziert werden:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Separat lizenzierter Code
+
+Die Bedingungen dieses Abschnitts kommen nicht zur Anwendung, wenn sie im Rahmen des geltenden Rechts, dem diese Lizenz unterliegt, als ungültig oder undurchführbar erachtet werden. Jede Komponente in der folgenden Liste wird als "separat lizenzierter Code" eingestuft. IBM stellt dem Lizenznehmer diesen Code unter Lizenz auf Basis der Bedingungen der geltenden Lizenzvereinbarungen der Dritthersteller in den NON_IBM_LICENSE-Dateien zur Verfügung, die dem Programm beigepackt sind. Ungeachtet der Bedingungen in der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM unterliegt die Nutzung des gesamten separat lizenzierten Codes durch den Lizenznehmer den Bedingungen der Lizenzvereinbarungen der Dritthersteller, sofern nachfolgend nichts anderes angegeben ist.
+
+Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen ebenfalls in einer NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist. Der Lizenznehmer bestätigt, dass er die Lizenzvereinbarungen in den NON_IBM_LICENSE-Dateien gelesen und akzeptiert hat. Wenn der Lizenznehmer die Bedingungen dieser Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, darf er den separat lizenzierten Code nicht nutzen.
+
+Für ein Programm, das der Lizenznehmer unter den Internationalen Nutzungsbedingungen für Programmpakete (IPLA) oder den Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung (ILAN) bezogen hat, gilt Folgendes: Wenn der Lizenznehmer der ursprüngliche Lizenznehmer des Programms ist und die Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, kann er in Übereinstimmung mit den Bedingungen im Abschnitt "Geld-zurück-Garantie" in den beiden oben genannten IBM Vereinbarungen und unter Einhaltung der dort angegebenen Frist das Programm zurückgeben.
+
+Hinweis: Ungeachtet der Bedingungen in der Lizenzvereinbarung des Drittherstellers, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung;
+(b) IBM übernimmt keine Gewährleistung (ausdrücklich oder stillschweigend) für den separat lizenzierten Code, einschließlich, aber nicht beschränkt auf die Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck;
+(c) IBM ist dem Lizenznehmer gegenüber nicht haftbar und übernimmt keine Verpflichtung, ihn für irgendwelche Schäden hinsichtlich des separat lizenzierten Codes schadlos zu halten, zu entschädigen oder Ansprüche abzuwehren; und
+(d) IBM haftet nicht für unmittelbare, mittelbare oder sonstige Folgeschäden, einschließlich, aber nicht beschränkt auf Datenverlust, entgangene Gewinne und entgangene Einsparungen hinsichtlich des separat lizenzierten Codes.
+
+Ungeachtet der genannten Ausschlüsse unterliegen die Gewährleistung und Haftung von IBM für den separat lizenzierten Code in Deutschland und Österreich ausschließlich den Bedingungen, die in den IBM Lizenzvereinbarungen für Deutschland und Österreich angegeben sind.
+
+Hinweis: IBM kann für Teile des separat lizenzierten Codes unter Umständen eingeschränkte Unterstützung bereitstellen. Wenn Unterstützung angeboten wird, sind Einzelheiten und zusätzlich geltende Bedingungen in der Lizenzinformation (LI) zu finden.
+
+Diese Liste enthält den separat lizenzierten Code:
+Android Robot (graphic)
+android_device.png
+android.png
+
+Benchmarking
+
+Der Lizenznehmer darf die Ergebnisse von Benchmarktests des Programms oder seiner Unterkomponenten an Dritte weitergeben, sofern (A) er vollständig offenlegt, welche Methode im Benchmarktest angewendet wurde (zum Beispiel Hardware- und Softwarekonfiguration, Installationsverfahren und Konfigurationsdateien); (B) er den Benchmarktest durchführt, indem er das Programm in der angegebenen Betriebsumgebung unter Verwendung der neuesten anwendbaren Updates, Patches und Fixes ausführt, die für das Programm von IBM oder den Drittherstellern, die IBM Produkte anbieten ("Dritthersteller"), zur Verfügung gestellt werden; und (C) er alle Anweisungen zur Leistungsverbesserung befolgt und alle bewährten Verfahren (Best Practices) anwendet, die in der Dokumentation des Programms und auf den IBM Support Websites für das Programm zu finden sind. Wenn der Lizenznehmer die Ergebnisse von Benchmarktests für das Programm veröffentlicht, haben IBM und die Dritthersteller (ungeachtet gegenteiliger Regelungen in irgendeiner Vereinbarung zwischen dem Lizenznehmer und IBM oder den Drittherstellern) das Recht, die Ergebnisse von Benchmarktests hinsichtlich der Produkte des Lizenznehmers zu veröffentlichen, vorausgesetzt, IBM oder die Dritthersteller erfüllen beim Testen der Produkte des Lizenznehmers die obigen Anforderungen unter (A), (B) und (C).
+
+Ungeachtet des Vorangehenden darf der Lizenznehmer die Ergebnisse von Vergleichstests (Benchmarktests), die für die Outside In Technology durchgeführt wurden, unter keinen Umständen ohne vorherige schriftliche Genehmigung veröffentlichen.
+
+Die obigen Bedingungen für Benchmarking gelten für die folgenden Programme oder Unterkomponenten:
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Quellenkomponenten und Mustermaterialien
+
+Das Programm kann einige Komponenten in Form von Quellcode ("Quellenkomponenten") und sonstige Materialien, die als Mustermaterialien gekennzeichnet sind, enthalten. Der Lizenznehmer darf die Quellenkomponenten und Mustermaterialien nur für den internen Gebrauch kopieren und ändern, sofern eine solche Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung erfolgt und der Lizenznehmer die in den Quellenkomponenten oder Mustermaterialien enthaltenen Copyrightvermerke oder Hinweise weder ändert noch löscht. IBM stellt die Quellenkomponenten und Mustermaterialien ohne eine Verpflichtung zur Unterstützung, ohne Wartung (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Anwendung
+
+"Anwendung" ist eine Maßeinheit für die Lizenzierung des Programms. Eine Anwendung ist ein eindeutig benanntes Softwareprogramm, das auf einer Datenverarbeitungseinheit separat installierbar ist. Der Lizenznehmer muss ausreichende Anwendungsberechtigungen erwerben, um alle Anwendungen abzudecken, die einen Teil des Programms integrieren, eine Verbindung zu dem Programm herstellen oder von dem Programm verwaltet werden.
+
+Programmspezifische Bedingungen
+
+Einzelheiten zu den Unterstützungsprogrammen
+
+IBM WebSphere Application Server Liberty Core
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Workgroup Server Edition Version
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Enterprise Server Edition Version (nur auf zLinux)
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM Web Application Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 with BLU Acceleration Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Berechtigung: Verhältnis 1 virtueller Server / 1 Anwendung
+- Nutzungsbeschränkung: Jeder berechtigte virtuelle Server muss im Standalone-Modus konfiguriert werden. Der Lizenznehmer ist nicht berechtigt, zur Unterstützung des Hauptprogramms mehrere virtuelle Server zu einem Cluster zusammenzufassen. Zur Unterstützung einer Clusterkonfiguration müssen separate Berechtigungen für die virtuellen Server erworben werden.
+
+IBM API Connect Essentials
+- Berechtigung: Verhältnis: 50.000 API-Aufrufe pro Monat / 1 Anwendung
+
+"Verhältnis n/m" bedeutet, dass der Lizenznehmer insgesamt eine bestimmte Anzahl ('n') von Berechtigungen für das Unterstützungsprogramm im Verhältnis zur jeweils angegebenen Anzahl ('m') von Berechtigungen für das Hauptprogramm erhält. Sofern nicht anders angegeben, wird die Anzahl der Berechtigungen für das Unterstützungsprogramm auf ein Vielfaches von 'n' aufgerundet. Wenn ein Programm zum Beispiel 100 PVUs für ein Unterstützungsprogramm für jeweils 500 erworbene PVUs des Hauptprogramms enthält und der Lizenznehmer 1.200 PVUs des Programms erwirbt, ist er berechtigt, das Unterstützungsprogramm zu installieren und dem Unterstützungsprogramm Prozessorkerne bis zu einem Volumen von 300 PVUs zur Verfügung zu stellen oder vom Unterstützungsprogramm verwalten zu lassen. Die PVUs, die auf die Installation des Unterstützungsprogramms entfallen, müssen in die Gesamtzahl der PVUs, die für die Programminstallation des Lizenznehmers erforderlich sind, nicht einberechnet werden (sie müssen aber evtl. aus anderen Gründen gezählt werden, z. B. bei der Zuordnung der Prozessorkerne zum Hauptprogramm).
+
+"Virtueller Server" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Bladegehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server.
+
+"Nutzung durch Hauptprogramm" bedeutet, dass das Unterstützungsprogramm ausschließlich zur Nutzung durch das Hauptprogramm bereitgestellt wird. Weder der Lizenznehmer noch eine Anwendung, ein Programm oder eine Einheit sind berechtigt, direkt auf die Services des Unterstützungsprogramms zuzugreifen oder diese zu nutzen; ausgenommen von dieser Einschränkung ist der Zugriff auf das Unterstützungsprogramm zur Ausführung von Verwaltungsfunktionen für das Unterstützungsprogramm, wie Sicherung, Wiederherstellung und berechtigte Konfiguration.
+
+"API-Aufrufe pro Monat" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein API-Aufruf ist der Aufruf des Programms über eine programmierbare Schnittstelle. Es müssen ausreichende Berechtigungen erworben werden, um die maximale Anzahl an API-Aufrufen in einem Kalendermonat abzudecken.
+
+OS-Plattformen für mobile Geräte
+
+IBM hat Beispielanwendungen getestet, die mit den zum Lieferumfang des Programms gehörenden Tools für mobile Geräte ("Mobile Tools") erstellt wurden, um festzustellen, ob diese auf bestimmten Versionen von Betriebssystemplattformen für mobile Geräte von Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) und Google (Android) (gemeinsam "OS-Plattformen für mobile Geräte" genannt) ordnungsgemäß ausgeführt werden. Die OS-Plattformen für mobile Geräte werden jedoch von Drittherstellern angeboten, befinden sich nicht unter der Kontrolle von IBM und können ohne Mitteilung an IBM geändert werden. Aus diesem Grund und ungeachtet gegenteiliger Aussagen gewährleistet IBM nicht, dass mit den Mobile Tools erstellte Anwendungen oder sonstige damit erstellte Ausgaben auf Betriebssystemplattformen für mobile Geräte oder auf mobilen Endgeräten ordnungsgemäß ausgeführt werden, mit diesen zusammenarbeiten oder mit diesen kompatibel sind.
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommt Internationale Nutzungsbedingungen für Programmpakete (Z125-3301-14) zur Anwendung.
+
+Programmname: IBM MobileFirst Platform Foundation - Enterprise V7.1
+Programmnummer: 5725-I43
+
+Gemäß der Beschreibung in den Internationalen Nutzungsbedingungen für Programmpakete ("IPLA") und dieser Lizenzinformation gewährt IBM dem Lizenznehmer ein beschränktes Recht zur Nutzung des Programms. Dieses Recht ist auf die Art der Nutzungsberechtigung, z. B. Prozessor-Value-Unit ("PVU"), Ressourcen-Value-Unit ("RVU") oder Value-Unit ("VU"), oder eine andere angegebene Nutzungsstufe beschränkt, für die der Lizenznehmer laut Berechtigungsnachweis (Proof of Entitlement = PoE) bezahlt hat. Die Nutzung des Lizenznehmers kann außerdem auf eine bestimmte Maschine beschränkt sein, ggf. darf er das Programm nur als Unterstützungsprogramm verwenden oder die Nutzung kann sonstigen Beschränkungen unterliegen. Da der Lizenznehmer nicht für den gesamten wirtschaftlichen Wert des Programms bezahlt hat, sind andere Nutzungsarten ohne Zahlung zusätzlicher Gebühren untersagt. Ferner ist der Lizenznehmer nicht berechtigt, das Programm zur Bereitstellung kommerzieller IT-Services für Dritte, zur Bereitstellung kommerzieller Hosting-Services oder für kommerziell betriebenes Time-Sharing einzusetzen oder das Programm zu vermieten, zu verleasen oder Unterlizenzen für das Programm zu vergeben, sofern dies in den maßgeblichen Vereinbarungen, unter denen der Lizenznehmer die Berechtigungen zur Nutzung des Programms erworben hat, nicht ausdrücklich vorgesehen ist. Dem Lizenznehmer werden abhängig von der Zahlung zusätzlicher Gebühren oder unter abweichenden oder ergänzenden Bedingungen ggf. weitere Rechte eingeräumt. IBM behält sich das Recht vor, darüber zu entscheiden, ob dem Lizenznehmer weitere Rechte gewährt werden.
+
+Die Programmspezifikationen sind in den Abschnitten "Description" und "Technical Information" der Ankündigungsschreiben des Programms zu finden.
+
+Installationsimage mit mehreren Produkten
+
+Das Programm wird als Teil eines Installationsimage bereitgestellt, das mehrere Produkte enthält. Der Lizenznehmer ist nur zur Installation und Nutzung des Programms (und seiner Unterstützungsprogramme, sofern vorhanden), für das er eine gültige Berechtigung erworben hat, berechtigt und darf die darüber hinaus im Image enthaltene Software nicht installieren oder nutzen, sofern er keine separaten Berechtigungen für die jeweilige Software erworben hat.
+
+Unterstützungsprogramme
+
+Das Programm wird als Multiproduktpaket lizenziert und enthält die nachfolgend aufgeführten Unterstützungsprogramme. Der Lizenznehmer darf die Unterstützungsprogramme unter dieser Vereinbarung und im Rahmen der Berechtigungsnachweise (Proofs of Entitlement = PoEs) für das Programm nur zur Unterstützung des Hauptprogramms installieren und nutzen (sofern an anderer Stelle in dieser Lizenzinformation keine weitergehenden Rechte erteilt werden). Der Ausdruck "nur zur Unterstützung" umfasst nur die erforderliche Nutzung oder diejenige Nutzung, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms steht. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Der Lizenznehmer ist nicht berechtigt, die Unterstützungsprogramme ohne das Hauptprogramm zu übertragen oder weiterzuvertreiben. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, denen die Nutzung des betreffenden Unterstützungsprogramms durch den Lizenznehmer unterliegt. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Wenn das Recht des Lizenznehmers zur Nutzung des Programms abläuft oder erlischt, muss er die Nutzung der Unterstützungsprogramme einstellen und alle Kopien der Unterstützungsprogramme vernichten oder unverzüglich bei der Stelle zurückgeben, von der er das Programm bezogen hat. Hat der Lizenznehmer die Unterstützungsprogramme heruntergeladen, sollte er sich an die Stelle wenden, von der er das Programm bezogen hat. Um die Unterstützungsprogramme für eine Nutzung ohne die obigen Beschränkungen zu lizenzieren, sollte sich der Lizenznehmer bitte an seinen IBM Vertriebsbeauftragten oder an die Stelle wenden, von der er das Programm bezogen hat, um die entsprechende Lizenz zu erwerben.
+
+Diese Liste enthält die Unterstützungsprogramme, die mit dem Programm lizenziert werden:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Benchmarking
+
+Der Lizenznehmer darf die Ergebnisse von Benchmarktests des Programms oder seiner Unterkomponenten an Dritte weitergeben, sofern (A) er vollständig offenlegt, welche Methode im Benchmarktest angewendet wurde (zum Beispiel Hardware- und Softwarekonfiguration, Installationsverfahren und Konfigurationsdateien); (B) er den Benchmarktest durchführt, indem er das Programm in der angegebenen Betriebsumgebung unter Verwendung der neuesten anwendbaren Updates, Patches und Fixes ausführt, die für das Programm von IBM oder den Drittherstellern, die IBM Produkte anbieten ("Dritthersteller"), zur Verfügung gestellt werden; und (C) er alle Anweisungen zur Leistungsverbesserung befolgt und alle bewährten Verfahren (Best Practices) anwendet, die in der Dokumentation des Programms und auf den IBM Support Websites für das Programm zu finden sind. Wenn der Lizenznehmer die Ergebnisse von Benchmarktests für das Programm veröffentlicht, haben IBM und die Dritthersteller (ungeachtet gegenteiliger Regelungen in irgendeiner Vereinbarung zwischen dem Lizenznehmer und IBM oder den Drittherstellern) das Recht, die Ergebnisse von Benchmarktests hinsichtlich der Produkte des Lizenznehmers zu veröffentlichen, vorausgesetzt, IBM oder die Dritthersteller erfüllen beim Testen der Produkte des Lizenznehmers die obigen Anforderungen unter (A), (B) und (C).
+
+Ungeachtet des Vorangehenden darf der Lizenznehmer die Ergebnisse von Vergleichstests (Benchmarktests), die für die Outside In Technology durchgeführt wurden, unter keinen Umständen ohne vorherige schriftliche Genehmigung veröffentlichen.
+
+Die obigen Bedingungen für Benchmarking gelten für die folgenden Programme oder Unterkomponenten:
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Quellenkomponenten und Mustermaterialien
+
+Das Programm kann einige Komponenten in Form von Quellcode ("Quellenkomponenten") und sonstige Materialien, die als Mustermaterialien gekennzeichnet sind, enthalten. Der Lizenznehmer darf die Quellenkomponenten und Mustermaterialien nur für den internen Gebrauch kopieren und ändern, sofern eine solche Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung erfolgt und der Lizenznehmer die in den Quellenkomponenten oder Mustermaterialien enthaltenen Copyrightvermerke oder Hinweise weder ändert noch löscht. IBM stellt die Quellenkomponenten und Mustermaterialien ohne eine Verpflichtung zur Unterstützung, ohne Wartung (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Allgemeine Bedingungen für Gebühren
+
+"Adressierbare Einheit" ist eine Maßeinheit für die Lizenzierung des Programms. Eine adressierbare Einheit ist eine Einheit, auf der eine Anwendung installiert ist, die vom Programm adressiert werden kann. Jede Anwendungsinstallation, die vom Programm adressiert werden kann, zählt als separate adressierbare Einheit. Der Lizenznehmer muss ausreichende Berechtigungen erwerben, um die maximale Anzahl an adressierbaren Einheiten in einem beliebigen Kalendermonat abzudecken.
+
+
+Programmspezifische Bedingungen
+
+Einzelheiten zu den Unterstützungsprogrammen
+
+IBM WebSphere Application Server Liberty Core
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Workgroup Server Edition Version
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Enterprise Server Edition Version (nur auf zLinux)
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM Web Application Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 with BLU Acceleration Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Berechtigung: Verhältnis 1 virtueller Server / 3.600 adressierbare Einheiten
+- Nutzungsbeschränkung: Jeder berechtigte virtuelle Server muss im Standalone-Modus konfiguriert werden. Der Lizenznehmer ist nicht berechtigt, zur Unterstützung des Hauptprogramms mehrere virtuelle Server zu einem Cluster zusammenzufassen. Zur Unterstützung einer Clusterkonfiguration müssen separate Berechtigungen für die virtuellen Server erworben werden.
+
+IBM API Connect Essentials
+- Berechtigung: Verhältnis: 50.000 API-Aufrufe pro Monat / 200 adressierbare Einheiten
+
+"Verhältnis n/m" bedeutet, dass der Lizenznehmer insgesamt eine bestimmte Anzahl ('n') von Berechtigungen für das Unterstützungsprogramm im Verhältnis zur jeweils angegebenen Anzahl ('m') von Berechtigungen für das Hauptprogramm erhält. Sofern nicht anders angegeben, wird die Anzahl der Berechtigungen für das Unterstützungsprogramm auf ein Vielfaches von 'n' aufgerundet. Wenn ein Programm zum Beispiel 100 PVUs für ein Unterstützungsprogramm für jeweils 500 erworbene PVUs des Hauptprogramms enthält und der Lizenznehmer 1.200 PVUs des Programms erwirbt, ist er berechtigt, das Unterstützungsprogramm zu installieren und dem Unterstützungsprogramm Prozessorkerne bis zu einem Volumen von 300 PVUs zur Verfügung zu stellen oder vom Unterstützungsprogramm verwalten zu lassen. Die PVUs, die auf die Installation des Unterstützungsprogramms entfallen, müssen in die Gesamtzahl der PVUs, die für die Programminstallation des Lizenznehmers erforderlich sind, nicht einberechnet werden (sie müssen aber evtl. aus anderen Gründen gezählt werden, z. B. bei der Zuordnung der Prozessorkerne zum Hauptprogramm).
+
+"Nutzung durch Hauptprogramm" bedeutet, dass das Unterstützungsprogramm ausschließlich zur Nutzung durch das Programm bereitgestellt wird. Weder der Lizenznehmer noch eine Anwendung, ein Programm oder eine Einheit sind berechtigt, direkt auf die Services des Unterstützungsprogramms zuzugreifen oder diese zu nutzen; ausgenommen von dieser Einschränkung ist der Zugriff auf das Unterstützungsprogramm zur Ausführung von Verwaltungsfunktionen für das Unterstützungsprogramm, wie Sicherung, Wiederherstellung und berechtigte Konfiguration.
+
+"Virtueller Server" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Bladegehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server.
+
+"API-Aufrufe pro Monat" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein API-Aufruf ist der Aufruf des Programms über eine programmierbare Schnittstelle. Es müssen ausreichende Berechtigungen erworben werden, um die maximale Anzahl an API-Aufrufen in einem Kalendermonat abzudecken.
+
+OS-Plattformen für mobile Geräte
+
+IBM hat Beispielanwendungen getestet, die mit den zum Lieferumfang des Programms gehörenden Tools für mobile Geräte ("Mobile Tools") erstellt wurden, um festzustellen, ob diese auf bestimmten Versionen von Betriebssystemplattformen für mobile Geräte von Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) und Google (Android) (gemeinsam "OS-Plattformen für mobile Geräte" genannt) ordnungsgemäß ausgeführt werden. Die OS-Plattformen für mobile Geräte werden jedoch von Drittherstellern angeboten, befinden sich nicht unter der Kontrolle von IBM und können ohne Mitteilung an IBM geändert werden. Aus diesem Grund und ungeachtet gegenteiliger Aussagen gewährleistet IBM nicht, dass mit den Mobile Tools erstellte Anwendungen oder sonstige damit erstellte Ausgaben auf Betriebssystemplattformen für mobile Geräte oder auf mobilen Endgeräten ordnungsgemäß ausgeführt werden, mit diesen zusammenarbeiten oder mit diesen kompatibel sind.
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommt Internationale Nutzungsbedingungen für Programmpakete (Z125-3301-14) zur Anwendung.
+
+Programmname: IBM MobileFirst Platform Foundation - Consumer V7.1
+Programmnummer: 5725-I43
+
+Gemäß der Beschreibung in den Internationalen Nutzungsbedingungen für Programmpakete ("IPLA") und dieser Lizenzinformation gewährt IBM dem Lizenznehmer ein beschränktes Recht zur Nutzung des Programms. Dieses Recht ist auf die Art der Nutzungsberechtigung, z. B. Prozessor-Value-Unit ("PVU"), Ressourcen-Value-Unit ("RVU") oder Value-Unit ("VU"), oder eine andere angegebene Nutzungsstufe beschränkt, für die der Lizenznehmer laut Berechtigungsnachweis (Proof of Entitlement = PoE) bezahlt hat. Die Nutzung des Lizenznehmers kann außerdem auf eine bestimmte Maschine beschränkt sein, ggf. darf er das Programm nur als Unterstützungsprogramm verwenden oder die Nutzung kann sonstigen Beschränkungen unterliegen. Da der Lizenznehmer nicht für den gesamten wirtschaftlichen Wert des Programms bezahlt hat, sind andere Nutzungsarten ohne Zahlung zusätzlicher Gebühren untersagt. Ferner ist der Lizenznehmer nicht berechtigt, das Programm zur Bereitstellung kommerzieller IT-Services für Dritte, zur Bereitstellung kommerzieller Hosting-Services oder für kommerziell betriebenes Time-Sharing einzusetzen oder das Programm zu vermieten, zu verleasen oder Unterlizenzen für das Programm zu vergeben, sofern dies in den maßgeblichen Vereinbarungen, unter denen der Lizenznehmer die Berechtigungen zur Nutzung des Programms erworben hat, nicht ausdrücklich vorgesehen ist. Dem Lizenznehmer werden abhängig von der Zahlung zusätzlicher Gebühren oder unter abweichenden oder ergänzenden Bedingungen ggf. weitere Rechte eingeräumt. IBM behält sich das Recht vor, darüber zu entscheiden, ob dem Lizenznehmer weitere Rechte gewährt werden.
+
+Die Programmspezifikationen sind in den Abschnitten "Description" und "Technical Information" der Ankündigungsschreiben des Programms zu finden.
+
+Installationsimage mit mehreren Produkten
+
+Das Programm wird als Teil eines Installationsimage bereitgestellt, das mehrere Produkte enthält. Der Lizenznehmer ist nur zur Installation und Nutzung des Programms (und seiner Unterstützungsprogramme, sofern vorhanden), für das er eine gültige Berechtigung erworben hat, berechtigt und darf die darüber hinaus im Image enthaltene Software nicht installieren oder nutzen, sofern er keine separaten Berechtigungen für die jeweilige Software erworben hat.
+
+Unterstützungsprogramme
+
+Das Programm wird als Multiproduktpaket lizenziert und enthält die nachfolgend aufgeführten Unterstützungsprogramme. Der Lizenznehmer darf die Unterstützungsprogramme unter dieser Vereinbarung und im Rahmen der Berechtigungsnachweise (Proofs of Entitlement = PoEs) für das Programm nur zur Unterstützung des Hauptprogramms installieren und nutzen (sofern an anderer Stelle in dieser Lizenzinformation keine weitergehenden Rechte erteilt werden). Der Ausdruck "nur zur Unterstützung" umfasst nur die erforderliche Nutzung oder diejenige Nutzung, die im direkten Zusammenhang mit der lizenzierten Nutzung des Hauptprogramms oder eines anderen Unterstützungsprogramms steht. Die Unterstützungsprogramme dürfen nicht für andere Zwecke verwendet werden. Der Lizenznehmer ist nicht berechtigt, die Unterstützungsprogramme ohne das Hauptprogramm zu übertragen oder weiterzuvertreiben. Einem Unterstützungsprogramm können Lizenzbedingungen beigefügt sein, denen die Nutzung des betreffenden Unterstützungsprogramms durch den Lizenznehmer unterliegt. Im Falle eines Widerspruchs haben die Bedingungen dieses Lizenzinformationsdokuments Vorrang vor den Bedingungen des Unterstützungsprogramms. Wenn das Recht des Lizenznehmers zur Nutzung des Programms abläuft oder erlischt, muss er die Nutzung der Unterstützungsprogramme einstellen und alle Kopien der Unterstützungsprogramme vernichten oder unverzüglich bei der Stelle zurückgeben, von der er das Programm bezogen hat. Hat der Lizenznehmer die Unterstützungsprogramme heruntergeladen, sollte er sich an die Stelle wenden, von der er das Programm bezogen hat. Um die Unterstützungsprogramme für eine Nutzung ohne die obigen Beschränkungen zu lizenzieren, sollte sich der Lizenznehmer bitte an seinen IBM Vertriebsbeauftragten oder an die Stelle wenden, von der er das Programm bezogen hat, um die entsprechende Lizenz zu erwerben.
+
+Diese Liste enthält die Unterstützungsprogramme, die mit dem Programm lizenziert werden:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Benchmarking
+
+Der Lizenznehmer darf die Ergebnisse von Benchmarktests des Programms oder seiner Unterkomponenten an Dritte weitergeben, sofern (A) er vollständig offenlegt, welche Methode im Benchmarktest angewendet wurde (zum Beispiel Hardware- und Softwarekonfiguration, Installationsverfahren und Konfigurationsdateien); (B) er den Benchmarktest durchführt, indem er das Programm in der angegebenen Betriebsumgebung unter Verwendung der neuesten anwendbaren Updates, Patches und Fixes ausführt, die für das Programm von IBM oder den Drittherstellern, die IBM Produkte anbieten ("Dritthersteller"), zur Verfügung gestellt werden; und (C) er alle Anweisungen zur Leistungsverbesserung befolgt und alle bewährten Verfahren (Best Practices) anwendet, die in der Dokumentation des Programms und auf den IBM Support Websites für das Programm zu finden sind. Wenn der Lizenznehmer die Ergebnisse von Benchmarktests für das Programm veröffentlicht, haben IBM und die Dritthersteller (ungeachtet gegenteiliger Regelungen in irgendeiner Vereinbarung zwischen dem Lizenznehmer und IBM oder den Drittherstellern) das Recht, die Ergebnisse von Benchmarktests hinsichtlich der Produkte des Lizenznehmers zu veröffentlichen, vorausgesetzt, IBM oder die Dritthersteller erfüllen beim Testen der Produkte des Lizenznehmers die obigen Anforderungen unter (A), (B) und (C).
+
+Ungeachtet des Vorangehenden darf der Lizenznehmer die Ergebnisse von Vergleichstests (Benchmarktests), die für die Outside In Technology durchgeführt wurden, unter keinen Umständen ohne vorherige schriftliche Genehmigung veröffentlichen.
+
+Die obigen Bedingungen für Benchmarking gelten für die folgenden Programme oder Unterkomponenten:
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Quellenkomponenten und Mustermaterialien
+
+Das Programm kann einige Komponenten in Form von Quellcode ("Quellenkomponenten") und sonstige Materialien, die als Mustermaterialien gekennzeichnet sind, enthalten. Der Lizenznehmer darf die Quellenkomponenten und Mustermaterialien nur für den internen Gebrauch kopieren und ändern, sofern eine solche Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung erfolgt und der Lizenznehmer die in den Quellenkomponenten oder Mustermaterialien enthaltenen Copyrightvermerke oder Hinweise weder ändert noch löscht. IBM stellt die Quellenkomponenten und Mustermaterialien ohne eine Verpflichtung zur Unterstützung, ohne Wartung (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+Allgemeine Bedingungen für Gebühren
+
+"Tausend adressierbare Einheiten" ist eine Maßeinheit für die Lizenzierung des Programms. Eine adressierbare Einheit ist eine Einheit, auf der eine Anwendung installiert ist, die vom Programm adressiert werden kann. Jede Anwendungsinstallation, die vom Programm adressiert werden kann, zählt als separate adressierbare Einheit. Jede Berechtigung für jeweils "Tausend adressierbare Einheiten" entspricht eintausend adressierbaren Einheiten. Der Lizenznehmer muss ausreichende Berechtigungen erwerben, um die maximale Anzahl an adressierbaren Einheiten in einem beliebigen Kalendermonat abzudecken.
+
+
+Programmspezifische Bedingungen
+
+Die Nutzung adressierbarer Einheiten (Addressable Devices) des Programms IBM MobileFirst Platform Foundation Consumer durch Mitarbeiter des Lizenznehmers ist nicht gestattet.
+
+Ein Mitarbeiter ist eine im Unternehmen des Lizenznehmers beschäftigte Person (Lohn- oder Gehaltsempfänger oder eine auf Stundenbasis oder regelmäßiger Basis für den Lizenznehmer tätige Person) oder eine beliebige juristische Person, die vom Lizenznehmer gemäß den Bedingungen dieser Lizenz zur Nutzung der Software, die dieser Lizenz unterliegt, ermächtigt werden kann.
+
+Einzelheiten zu den Unterstützungsprogrammen
+
+IBM WebSphere Application Server Liberty Core
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Workgroup Server Edition
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 Enterprise Server Edition (nur auf zLinux)
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM Web Application Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM DB2 with BLU Acceleration Pattern
+- Nutzungsbeschränkungen: Nutzung durch Hauptprogramm
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Berechtigung: Verhältnis: 1 virtueller Server / 150.000 adressierbare Einheiten
+- Nutzungsbeschränkung: Jeder berechtigte virtuelle Server muss im Standalone-Modus konfiguriert werden. Der Lizenznehmer ist nicht berechtigt, zur Unterstützung des Hauptprogramms mehrere virtuelle Server zu einem Cluster zusammenzufassen. Zur Unterstützung einer Clusterkonfiguration müssen separate Berechtigungen für die virtuellen Server erworben werden.
+
+IBM API Connect Essentials
+- Berechtigung: Verhältnis: 50.000 API-Aufrufe pro Monat / 10.000 adressierbare Einheiten
+
+"Verhältnis n/m" bedeutet, dass der Lizenznehmer insgesamt eine bestimmte Anzahl ('n') von Berechtigungen für das Unterstützungsprogramm im Verhältnis zur jeweils angegebenen Anzahl ('m') von Berechtigungen für das Hauptprogramm erhält. Sofern nicht anders angegeben, wird die Anzahl der Berechtigungen für das Unterstützungsprogramm auf ein Vielfaches von 'n' aufgerundet. Wenn ein Programm zum Beispiel 100 PVUs für ein Unterstützungsprogramm für jeweils 500 erworbene PVUs des Hauptprogramms enthält und der Lizenznehmer 1.200 PVUs des Programms erwirbt, ist er berechtigt, das Unterstützungsprogramm zu installieren und dem Unterstützungsprogramm Prozessorkerne bis zu einem Volumen von 300 PVUs zur Verfügung zu stellen oder vom Unterstützungsprogramm verwalten zu lassen. Die PVUs, die auf die Installation des Unterstützungsprogramms entfallen, müssen in die Gesamtzahl der PVUs, die für die Programminstallation des Lizenznehmers erforderlich sind, nicht einberechnet werden (sie müssen aber evtl. aus anderen Gründen gezählt werden, z. B. bei der Zuordnung der Prozessorkerne zum Hauptprogramm).
+
+"Virtueller Server" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein Server ist ein physischer Computer, der aus Verarbeitungseinheiten sowie Speicher und Ein-/Ausgabefunktionalität besteht und angeforderte Prozeduren, Befehle oder Anwendungen für einen oder mehrere Benutzer oder Clienteinheiten ausführt. Werden Racks, Bladegehäuse oder ähnliche Bauteile verwendet, wird jede individuelle physische Einheit (z. B. ein Blade oder eine in einem Rack installierte Einheit), die aus den erforderlichen Komponenten besteht, als separater Server betrachtet. Ein virtueller Server ist entweder ein virtueller Computer, der durch Partitionierung der in einem physischen Server vorhandenen Ressourcen erstellt wird, oder ein nicht partitionierter physischer Server.
+
+"Nutzung durch Hauptprogramm" bedeutet, dass das Unterstützungsprogramm ausschließlich zur Nutzung durch das Hauptprogramm bereitgestellt wird. Weder der Lizenznehmer noch eine Anwendung, ein Programm oder eine Einheit sind berechtigt, direkt auf die Services des Unterstützungsprogramms zuzugreifen oder diese zu nutzen; ausgenommen von dieser Einschränkung ist der Zugriff auf das Unterstützungsprogramm zur Ausführung von Verwaltungsfunktionen für das Unterstützungsprogramm, wie Sicherung, Wiederherstellung und berechtigte Konfiguration.
+
+"API-Aufrufe pro Monat" ist eine Maßeinheit für die Lizenzierung des Unterstützungsprogramms. Ein API-Aufruf ist der Aufruf des Programms über eine programmierbare Schnittstelle. Es müssen ausreichende Berechtigungen erworben werden, um die maximale Anzahl an API-Aufrufen in einem Kalendermonat abzudecken.
+
+OS-Plattformen für mobile Geräte
+
+IBM hat Beispielanwendungen getestet, die mit den zum Lieferumfang des Programms gehörenden Tools für mobile Geräte ("Mobile Tools") erstellt wurden, um festzustellen, ob diese auf bestimmten Versionen von Betriebssystemplattformen für mobile Geräte von Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) und Google (Android) (gemeinsam "OS-Plattformen für mobile Geräte" genannt) ordnungsgemäß ausgeführt werden. Die OS-Plattformen für mobile Geräte werden jedoch von Drittherstellern angeboten, befinden sich nicht unter der Kontrolle von IBM und können ohne Mitteilung an IBM geändert werden. Aus diesem Grund und ungeachtet gegenteiliger Aussagen gewährleistet IBM nicht, dass mit den Mobile Tools erstellte Anwendungen oder sonstige damit erstellte Ausgaben auf Betriebssystemplattformen für mobile Geräte oder auf mobilen Endgeräten ordnungsgemäß ausgeführt werden, mit diesen zusammenarbeiten oder mit diesen kompatibel sind.
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+

@@ -1,0 +1,1 @@
+Add the WebSphere¨ eXtreme Scale client library when the IBM Data Cache service on Bluemixª is used as the attribute store for MobileFirst Server.

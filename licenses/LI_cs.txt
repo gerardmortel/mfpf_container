@@ -1,0 +1,328 @@
+POZNÁMKA
+
+Tento dokument obsahuje níže dokumenty Licenèní informace pro více Programù. V každém dokumentu Licenèní informace je uveden Program(y), k nìmuž(nimž) se daný dokument Licenèní informace vztahuje. Platné jsou pouze dokumenty Licenèní informace pro Program(y), k nimž si Držitel licence zakoupil oprávnìní.
+
+
+==============================================
+
+
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy (Z125-3301-14).
+
+Název Programu: IBM MobileFirst Platform Foundation V7.1
+Èíslo Programu: 5725-I43
+
+Název Programu: IBM MobileFirst Platform Foundation for iOS V7.1
+Èíslo Programu: 5725-I43
+
+Název Programu: IBM MobileFirst Platform Foundation - System Pattern V7.1
+Èíslo Programu: 5725-I43
+
+Jak je popsáno v Mezinárodní licenèní smlouvì IBM pro programy ("IPLA") a v tomto dokumentu Licenèní informace, IBM udìluje Držiteli licence omezené právo k užívání Programu. Toto právo je omezeno na úroveò Oprávnìného užívání, jako je napøíklad Hodnotová jednotka procesoru ("Jednotka PVU"), Hodnotová jednotka prostøedku ("Jednotka RVU"), Hodnotová jednotka ("Jednotka VU"), nebo na jinou specifickou úroveò užívání, za níž Držitel licence zaplatil, jak je doloženo Dokumentem o oprávnìní. Užívání Držitelem licence mùže být omezeno rovnìž na nìjaký specifikovaný stroj nebo na užívání pouze jako Podpùrného programu nebo v souladu s jinými omezeními. Jelikož Držitel licence nezaplatil za celou ekonomickou hodnotu Programu, není povoleno žádné jiné užívání, ledaže by byly zaplaceny dodateèné poplatky. Kromì toho není Držitel licence oprávnìn užívat Program k poskytování komerèních služeb v oblasti IT jakékoli tøetí stranì nebo k poskytování komerèního hostingu nebo služeb v oblasti sdílení èasu, ani není oprávnìn Program sublicencovat, pùjèovat nebo pronajímat, ledaže by to bylo výslovnì uvedeno v pøíslušných platných smlouvách, na jejichž základì získal Držitel licence oprávnìní k užívání Programu. Držitel licence mùže mít na základì úhrady dodateèných poplatkù nebo na základì odlišných èi dodateèných podmínek dodateèná práva. IBM si vyhrazuje právo stanovit, zda budou Držiteli licence taková dodateèná práva poskytnuta.
+
+Specifikace Programu naleznete ve souhrnných èláncích Popis a Technické informace, které jsou uvedeny v Oznamovacích letácích Programu.
+
+Multiproduktový instalaèní obraz
+
+Program je dodáván jako souèást multiproduktového instalaèního obrazu. Držitel licence je oprávnìn nainstalovat a používat pouze Program (a jeho pøíslušné Podpùrné programy, jsou-li), pro který získal platné oprávnìní; není oprávnìn instalovat nebo používat žádný jiný software, který je souèástí instalaèního obrazu, ledaže by si zakoupil samostatná oprávnìní pro takový jiný software.
+
+Podpùrné programy
+
+Program je licencován jako multiprogramový balík zahrnující níže identifikované Podpùrné programy. Držitel licence je oprávnìn nainstalovat a užívat tyto Podpùrné programy pouze k podpoøe užívání Základního programu Držitelem licence v souladu s touto Smlouvou a v rámci omezení stanovených dokumentem o oprávnìní (Proof of Entitlement), ledaže by na jiném místì v tomto dokumentu Licenèní informace byl stanoven širší rozsah práv. Formulace "k podpoøe užívání Držitelem licence" bude zahrnovat pouze takové zpùsoby užívání, které jsou nezbytné nebo jinak pøímo souvisejí s licencovaným užíváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být užívány k žádnému jinému úèelu. Držitel licence není oprávnìn Podpùrné programy pøevádìt nebo dále prodávat nezávisle na Základním programu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro užívání tohoto Podpùrného programu Držitelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Jestliže oprávnìní Držitele licence na užívání Programu skonèí, je Držitel licence povinen pøestat používat, znièit nebo bezodkladnì vrátit všechny kopie Podpùrných programù smluvní stranì, od níž získal Program. Jestliže Držitel licence stáhnul Podpùrné programy, je povinen kontaktovat smluvní stranu, od níž zakoupil Program. Jestliže chce Držitel licence Podpùrné programy licencovat pro jakékoli užívání pøesahující výše uvedené limity, musí se obrátit za úèelem poøízení pøíslušných licencí na Obchodního zástupce IBM nebo na smluvní stranu, od které Program získal.
+
+S Programem jsou licencovány následující Podpùrné programy:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Samostatnì licencovaný kód
+
+Podmínky tohoto odstavce se neaplikují v míøe, v níž jsou považována za neplatná nebo nevymahatelná na základì právních pøedpisù, jimiž se øídí tato licence. Každá z komponent uvedených níže je považována za "Samostatnì licencovaný kód". Licence na Samostatnì licencovaný kód IBM je udìlována Držiteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích stran, jak je uvedeno v souboru(ech) NON_IBM_LICENSE pøipojeném(ých) k Programu. Nestanoví-li tato Smlouva nebo jiná licenèní smlouva, kterou mùže Držitel licence uzavøít s IBM, jinak, øídí se jeho užívání veškerého Samostatnì licencovaného kódu podmínkami takové(vých) licenèní(ch) smlouvy (smluv) tøetích stran, pokud není níže uvedeno jinak.
+
+Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v jiném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. Držitel licence potvrzuje, že pøeèetl podmínky licenèní smlouvy obsažené v souboru(ech) NON_IBM_LICENSE a že s nimi souhlasí. Jestliže Držitel licence nesouhlasí s podmínkami tìchto licenèních smluv tøetích stran, nesmí užívat Samostatnì licencovaný kód.
+
+Pro Programy zakoupené na základì Mezinárodní licenèní smlouvy na programy ("IPLA") nebo Mezinárodní licenèní smlouvy pro programy bez záruky ("ILAN") a za pøedpokladu, že Držitel licence je pùvodním držitelem licence na Program, platí, že jestliže Držitel licence nesouhlasí s podmínkami licenèních smluv tøetích stran, mùže vrátit Program v souladu s podmínkami (a v rámci stanoveného èasového období) uvedenými v oddíle "Záruka vrácení penìz" ve smlouvì IBM IPLA nebo ILAN.
+
+Poznámka: Bez ohledu na jakékoliv podmínky licenèní smlouvy tøetí strany, této Smlouvy s IBM nebo jakékoliv jiné smlouvy, kterou mùžete mít s IBM uzavøenou:
+(a) IBM poskytuje Držiteli licence tento Samostatnì licencovaný kód BEZ ZÁRUK JAKÉHOKOLIV DRUHU;
+(b) IBM VYLUÈUJE VEŠKERÉ ZÁRUKY A PODMÍNKY VÝSLOVNÌ VYJÁDØENÉ A VYPLÝVAJÍCÍ Z OKOLNOSTÍ VÈETNÌ - A TO ZEJMÉNA - ZÁRUKY VLASTNICKÉHO NÁROKU, ZÁRUKY NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL, POKUD JDE O SAMOSTATNÌ LICENCOVANÝ KÓD;
+(c) IBM nenese vùèi Držiteli licence odpovìdnost, ani jej nebude hájit a neodškodní jej v souvislosti s jakýmikoli nároky na náhradu škody vztahujícími se k Samostatnì licencovanému kódu; a
+(d) IBM nenese odpovìdnost za žádné pøímé, nepøímé, nahodilé, zvláštní, exemplární škody ani za sankèní náhrady škody nebo za následné škody vèetnì - a to zejména - ztráty dat, ztráty úspor, ušlého zisku, v souvislosti se Samostatnì licencovaným kódem.
+
+Bez ohledu na tato vylouèení se záruka a odpovìdnost IBM za Samostatnì licencovaný kód øídí na území Nìmecka a Rakouska pouze pøíslušnými podmínkami platnými pro Nìmecko a Rakousko v licenèních smlouvách IBM.
+
+Poznámka: IBM mùže poskytnout omezenou podporu pro urèitý Samostatnì licencovaný kód. Je-li taková podpora dostupná, budou podrobné informace a dodateèné podmínky vztahující se k takové podpoøe stanoveny v dokumentu Licenèní informace.
+
+Níže je uveden Samostatnì licencovaný kód:
+Android Robot (graphic)
+android_device.png
+android.png
+
+Benchmarking
+
+Držitel licence je oprávnìn sdìlit výsledky testování Programu nebo jeho dílèích komponent libovolné tøetí stranì za pøedpokladu, že (A) Držitel licence veøejnì oznámí kompletní metodologii použitou pøi testování (napø. nastavení hardwaru a softwaru, postup instalace a konfiguraèní soubory), (B) provede testování pøi spouštìní Programu ve svém Urèeném provozním prostøedí a použije nejnovìjší aktualizace a opravy, které IBM nebo tøetí strany dodávající produkty IBM ("Tøetí strany") pro Program zpøístupnily, a (C) bude postupovat v souladu s veškerými pokyny pro ladìní výkonu a "osvìdèenými postupy", které jsou k dispozici v dokumentaci k Programu a na webových stránkách IBM týkajících se podpory Programu. Pokud Držitel licence zveøejní výsledky benchmarkových testù Programu, pak budou IBM nebo Tøetí strany, nestanoví-li podmínky smlouvy uzavøené mezi Držitelem licence a IBM nebo Tøetími stranami jinak, oprávnìny zveøejnit výsledky testování produktù Držitele licence, pøièemž IBM nebo Tøetí strany musí pøi testování produktù Držitele licence dodržet požadavky uvedené výše v bodech (A), (B) a (C).
+
+Bez ohledu na výše uvedené nesmí Držitel licence za žádných okolností zveøejnit výsledky benchmarkových testù technologie Outside In Technology bez pøedchozího písemného souhlasu.
+
+Výše uvedené podmínky týkající se testování se vztahují na níže uvedené Programy nebo jejich dílèí komponenty:
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program mùže obsahovat nìkteré komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály oznaèované jako Vzorové materiály. Držitel licence smí kopírovat a mìnit Komponenty ve zdrojovém kódu a Vzorové materiály pouze pro interní užívání a pouze pod podmínkou, že toto užívání bude v souladu s omezeními licenèních oprávnìní stanovenými touto Smlouvou. Držitel licence však nesmí mìnit ani odstraòovat žádné informace nebo výhrady týkající se autorských práv obsažené v Komponentách ve zdrojovém kódu nebo ve Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Aplikace
+
+Aplikace je mìrnou jednotkou, na jejímž základì mùže být Program licencován. Aplikace je softwarový program s jedineèným názvem, který lze samostatnì instalovat na výpoèetní zaøízení. Držitel licence musí získat dostateèný poèet oprávnìní pro Aplikaci, který bude pokrývat všechny Aplikace, jež zahrnují jakoukoli èást Programu, jež se pøipojují k Programu nebo jež jsou spravovány Programem.
+
+Podmínky specifické pro Program
+
+Podrobné informace o Podpùrných programech
+
+IBM WebSphere Application Server Liberty Core
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Workgroup Server Edition Version
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Enterprise Server Edition Version (pouze na zLinux)
+- Omezení užívání: Užívání Základním programem
+
+IBM Web Application Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 with BLU Acceleration Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Oprávnìní: Pomìr 1 Virtuální server / 1 Aplikace
+- Omezení užívání: Každý oprávnìný Virtuální server musí být nakonfigurován v samostatném režimu; Držitel licence nesmí na podporu Hlavního programu seskupit více Virtuálních serverù. Pro podporu klastrované konfigurace je tøeba zakoupit oddìlená oprávnìní pro Virtuální servery.
+
+IBM API Connect Essentials
+- Oprávnìní: Pomìr 50 000 Volání API mìsíènì / 1 Aplikace
+
+"Pomìr n/m" znamená, že Držitel licence dostává urèitý poèet ("n") oprávnìní k Podpùrnému programu pro urèitý stanovený poèet ("m") oprávnìní k Základnímu programu jako celku. Není-li stanoveno jinak, zaokrouhluje se poèet oprávnìní k Podpùrnému programu na násobek èísla "n". Pokud napøíklad Program zahrnuje 100 jednotek PVU k Podpùrnému programu pro každých 500 jednotek PVU získaných k Základnímu programu a Držitel licence si zakoupí 1 200 jednotek PVU k Programu, mùže nainstalovat Podpùrný program a mít procesorová jádra dostupná pro tento Program nebo spravovaná tímto Programem až do výše 300 jednotek PVU. Tyto jednotky PVU by se nemusely zapoèítávat jako souèást celkového poètu jednotek PVU požadovaného pro instalaci Programu Držitelem licence v souvislosti s instalací Podpùrného programu (aèkoliv mùže být nutné jednotky PVU zapoèítat z jiných dùvodù, jako napøíklad proto, že jsou procesorová jádra dostupná rovnìž pro Základní program).
+
+"Virtuální server" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí požadované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik uživatelù nebo klientských zaøízení. V pøípadech, kdy jsou využívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je každé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující požadované komponenty považováno za samostatný server. "Virtuální server" je buï virtuální poèítaè vytvoøený prostøednictvím funkce pro rozdìlení funkce pro rozdìlení serveru na logické oddíly, nebo nerozdìlený fyzický server.
+
+"Užívání Základním programem" znamená, že Podpùrný program je dodáván výhradnì pro užívání Základním programem. Ani Držitel licence, ani žádná aplikace, program nebo zaøízení nejsou oprávnìni pøímo užívat služby Podpùrného programu nebo k nim pøistupovat. Výjimku tvoøí pøípad, kdy Držitel licence mùže pøistupovat k Podpùrnému programu za úèelem provádìní administraèních funkcí, jako je napøíklad zálohování, obnova a oprávnìná konfigurace.
+
+"Poèet Volání API mìsíènì" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Volání API je vyvolání Programu prostøednictvím programovatelného rozhraní. Je nutno získat dostateèný poèet oprávnìní k pokrytí maximálního poètu Volání API v jakémkoli kalendáøním mìsíci.
+
+Mobilní operaèní systémy (OS)
+
+IBM testovala vzorové aplikace vytvoøené pomocí mobilních nástrojù, které jsou k dispozici v rámci Programu ("Mobilní nástroje"), s cílem stanovit, zda budou øádnì fungovat na urèitých verzích mobilních operaèních systémù od Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) a Google (Android) (souhrnnì "Mobilní OS platformy"). Mobilní OS platformy jsou však poskytovány tøetími stranami, což znamená, že nejsou pod kontrolou IBM a podléhají zmìnì, aniž by IBM musela být o zmìnì informována. Proto, bez ohledu na ustanovení opaèného významu, IBM nezaruèuje, že jakékoli aplikace nebo jiné výstupy vytvoøené pomocí Mobilních nástrojù budou øádnì fungovat na jakýchkoli Mobilních OS platformách nebo mobilních zaøízeních nebo že s nimi budou spolupracovat nebo s nimi budou kompatibilní.
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy (Z125-3301-14).
+
+Název Programu: IBM MobileFirst Platform Foundation - Enterprise V7.1
+Èíslo Programu: 5725-I43
+
+Jak je popsáno v Mezinárodní licenèní smlouvì IBM pro programy ("IPLA") a v tomto dokumentu Licenèní informace, IBM udìluje Držiteli licence omezené právo k užívání Programu. Toto právo je omezeno na úroveò Oprávnìného užívání, jako je napøíklad Hodnotová jednotka procesoru ("Jednotka PVU"), Hodnotová jednotka prostøedku ("Jednotka RVU"), Hodnotová jednotka ("Jednotka VU"), nebo na jinou specifickou úroveò užívání, za níž Držitel licence zaplatil, jak je doloženo Dokumentem o oprávnìní. Užívání Držitelem licence mùže být omezeno rovnìž na nìjaký specifikovaný stroj nebo na užívání pouze jako Podpùrného programu nebo v souladu s jinými omezeními. Jelikož Držitel licence nezaplatil za celou ekonomickou hodnotu Programu, není povoleno žádné jiné užívání, ledaže by byly zaplaceny dodateèné poplatky. Kromì toho není Držitel licence oprávnìn užívat Program k poskytování komerèních služeb v oblasti IT jakékoli tøetí stranì nebo k poskytování komerèního hostingu nebo služeb v oblasti sdílení èasu, ani není oprávnìn Program sublicencovat, pùjèovat nebo pronajímat, ledaže by to bylo výslovnì uvedeno v pøíslušných platných smlouvách, na jejichž základì získal Držitel licence oprávnìní k užívání Programu. Držitel licence mùže mít na základì úhrady dodateèných poplatkù nebo na základì odlišných èi dodateèných podmínek dodateèná práva. IBM si vyhrazuje právo stanovit, zda budou Držiteli licence taková dodateèná práva poskytnuta.
+
+Specifikace Programu naleznete ve souhrnných èláncích Popis a Technické informace, které jsou uvedeny v Oznamovacích letácích Programu.
+
+Multiproduktový instalaèní obraz
+
+Program je dodáván jako souèást multiproduktového instalaèního obrazu. Držitel licence je oprávnìn nainstalovat a používat pouze Program (a jeho pøíslušné Podpùrné programy, jsou-li), pro který získal platné oprávnìní; není oprávnìn instalovat nebo používat žádný jiný software, který je souèástí instalaèního obrazu, ledaže by si zakoupil samostatná oprávnìní pro takový jiný software.
+
+Podpùrné programy
+
+Program je licencován jako multiprogramový balík zahrnující níže identifikované Podpùrné programy. Držitel licence je oprávnìn nainstalovat a užívat tyto Podpùrné programy pouze k podpoøe užívání Základního programu Držitelem licence v souladu s touto Smlouvou a v rámci omezení stanovených dokumentem o oprávnìní (Proof of Entitlement), ledaže by na jiném místì v tomto dokumentu Licenèní informace byl stanoven širší rozsah práv. Formulace "k podpoøe užívání Držitelem licence" bude zahrnovat pouze takové zpùsoby užívání, které jsou nezbytné nebo jinak pøímo souvisejí s licencovaným užíváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být užívány k žádnému jinému úèelu. Držitel licence není oprávnìn Podpùrné programy pøevádìt nebo dále prodávat nezávisle na Základním programu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro užívání tohoto Podpùrného programu Držitelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Jestliže oprávnìní Držitele licence na užívání Programu skonèí, je Držitel licence povinen pøestat používat, znièit nebo bezodkladnì vrátit všechny kopie Podpùrných programù smluvní stranì, od níž získal Program. Jestliže Držitel licence stáhnul Podpùrné programy, je povinen kontaktovat smluvní stranu, od níž zakoupil Program. Jestliže chce Držitel licence Podpùrné programy licencovat pro jakékoli užívání pøesahující výše uvedené limity, musí se obrátit za úèelem poøízení pøíslušných licencí na Obchodního zástupce IBM nebo na smluvní stranu, od které Program získal.
+
+S Programem jsou licencovány následující Podpùrné programy:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Benchmarking
+
+Držitel licence je oprávnìn sdìlit výsledky testování Programu nebo jeho dílèích komponent libovolné tøetí stranì za pøedpokladu, že (A) Držitel licence veøejnì oznámí kompletní metodologii použitou pøi testování (napø. nastavení hardwaru a softwaru, postup instalace a konfiguraèní soubory), (B) provede testování pøi spouštìní Programu ve svém Urèeném provozním prostøedí a použije nejnovìjší aktualizace a opravy, které IBM nebo tøetí strany dodávající produkty IBM ("Tøetí strany") pro Program zpøístupnily, a (C) bude postupovat v souladu s veškerými pokyny pro ladìní výkonu a "osvìdèenými postupy", které jsou k dispozici v dokumentaci k Programu a na webových stránkách IBM týkajících se podpory Programu. Pokud Držitel licence zveøejní výsledky benchmarkových testù Programu, pak budou IBM nebo Tøetí strany, nestanoví-li podmínky smlouvy uzavøené mezi Držitelem licence a IBM nebo Tøetími stranami jinak, oprávnìny zveøejnit výsledky testování produktù Držitele licence, pøièemž IBM nebo Tøetí strany musí pøi testování produktù Držitele licence dodržet požadavky uvedené výše v bodech (A), (B) a (C).
+
+Bez ohledu na výše uvedené nesmí Držitel licence za žádných okolností zveøejnit výsledky benchmarkových testù technologie Outside In Technology bez pøedchozího písemného souhlasu.
+
+Výše uvedené podmínky týkající se testování se vztahují na níže uvedené Programy nebo jejich dílèí komponenty:
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program mùže obsahovat nìkteré komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály oznaèované jako Vzorové materiály. Držitel licence smí kopírovat a mìnit Komponenty ve zdrojovém kódu a Vzorové materiály pouze pro interní užívání a pouze pod podmínkou, že toto užívání bude v souladu s omezeními licenèních oprávnìní stanovenými touto Smlouvou. Držitel licence však nesmí mìnit ani odstraòovat žádné informace nebo výhrady týkající se autorských práv obsažené v Komponentách ve zdrojovém kódu nebo ve Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Všeobecné podmínky pro úètování poplatkù
+
+Adresovatelné zaøízení je mìrnou jednotkou, prostøednictvím níž mùže být Program licencován. Adresovatelné zaøízení je zaøízení, na kterém je nainstalována aplikace adresovatelná Programem. Každá instalace aplikace, která je adresovatelná Programem, se poèítá jako samostatné Adresovatelné zaøízení. Držitel licence je povinen získat dostateèný poèet oprávnìní pokrývající maximální poèet Adresovatelných zaøízení v kalendáøním mìsíci.
+
+
+
+Podmínky specifické pro Program
+
+Podrobné informace o Podpùrných programech
+
+IBM WebSphere Application Server Liberty Core
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Workgroup Server Edition Version
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Enterprise Server Edition Version (pouze na zLinux)
+- Omezení užívání: Užívání Základním programem
+
+IBM Web Application Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 with BLU Acceleration Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Oprávnìní: Pomìr 1 Virtuální server / 3600 Adresovatelných zaøízení 
+- Omezení užívání: Každý oprávnìný Virtuální server musí být nakonfigurován v samostatném režimu; Držitel licence nesmí na podporu Hlavního programu seskupit více Virtuálních serverù. Pro podporu klastrované konfigurace je tøeba zakoupit oddìlená oprávnìní pro Virtuální servery.
+
+IBM API Connect Essentials
+- Oprávnìní: Pomìr 50 000 Volání API mìsíènì / 200 Adresovatelných zaøízení
+
+"Pomìr n/m" znamená, že Držitel licence dostává urèitý poèet ("n") oprávnìní k Podpùrnému programu pro urèitý stanovený poèet ("m") oprávnìní k Základnímu programu jako celku. Není-li stanoveno jinak, zaokrouhluje se poèet oprávnìní k Podpùrnému programu na násobek èísla "n". Pokud napøíklad Program zahrnuje 100 jednotek PVU k Podpùrnému programu pro každých 500 jednotek PVU získaných k Základnímu programu a Držitel licence si zakoupí 1 200 jednotek PVU k Programu, mùže nainstalovat Podpùrný program a mít procesorová jádra dostupná pro tento Program nebo spravovaná tímto Programem až do výše 300 jednotek PVU. Tyto jednotky PVU by se nemusely zapoèítávat jako souèást celkového poètu jednotek PVU požadovaného pro instalaci Programu Držitelem licence v souvislosti s instalací Podpùrného programu (aèkoliv mùže být nutné jednotky PVU zapoèítat z jiných dùvodù, jako napøíklad proto, že jsou procesorová jádra dostupná rovnìž pro Základní program).
+
+"Užívání Základním programem" znamená, že Podpùrný program je dodáván výhradnì pro užívání Programem. Ani Držitel licence, ani žádná aplikace, program nebo zaøízení nejsou oprávnìni pøímo užívat služby Podpùrného programu nebo k nim pøistupovat. Výjimku tvoøí pøípad, kdy Držitel licence mùže pøistupovat k Podpùrnému programu za úèelem provádìní administraèních funkcí, jako je napøíklad zálohování, obnova a oprávnìná konfigurace.
+
+"Virtuální server" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí požadované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik uživatelù nebo klientských zaøízení. V pøípadech, kdy jsou využívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je každé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující požadované komponenty považováno za samostatný server. "Virtuální server" je buï virtuální poèítaè vytvoøený prostøednictvím funkce pro rozdìlení funkce pro rozdìlení serveru na logické oddíly, nebo nerozdìlený fyzický server.
+
+"Poèet Volání API mìsíènì" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Volání API je vyvolání Programu prostøednictvím programovatelného rozhraní. Je nutno získat dostateèný poèet oprávnìní k pokrytí maximálního poètu Volání API v jakémkoli kalendáøním mìsíci.
+
+Mobilní operaèní systémy (OS)
+
+IBM testovala vzorové aplikace vytvoøené pomocí mobilních nástrojù, které jsou k dispozici v rámci Programu ("Mobilní nástroje"), s cílem stanovit, zda budou øádnì fungovat na urèitých verzích mobilních operaèních systémù od Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) a Google (Android) (souhrnnì "Mobilní OS platformy"). Mobilní OS platformy jsou však poskytovány tøetími stranami, což znamená, že nejsou pod kontrolou IBM a podléhají zmìnì, aniž by IBM musela být o zmìnì informována. Proto, bez ohledu na ustanovení opaèného významu, IBM nezaruèuje, že jakékoli aplikace nebo jiné výstupy vytvoøené pomocí Mobilních nástrojù budou øádnì fungovat na jakýchkoli Mobilních OS platformách nebo mobilních zaøízeních nebo že s nimi budou spolupracovat nebo s nimi budou kompatibilní.
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy (Z125-3301-14).
+
+Název Programu: IBM MobileFirst Platform Foundation - Consumer V7.1
+Èíslo Programu: 5725-I43
+
+Jak je popsáno v Mezinárodní licenèní smlouvì IBM pro programy ("IPLA") a v tomto dokumentu Licenèní informace, IBM udìluje Držiteli licence omezené právo k užívání Programu. Toto právo je omezeno na úroveò Oprávnìného užívání, jako je napøíklad Hodnotová jednotka procesoru ("Jednotka PVU"), Hodnotová jednotka prostøedku ("Jednotka RVU"), Hodnotová jednotka ("Jednotka VU"), nebo na jinou specifickou úroveò užívání, za níž Držitel licence zaplatil, jak je doloženo Dokumentem o oprávnìní. Užívání Držitelem licence mùže být omezeno rovnìž na nìjaký specifikovaný stroj nebo na užívání pouze jako Podpùrného programu nebo v souladu s jinými omezeními. Jelikož Držitel licence nezaplatil za celou ekonomickou hodnotu Programu, není povoleno žádné jiné užívání, ledaže by byly zaplaceny dodateèné poplatky. Kromì toho není Držitel licence oprávnìn užívat Program k poskytování komerèních služeb v oblasti IT jakékoli tøetí stranì nebo k poskytování komerèního hostingu nebo služeb v oblasti sdílení èasu, ani není oprávnìn Program sublicencovat, pùjèovat nebo pronajímat, ledaže by to bylo výslovnì uvedeno v pøíslušných platných smlouvách, na jejichž základì získal Držitel licence oprávnìní k užívání Programu. Držitel licence mùže mít na základì úhrady dodateèných poplatkù nebo na základì odlišných èi dodateèných podmínek dodateèná práva. IBM si vyhrazuje právo stanovit, zda budou Držiteli licence taková dodateèná práva poskytnuta.
+
+Specifikace Programu naleznete ve souhrnných èláncích Popis a Technické informace, které jsou uvedeny v Oznamovacích letácích Programu.
+
+Multiproduktový instalaèní obraz
+
+Program je dodáván jako souèást multiproduktového instalaèního obrazu. Držitel licence je oprávnìn nainstalovat a používat pouze Program (a jeho pøíslušné Podpùrné programy, jsou-li), pro který získal platné oprávnìní; není oprávnìn instalovat nebo používat žádný jiný software, který je souèástí instalaèního obrazu, ledaže by si zakoupil samostatná oprávnìní pro takový jiný software.
+
+Podpùrné programy
+
+Program je licencován jako multiprogramový balík zahrnující níže identifikované Podpùrné programy. Držitel licence je oprávnìn nainstalovat a užívat tyto Podpùrné programy pouze k podpoøe užívání Základního programu Držitelem licence v souladu s touto Smlouvou a v rámci omezení stanovených dokumentem o oprávnìní (Proof of Entitlement), ledaže by na jiném místì v tomto dokumentu Licenèní informace byl stanoven širší rozsah práv. Formulace "k podpoøe užívání Držitelem licence" bude zahrnovat pouze takové zpùsoby užívání, které jsou nezbytné nebo jinak pøímo souvisejí s licencovaným užíváním Základního programu nebo jiného Podpùrného programu. Podpùrné programy nesmí být užívány k žádnému jinému úèelu. Držitel licence není oprávnìn Podpùrné programy pøevádìt nebo dále prodávat nezávisle na Základním programu. K Podpùrnému programu mohou být pøipojeny licenèní podmínky. Tyto podmínky (pokud existují) platí pro užívání tohoto Podpùrného programu Držitelem licence. V pøípadì rozporu podmínek mají pøednost podmínky uvedené v tomto dokumentu Licenèní informace pøed podmínkami Podpùrného programu. Jestliže oprávnìní Držitele licence na užívání Programu skonèí, je Držitel licence povinen pøestat používat, znièit nebo bezodkladnì vrátit všechny kopie Podpùrných programù smluvní stranì, od níž získal Program. Jestliže Držitel licence stáhnul Podpùrné programy, je povinen kontaktovat smluvní stranu, od níž zakoupil Program. Jestliže chce Držitel licence Podpùrné programy licencovat pro jakékoli užívání pøesahující výše uvedené limity, musí se obrátit za úèelem poøízení pøíslušných licencí na Obchodního zástupce IBM nebo na smluvní stranu, od které Program získal.
+
+S Programem jsou licencovány následující Podpùrné programy:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Benchmarking
+
+Držitel licence je oprávnìn sdìlit výsledky testování Programu nebo jeho dílèích komponent libovolné tøetí stranì za pøedpokladu, že (A) Držitel licence veøejnì oznámí kompletní metodologii použitou pøi testování (napø. nastavení hardwaru a softwaru, postup instalace a konfiguraèní soubory), (B) provede testování pøi spouštìní Programu ve svém Urèeném provozním prostøedí a použije nejnovìjší aktualizace a opravy, které IBM nebo tøetí strany dodávající produkty IBM ("Tøetí strany") pro Program zpøístupnily, a (C) bude postupovat v souladu s veškerými pokyny pro ladìní výkonu a "osvìdèenými postupy", které jsou k dispozici v dokumentaci k Programu a na webových stránkách IBM týkajících se podpory Programu. Pokud Držitel licence zveøejní výsledky benchmarkových testù Programu, pak budou IBM nebo Tøetí strany, nestanoví-li podmínky smlouvy uzavøené mezi Držitelem licence a IBM nebo Tøetími stranami jinak, oprávnìny zveøejnit výsledky testování produktù Držitele licence, pøièemž IBM nebo Tøetí strany musí pøi testování produktù Držitele licence dodržet požadavky uvedené výše v bodech (A), (B) a (C).
+
+Bez ohledu na výše uvedené nesmí Držitel licence za žádných okolností zveøejnit výsledky benchmarkových testù technologie Outside In Technology bez pøedchozího písemného souhlasu.
+
+Výše uvedené podmínky týkající se testování se vztahují na níže uvedené Programy nebo jejich dílèí komponenty:
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program mùže obsahovat nìkteré komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály oznaèované jako Vzorové materiály. Držitel licence smí kopírovat a mìnit Komponenty ve zdrojovém kódu a Vzorové materiály pouze pro interní užívání a pouze pod podmínkou, že toto užívání bude v souladu s omezeními licenèních oprávnìní stanovenými touto Smlouvou. Držitel licence však nesmí mìnit ani odstraòovat žádné informace nebo výhrady týkající se autorských práv obsažené v Komponentách ve zdrojovém kódu nebo ve Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+Všeobecné podmínky pro úètování poplatkù
+
+Tisíc adresovatelných zaøízení je mìrnou jednotkou, prostøednictvím níž mùže být Program licencován. Adresovatelné zaøízení je zaøízení, na kterém je nainstalována aplikace adresovatelná Programem. Každá instalace aplikace, která je adresovatelná Programem, se poèítá jako samostatné Adresovatelné zaøízení. Každé oprávnìní pro Tisíc adresovatelných zaøízení pøedstavuje jeden Tisíc adresovatelných zaøízení. Držitel licence je povinen získat dostateèný poèet oprávnìní pokrývající maximální poèet Adresovatelných zaøízení v kalendáøním mìsíci.
+
+
+Podmínky specifické pro Program
+
+Zamìstnancùm Držitele licence je zakázáno používat Adresovatelná zaøízení programu IBM MobileFirst Platform Foundation Consumer.
+
+Zamìstnancem je osoba najatá za mzdu, periodickou nebo hodinovou sazbu, poplatek èi platbu k provádìní práce pro Držitele licence, nebo jakýkoli subjekt, kterému Držitel licence v souladu s touto licencí mùže poskytnout oprávnìní používat software na základì této licence. 
+
+Podrobné informace o Podpùrných programech
+
+IBM WebSphere Application Server Liberty Core
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Workgroup Server Edition
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 Enterprise Server Edition (on zLinux only)
+- Omezení užívání: Užívání Základním programem
+
+IBM Web Application Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM DB2 with BLU Acceleration Pattern
+- Omezení užívání: Užívání Základním programem
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Oprávnìní: Pomìr 1 Virtuální server / 150 tisíc Adresovatelných zaøízení
+- Omezení užívání: Každý oprávnìný Virtuální server musí být nakonfigurován v samostatném režimu; Držitel licence nesmí na podporu Hlavního programu seskupit více Virtuálních serverù. Pro podporu klastrované konfigurace je tøeba zakoupit oddìlená oprávnìní pro Virtuální servery.
+
+IBM API Connect Essentials
+- Oprávnìní: Pomìr 50 000 Volání API mìsíènì / 10 000 Adresovatelných zaøízení
+
+"Pomìr n/m" znamená, že Držitel licence dostává urèitý poèet ("n") oprávnìní k Podpùrnému programu pro urèitý stanovený poèet ("m") oprávnìní k Základnímu programu jako celku. Není-li stanoveno jinak, zaokrouhluje se poèet oprávnìní k Podpùrnému programu na násobek èísla "n". Pokud napøíklad Program zahrnuje 100 jednotek PVU k Podpùrnému programu pro každých 500 jednotek PVU získaných k Základnímu programu a Držitel licence si zakoupí 1 200 jednotek PVU k Programu, mùže nainstalovat Podpùrný program a mít procesorová jádra dostupná pro tento Program nebo spravovaná tímto Programem až do výše 300 jednotek PVU. Tyto jednotky PVU by se nemusely zapoèítávat jako souèást celkového poètu jednotek PVU požadovaného pro instalaci Programu Držitelem licence v souvislosti s instalací Podpùrného programu (aèkoliv mùže být nutné jednotky PVU zapoèítat z jiných dùvodù, jako napøíklad proto, že jsou procesorová jádra dostupná rovnìž pro Základní program).
+
+"Virtuální server" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Server je fyzický poèítaè, který se skládá z procesních jednotek, pamìti a funkcí vstupu a výstupu a který provádí požadované procedury, pøíkazy nebo aplikace pro jednoho èi nìkolik uživatelù nebo klientských zaøízení. V pøípadech, kdy jsou využívány stojany (rack), skøínì pro servery typu "blade" anebo jiné podobné vybavení, je každé samostatné fyzické zaøízení (napøíklad blade server nebo zaøízení montované do stojanu (rack)) obsahující požadované komponenty považováno za samostatný server. "Virtuální server" je buï virtuální poèítaè vytvoøený prostøednictvím funkce pro rozdìlení funkce pro rozdìlení serveru na logické oddíly, nebo nerozdìlený fyzický server.
+
+"Užívání Základním programem" znamená, že Podpùrný program je dodáván výhradnì pro užívání Základním programem. Ani Držitel licence, ani žádná aplikace, program nebo zaøízení nejsou oprávnìni pøímo užívat služby Podpùrného programu nebo k nim pøistupovat. Výjimku tvoøí pøípad, kdy Držitel licence mùže pøistupovat k Podpùrnému programu za úèelem provádìní administraèních funkcí, jako je napøíklad zálohování, obnova a oprávnìná konfigurace.
+
+"Poèet Volání API mìsíènì" je mìrnou jednotkou, na jejímž základì mùže být Podpùrný program licencován. Volání API je vyvolání Programu prostøednictvím programovatelného rozhraní. Je nutno získat dostateèný poèet oprávnìní k pokrytí maximálního poètu Volání API v jakémkoli kalendáøním mìsíci.
+
+Mobilní operaèní systémy (OS)
+
+IBM testovala vzorové aplikace vytvoøené pomocí mobilních nástrojù, které jsou k dispozici v rámci Programu ("Mobilní nástroje"), s cílem stanovit, zda budou øádnì fungovat na urèitých verzích mobilních operaèních systémù od Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) a Google (Android) (souhrnnì "Mobilní OS platformy"). Mobilní OS platformy jsou však poskytovány tøetími stranami, což znamená, že nejsou pod kontrolou IBM a podléhají zmìnì, aniž by IBM musela být o zmìnì informována. Proto, bez ohledu na ustanovení opaèného významu, IBM nezaruèuje, že jakékoli aplikace nebo jiné výstupy vytvoøené pomocí Mobilních nástrojù budou øádnì fungovat na jakýchkoli Mobilních OS platformách nebo mobilních zaøízeních nebo že s nimi budou spolupracovat nebo s nimi budou kompatibilní.
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+

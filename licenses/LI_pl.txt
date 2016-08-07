@@ -1,0 +1,327 @@
+UWAGA
+
+Niniejszy dokument zawiera dokumenty "Informacje licencyjne" (za≥πczone poniøej) dla wielu ProgramÛw. Kaødy dokument "Informacje licencyjne" identyfikuje Program (jeden lub wiÍcej), do ktÛrego ma zastosowanie. Obowiπzujπ dokumenty "Informacje licencyjne" jedynie dla Programu (jednego lub wiÍcej), dla ktÛrego Licencjobiorca naby≥ uprawnienia.
+
+
+==============================================
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Program (Z125-3301-14).
+
+Nazwa Programu: IBM MobileFirst Platform Foundation V7.1
+Numer Programu: 5725-I43
+
+Nazwa Programu: IBM MobileFirst Platform Foundation for iOS V7.1
+Numer Programu: 5725-I43
+
+Nazwa Programu: IBM MobileFirst Platform Foundation - System Pattern V7.1
+Numer Programu: 5725-I43
+
+Zgodnie z MiÍdzynarodowπ Umowπ Licencyjnπ na Program ("IPLA") i niniejszym dokumentem Informacje licencyjne IBM udziela Licencjobiorcy ograniczonego prawa do uøywania Programu. Prawo to jest ograniczone do poziomu Autoryzowanego Uøywania, takiego jak Procesorowa Jednostka Wartoúci ("PVU"), Jednostka Wartoúci ZasobÛw ("RVU"), Jednostka Wartoúci ("VU") lub inny okreúlony poziom uøywania, op≥acony przez LicencjobiorcÍ i potwierdzony dokumentem Proof of Entitlement (PoE). Uøywanie Programu przez LicencjobiorcÍ moøe byÊ rÛwnieø ograniczone do okreúlonej maszyny, moøe podlegaÊ innym ograniczeniom lub moøe obejmowaÊ uøywanie Programu wy≥πcznie jako Programu Wspierajπcego. Jako øe Licencjobiorca nie zap≥aci≥ za ca≥π wartoúÊ ekonomicznπ Programu, uøywanie Programu w dowolnym innym celu bez uiszczenia dodatkowych op≥at jest zabronione. Ponadto Licencjobiorca nie jest upowaøniony do uøywania Programu do úwiadczenia osobom trzecim komercyjnych us≥ug informatycznych, us≥ug serwerowych ani us≥ug podzia≥u czasu, jak rÛwnieø nie jest upowaøniony do udzielania dalszych licencji na Program oraz wypoøyczania i wydzierøawiania Programu, chyba øe stosowne umowy, na mocy ktÛrych Licencjobiorca jest upowaøniony do uøywania Programu, wyraünie stanowiπ inaczej. Licencjobiorca moøe uzyskaÊ dodatkowe prawa pod warunkiem uiszczenia dodatkowych op≥at lub na mocy innych bπdü uzupe≥niajπcych warunkÛw. IBM zastrzega sobie prawo do decydowania, czy takie dodatkowe prawa zostanπ przyznane Licencjobiorcy.
+
+Specyfikacje Programu znajdujπ siÍ w zbiorczych punktach zawierajπcych opisy i informacje techniczne w dokumentach "Aktualnoúci produktowe" dotyczπcych Programu.
+
+Obraz instalacyjny obejmujπcy wiele produktÛw
+
+Program jest dostarczany jako czÍúÊ obrazu instalacyjnego obejmujπcego wiele produktÛw. Licencjobiorca jest upowaøniony do zainstalowania i uøywania tylko Programu (wraz z ewentualnymi Programami Wspierajπcymi), dla ktÛrego uzyska≥ uprawnienia, nie moøe natomiast instalowaÊ ani uøywaÊ innego oprogramowania zawartego w obrazie, chyba øe naby≥ odrÍbne uprawnienia do takiego oprogramowania.
+
+Programy Wspierajπce
+
+Program jest licencjonowany w postaci pakietu wieloproduktowego, zawierajπcego Programy Wspierajπce okreúlone poniøej. Licencjobiorca jest upowaøniony do zainstalowania i uøywania takich ProgramÛw Wspierajπcych jedynie w celu umoøliwienia Licencjobiorcy uøywania Programu G≥Ûwnego na mocy niniejszej Umowy i w zakresie ograniczeÒ nak≥adanych przez dokumenty Proof of Entitlement dla Programu (chyba øe w innej czÍúci niniejszego dokumentu "Informacje Licencyjne" oferowane sπ szersze uprawnienia). Fraza "w celu umoøliwienia Licencjobiorcy uøywania" obejmuje jedynie te zastosowania, ktÛre sπ niezbÍdne do licencjonowanego uøywania Programu G≥Ûwnego lub innego Programu Wspierajπcego albo bezpoúrednio zwiπzane z takim licencjonowanym uøywaniem. ProgramÛw Wspierajπcych nie moøna wykorzystywaÊ do jakichkolwiek innych celÛw. Licencjobiorca nie jest upowaøniony do przenoszenia ani odsprzedaøy ProgramÛw Wspierajπcych oddzielnie od Programu G≥Ûwnego. Do Programu Wspierajπcego mogπ byÊ do≥πczone warunki licencji. W takim przypadku warunki te majπ zastosowanie do uøywania takiego Programu Wspierajπcego przez LicencjobiorcÍ. W przypadku sprzecznoúci miÍdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspierajπcego znaczenie rozstrzygajπce majπ warunki niniejszych Informacji licencyjnych. Kiedy prawo Licencjobiorcy do korzystania z Programu wygaúnie lub zostanie mu wypowiedziane, Licencjobiorca musi zaprzestaÊ korzystania z ProgramÛw Wspierajπcych oraz zniszczyÊ lub niezw≥ocznie zwrÛciÊ wszystkie ich egzemplarze do strony, od ktÛrej Licencjobiorca naby≥ Program. Jeúli Licencjobiorca pobra≥ Programy Wspierajπce, powinien skontaktowaÊ siÍ ze stronπ, od ktÛrej naby≥ Program. Jeúli Licencjobiorca zamierza licencjonowaÊ Programy Wspierajπce w celu uøywania nieobjÍtego ograniczeniami wyszczegÛlnionymi powyøej, powinien skontaktowaÊ siÍ z przedstawicielem handlowym IBM lub z podmiotem, od ktÛrego naby≥ Program, w celu uzyskania odpowiedniej licencji.
+
+Poniøej wymieniono Programy Wspierajπce licencjonowane z Programem:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Kod Licencjonowany Oddzielnie
+
+Postanowienia niniejszego akapitu nie majπ zastosowania w zakresie, w jakim sπ niewaøne lub niewykonalne na mocy prawa, ktÛremu podlega niniejsza licencja. Kaødy z wymienionych poniøej komponentÛw uznawany jest za "Kod Licencjonowany Oddzielnie". Kod Licencjonowany Oddzielnie IBM jest licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umÛw licencyjnych osÛb trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do≥πczonym (do≥πczonych) do Programu. Bez wzglÍdu na jakiekolwiek inne warunki Umowy lub jakiejkolwiek innej umowy z IBM, uøywanie ca≥ego Kodu Licencjonowanego Oddzielnie podlega warunkom takiej umowy licencyjnej osoby trzeciej (takich umÛw licencyjnych osÛb trzecich), chyba øe poniøsze warunki stanowiπ inaczej.
+
+Przysz≥e aktualizacje lub poprawki do Programu mogπ zawieraÊ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwiπzane z nimi licencje sπ wymienione w kolejnym pliku NON_IBM_LICENSE do≥πczonym do aktualizacji lub poprawki do Programu. Licencjobiorca potwierdza, øe zapozna≥ siÍ z treúciπ umÛw licencyjnych zawartych w pliku lub plikach NON_IBM_LICENSE i wyrazi≥ na nie zgodÍ. Jeúli Licencjobiorca nie wyrazi zgody na warunki tych umÛw licencyjnych osÛb trzecich, wÛwczas nie bÍdzie mÛg≥ uøywaÊ Kodu Licencjonowanego Oddzielnie.
+
+W przypadku ProgramÛw nabytych na warunkach MiÍdzynarodowej Umowy Licencyjnej na Program (International Program License Agreement, zwanej dalej "IPLA") lub MiÍdzynarodowej Umowy Licencyjnej na Programy nieobjÍte Gwarancjπ (International Program License Agreement for Non Warranted Program, zwanej dalej "ILAN"), jeúli Licencjobiorca nie wyrazi zgody na umowy licencyjne osÛb trzecich, wÛwczas moøe zwrÛciÊ Program zgodnie z warunkami paragrafu "Gwarancja zwrotu pieniÍdzy" umowy z IBM (IPLA lub ILAN), z uwzglÍdnieniem okreúlonych tam ram czasowych.
+
+Uwaga: Bez wzglÍdu na jakiekolwiek warunki umÛw licencyjnych z osobami trzecimi, niniejszej Umowy czy teø jakiejkolwiek innej umowy, jakπ Licencjobiorca mÛg≥ zawrzeÊ z IBM:
+(a) IBM dostarcza Licencjobiorcy niniejszy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI);
+(b) IBM NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI) I NIE USTALA JAKICHKOLWIEK WARUNK”W, WYRAèNYCH CZY DOMNIEMANYCH, A W SZCZEG”LNOåCI NIE UDZIELA GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH LUB NIEINGEROWANIA W NIE, DOMNIEMANYCH GWARANCJI I WARUNK”W PRZYDATNOåCI HANDLOWEJ ANI TEØ PRZYDATNOåCI DO OKREåLONEGO CELU W ODNIESIENIU DO KOMPONENT”W KODU LICENCJONOWANEGO ODDZIELNIE;
+(c) IBM nie ponosi wobec Licencjobiorcy odpowiedzialnoúci za jakiekolwiek roszczenia wynikajπce z uøywania Kodu Licencjonowanego Oddzielnie lub z nim zwiπzane ani teø nie bÍdzie zabezpieczaÊ ani broniÊ Licencjobiorcy przed takimi roszczeniami oraz;
+(d) IBM nie ponosi odpowiedzialnoúci za jakiekolwiek szkody bezpoúrednie, poúrednie, uboczne, szczegÛlne, szkody, ktÛrych nie moøna by≥o przewidzieÊ przy zawieraniu umowy oraz szkody zwiπzane z naruszeniem dÛbr osobistych, w tym w szczegÛlnoúci utratÍ danych czy spodziewanych korzyúci, w odniesieniu do Kodu Licencjonowanego Oddzielnie.
+
+Bez wzglÍdu na powyøsze zastrzeøenia w Niemczech i w Austrii gwarancja i odpowiedzialnoúÊ IBM w odniesieniu do Kodu Licencjonowanego Oddzielnie podlega jedynie odpowiednim warunkom umÛw licencyjnych IBM dla Niemiec i Austrii.
+
+Uwaga: IBM moøe úwiadczyÊ us≥ugi wsparcia w ograniczonym zakresie dla okreúlonych komponentÛw Kodu Licencjonowanego Oddzielnie. Jeúli wsparcie takie bÍdzie dostÍpne, szczegÛ≥owe informacje o nim oraz dodatkowe dotyczπce go warunki zostanπ przedstawione w dokumencie "Informacje licencyjne".
+
+Poniøej wymieniono elementy Kodu Licencjonowanego Oddzielnie:
+Android Robot (graphic)
+android_device.png
+android.png
+
+Testy porÛwnawcze
+
+Licencjobiorca moøe ujawniÊ wyniki jakichkolwiek testÛw porÛwnawczych Programu lub jego podkomponentÛw jakimkolwiek osobom trzecim pod warunkiem, øe Licencjobiorca (A) publicznie ujawni pe≥nπ metodologiÍ wykorzystanπ w teúcie porÛwnawczym (na przyk≥ad konfiguracjÍ sprzÍtu i oprogramowania, procedurÍ instalacji i pliki konfiguracyjne), (B) przeprowadzi test porÛwnawczy uruchamiajπc Program w Okreúlonym årodowisku Pracy, uøywajπc najnowszych aktualizacji i poprawek dostÍpnych dla Programu, oferowanych przez IBM lub przez osoby trzecie dostarczajπce produkty IBM (zwane dalej "Osobami Trzecimi") oraz (C) bÍdzie postÍpowaÊ zgodnie ze wszelkimi wytycznymi dotyczπcymi strojenia wydajnoúci i "najlepszych procedur", dostÍpnymi w dokumentacji Programu oraz na stronach WWW IBM odnoszπcych siÍ do Programu. Jeúli Licencjobiorca opublikuje wyniki jakichkolwiek testÛw porÛwnawczych dla Programu, wÛwczas bez wzglÍdu na stanowiπce inaczej zapisy jakiejkolwiek umowy miÍdzy Uøytkownikiem a IBM lub Osobami Trzecimi, IBM lub Osoby Trzecie bÍdπ mieÊ prawo do publikowania wynikÛw testÛw porÛwnawczych produktÛw Licencjobiorcy, pod warunkiem przestrzegania przez IBM lub Osoby Trzecie powyøszych wymagaÒ (A), (B) i (C) przy testowaniu produktÛw Licencjobiorcy.
+
+Bez wzglÍdu na powyøsze warunki, w øadnych okolicznoúciach Licencjobiorca nie moøe publikowaÊ wynikÛw testÛw porÛwnawczych Outside In Technology firmy Oracle bez uprzedniej pisemnej zgody.
+
+Powyøsze warunki dotyczπce testÛw porÛwnawczych majπ zastosowanie do nastÍpujπcych ProgramÛw lub podkomponentÛw:
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe
+
+Program moøe zawieraÊ komponenty w postaci kodu ürÛd≥owego (zwane dalej "Komponentami èrÛd≥owymi") oraz inne materia≥y okreúlone jako Materia≥y Przyk≥adowe. Licencjobiorca moøe kopiowaÊ i modyfikowaÊ Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe jedynie na uøytek wewnÍtrzny, pod warunkiem, øe uøytek taki mieúci siÍ w granicach praw licencyjnych na mocy niniejszej Umowy, zaú Licencjobiorca nie bÍdzie zmieniaÊ ani usuwaÊ øadnych informacji czy uwag o prawach autorskich zawartych w Komponentach èrÛd≥owych lub Materia≥ach Przyk≥adowych. IBM dostarcza Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe bez zobowiπzania do wsparcia, W STANIE, W JAKIM SI  ZNAJDUJ• ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (R KOJMI  R”WNIEØ WY£•CZA SI ), WYRAèNYCH LUB DOMNIEMANYCH, A W SZCZEG”LNOåCI GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNK”W PRZYDATNOåCI HANDLOWEJ I PRZYDATNOåCI DO OKREåLONEGO CELU.
+
+Aplikacja
+
+Aplikacja to jednostka miary, wed≥ug ktÛrej licencjonowany jest Program. Aplikacjπ jest jednoznacznie okreúlone oprogramowanie, ktÛre moøe zostaÊ zainstalowane odrÍbnie na urzπdzeniu komputerowym. Licencjobiorca musi uzyskaÊ odpowiedniπ liczbÍ uprawnieÒ dla Aplikacji w celu objÍcia nimi wszystkich Aplikacji zawierajπcych dowolny fragment Programu, ≥πczπcych siÍ z nim lub przez niego zarzπdzanych.
+
+Warunki specyficzne dla ProgramÛw
+
+SzczegÛ≥owe informacje o Programach Wspierajπcych
+
+IBM WebSphere Application Server Liberty Core
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Workgroup Server Edition Version
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Enterprise Server Edition Version (on zLinux only)
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM Web Application Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 with BLU Acceleration Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Uprawnienie: WspÛ≥czynnik 1 Serwer Wirtualny / 1 Aplikacja
+- Ograniczenia uøywania: kaødy uprawniony Serwer Wirtualny musi zostaÊ skonfigurowany w trybie autonomicznym. Licencjobiorca nie moøe ≥πczyÊ w klastry wielu SerwerÛw Wirtualnych w celu obs≥ugi Programu G≥Ûwnego. W celu obs≥ugi konfiguracji klastrowej Licencjobiorca musi nabyÊ oddzielne uprawnienia do SerwerÛw Wirtualnych.
+
+IBM API Connect Essentials
+- Entitlement: Ratio 50 Thousand Monthly API Calls / 1 Application
+
+"WspÛ≥czynnik n/m" oznacza, øe Licencjobiorca otrzymuje okreúlonπ liczbÍ ('n') uprawnieÒ do uøywania Programu Wspierajπcego dla kaødej okreúlonej liczby ('m') uprawnieÒ do uøywania Programu G≥Ûwnego. O ile nie okreúlono inaczej, liczba uprawnieÒ dla Programu Wspierajπcego zaokrπglana jest w gÛrÍ do wielokrotnoúci 'n'. Jeúli na przyk≥ad Program obejmuje 100 jednostek PVU dla Programu Wspierajπcego dla kaødych 500 jednostek PVU dla Programu G≥Ûwnego i Licencjobiorca nabÍdzie 1200 jednostek PVU dla Programu, wÛwczas Licencjobiorca moøe zainstalowaÊ Program Wspierajπcy - oraz udostÍpniÊ mu rdzenie procesorÛw lub zarzπdzaÊ rdzeniami procesorÛw za jego pomocπ - dla maksymalnie 300 jednostek PVU. Tych jednostek PVU nie bÍdzie trzeba zliczaÊ na poczet ≥πcznych wymaganych jednostek PVU dla instalacji Programu u Licencjobiorcy w zwiπzku z instalowaniem Programu Wspierajπcego (chociaø moøe okazaÊ siÍ konieczne zliczanie tych jednostek PVU z innych przyczyn, jak choÊby pod wzglÍdem liczby rdzeni procesorÛw udostÍpnianych Programowi G≥Ûwnemu).
+
+"Serwer Wirtualny" to jednostka miary, wed≥ug ktÛrej licencjonowany jest Program Wspierajπcy. Serwer to komputer fizyczny, sk≥adajπcy siÍ z jednostek przetwarzajπcych, pamiÍci i funkcji wejúcia/wyjúcia, na ktÛrym wykonuje siÍ øπdane procedury lub komendy albo uruchamia aplikacje na uøytek uøytkownikÛw koÒcowych lub urzπdzeÒ klienckich (jednego lub wiÍcej). W przypadku wykorzystania stelaøy przemys≥owych, obudÛw na serwery kasetowe czy innych podobnych urzπdzeÒ kaøde oddzielne urzπdzenie fizyczne (np. serwer kasetowy czy urzπdzenie instalowane w stelaøu), ktÛre ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobÛw serwera fizycznego albo niespartycjonowany serwer fizyczny.
+
+"Uøywanie przez Program G≥Ûwny" oznacza, øe Program Wspierajπcy udostÍpniany jest wy≥πcznie na uøytek Programu G≥Ûwnego. Ani Licencjobiorca, ani øadna aplikacja, program czy urzπdzenie nie sπ upowaønione do uzyskiwania bezpoúredniego dostÍpu do us≥ug Programu Wspierajπcego i korzystania z nich, z wyjπtkiem tego øe Licencjobiorca moøe uzyskiwaÊ dostÍp do Programu Wspierajπcego w celu wykonywania na potrzeby Programu Wspierajπcego funkcji administracyjnych, takich jak tworzenie i odtwarzanie kopii zapasowych oraz autoryzowana konfiguracja.
+
+"Monthly API Calls" is a unit of measure by which the Supporting Program can be licensed. Wywo≥anie Interfejsu API to wywo≥anie Programu za pomocπ programowalnego interfejsu. Naleøy uzyskaÊ uprawnienia wystarczajπce do objÍcia maksymalnej liczby Wywo≥aÒ Interfejsu API w dowolnym miesiπcu kalendarzowym.
+
+Platformy Mobilnych SystemÛw Operacyjnych
+
+IBM przetestowa≥ przyk≥adowe aplikacje utworzone za pomocπ narzÍdzi dla urzπdzeÒ mobilnych zawartych w Programie ("NarzÍdzi dla UrzπdzeÒ Mobilnych") w celu sprawdzenia, czy bÍdπ one poprawnie dzia≥aÊ na niektÛrych wersjach platform mobilnych systemÛw operacyjnych firm Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) oraz Google (Android), zwanych ≥πcznie "Platformami Mobilnych SystemÛw Operacyjnych", przy czym platformy te sπ dostarczane przez osoby trzecie, nie podlegajπ kontroli IBM i mogπ ulec zmianie bez powiadamiania IBM. Dlatego teø, bez wzglÍdu na stanowiπce inaczej warunki, IBM nie gwarantuje, øe jakiekolwiek aplikacje lub inne dane wyjúciowe utworzone przy uøyciu NarzÍdzi dla UrzπdzeÒ Mobilnych bÍdπ kompatybilne z Platformami Mobilnych SystemÛw Operacyjnych lub urzπdzeniami mobilnymi oraz øe bÍdπ na nich poprawnie dzia≥aÊ lub z nimi wspÛ≥dzia≥aÊ (rÍkojmia jest rÛwnieø wy≥πczona).
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Program (Z125-3301-14).
+
+Nazwa Programu: IBM MobileFirst Platform Foundation - Enterprise V7.1
+Numer Programu: 5725-I43
+
+Zgodnie z MiÍdzynarodowπ Umowπ Licencyjnπ na Program ("IPLA") i niniejszym dokumentem Informacje licencyjne IBM udziela Licencjobiorcy ograniczonego prawa do uøywania Programu. Prawo to jest ograniczone do poziomu Autoryzowanego Uøywania, takiego jak Procesorowa Jednostka Wartoúci ("PVU"), Jednostka Wartoúci ZasobÛw ("RVU"), Jednostka Wartoúci ("VU") lub inny okreúlony poziom uøywania, op≥acony przez LicencjobiorcÍ i potwierdzony dokumentem Proof of Entitlement (PoE). Uøywanie Programu przez LicencjobiorcÍ moøe byÊ rÛwnieø ograniczone do okreúlonej maszyny, moøe podlegaÊ innym ograniczeniom lub moøe obejmowaÊ uøywanie Programu wy≥πcznie jako Programu Wspierajπcego. Jako øe Licencjobiorca nie zap≥aci≥ za ca≥π wartoúÊ ekonomicznπ Programu, uøywanie Programu w dowolnym innym celu bez uiszczenia dodatkowych op≥at jest zabronione. Ponadto Licencjobiorca nie jest upowaøniony do uøywania Programu do úwiadczenia osobom trzecim komercyjnych us≥ug informatycznych, us≥ug serwerowych ani us≥ug podzia≥u czasu, jak rÛwnieø nie jest upowaøniony do udzielania dalszych licencji na Program oraz wypoøyczania i wydzierøawiania Programu, chyba øe stosowne umowy, na mocy ktÛrych Licencjobiorca jest upowaøniony do uøywania Programu, wyraünie stanowiπ inaczej. Licencjobiorca moøe uzyskaÊ dodatkowe prawa pod warunkiem uiszczenia dodatkowych op≥at lub na mocy innych bπdü uzupe≥niajπcych warunkÛw. IBM zastrzega sobie prawo do decydowania, czy takie dodatkowe prawa zostanπ przyznane Licencjobiorcy.
+
+Specyfikacje Programu znajdujπ siÍ w zbiorczych punktach zawierajπcych opisy i informacje techniczne w dokumentach "Aktualnoúci produktowe" dotyczπcych Programu.
+
+Obraz instalacyjny obejmujπcy wiele produktÛw
+
+Program jest dostarczany jako czÍúÊ obrazu instalacyjnego obejmujπcego wiele produktÛw. Licencjobiorca jest upowaøniony do zainstalowania i uøywania tylko Programu (wraz z ewentualnymi Programami Wspierajπcymi), dla ktÛrego uzyska≥ uprawnienia, nie moøe natomiast instalowaÊ ani uøywaÊ innego oprogramowania zawartego w obrazie, chyba øe naby≥ odrÍbne uprawnienia do takiego oprogramowania.
+
+Programy Wspierajπce
+
+Program jest licencjonowany w postaci pakietu wieloproduktowego, zawierajπcego Programy Wspierajπce okreúlone poniøej. Licencjobiorca jest upowaøniony do zainstalowania i uøywania takich ProgramÛw Wspierajπcych jedynie w celu umoøliwienia Licencjobiorcy uøywania Programu G≥Ûwnego na mocy niniejszej Umowy i w zakresie ograniczeÒ nak≥adanych przez dokumenty Proof of Entitlement dla Programu (chyba øe w innej czÍúci niniejszego dokumentu "Informacje Licencyjne" oferowane sπ szersze uprawnienia). Fraza "w celu umoøliwienia Licencjobiorcy uøywania" obejmuje jedynie te zastosowania, ktÛre sπ niezbÍdne do licencjonowanego uøywania Programu G≥Ûwnego lub innego Programu Wspierajπcego albo bezpoúrednio zwiπzane z takim licencjonowanym uøywaniem. ProgramÛw Wspierajπcych nie moøna wykorzystywaÊ do jakichkolwiek innych celÛw. Licencjobiorca nie jest upowaøniony do przenoszenia ani odsprzedaøy ProgramÛw Wspierajπcych oddzielnie od Programu G≥Ûwnego. Do Programu Wspierajπcego mogπ byÊ do≥πczone warunki licencji. W takim przypadku warunki te majπ zastosowanie do uøywania takiego Programu Wspierajπcego przez LicencjobiorcÍ. W przypadku sprzecznoúci miÍdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspierajπcego znaczenie rozstrzygajπce majπ warunki niniejszych Informacji licencyjnych. Kiedy prawo Licencjobiorcy do korzystania z Programu wygaúnie lub zostanie mu wypowiedziane, Licencjobiorca musi zaprzestaÊ korzystania z ProgramÛw Wspierajπcych oraz zniszczyÊ lub niezw≥ocznie zwrÛciÊ wszystkie ich egzemplarze do strony, od ktÛrej Licencjobiorca naby≥ Program. Jeúli Licencjobiorca pobra≥ Programy Wspierajπce, powinien skontaktowaÊ siÍ ze stronπ, od ktÛrej naby≥ Program. Jeúli Licencjobiorca zamierza licencjonowaÊ Programy Wspierajπce w celu uøywania nieobjÍtego ograniczeniami wyszczegÛlnionymi powyøej, powinien skontaktowaÊ siÍ z przedstawicielem handlowym IBM lub z podmiotem, od ktÛrego naby≥ Program, w celu uzyskania odpowiedniej licencji.
+
+Poniøej wymieniono Programy Wspierajπce licencjonowane z Programem:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Testy porÛwnawcze
+
+Licencjobiorca moøe ujawniÊ wyniki jakichkolwiek testÛw porÛwnawczych Programu lub jego podkomponentÛw jakimkolwiek osobom trzecim pod warunkiem, øe Licencjobiorca (A) publicznie ujawni pe≥nπ metodologiÍ wykorzystanπ w teúcie porÛwnawczym (na przyk≥ad konfiguracjÍ sprzÍtu i oprogramowania, procedurÍ instalacji i pliki konfiguracyjne), (B) przeprowadzi test porÛwnawczy uruchamiajπc Program w Okreúlonym årodowisku Pracy, uøywajπc najnowszych aktualizacji i poprawek dostÍpnych dla Programu, oferowanych przez IBM lub przez osoby trzecie dostarczajπce produkty IBM (zwane dalej "Osobami Trzecimi") oraz (C) bÍdzie postÍpowaÊ zgodnie ze wszelkimi wytycznymi dotyczπcymi strojenia wydajnoúci i "najlepszych procedur", dostÍpnymi w dokumentacji Programu oraz na stronach WWW IBM odnoszπcych siÍ do Programu. Jeúli Licencjobiorca opublikuje wyniki jakichkolwiek testÛw porÛwnawczych dla Programu, wÛwczas bez wzglÍdu na stanowiπce inaczej zapisy jakiejkolwiek umowy miÍdzy Uøytkownikiem a IBM lub Osobami Trzecimi, IBM lub Osoby Trzecie bÍdπ mieÊ prawo do publikowania wynikÛw testÛw porÛwnawczych produktÛw Licencjobiorcy, pod warunkiem przestrzegania przez IBM lub Osoby Trzecie powyøszych wymagaÒ (A), (B) i (C) przy testowaniu produktÛw Licencjobiorcy.
+
+Bez wzglÍdu na powyøsze warunki, w øadnych okolicznoúciach Licencjobiorca nie moøe publikowaÊ wynikÛw testÛw porÛwnawczych Outside In Technology firmy Oracle bez uprzedniej pisemnej zgody.
+
+Powyøsze warunki dotyczπce testÛw porÛwnawczych majπ zastosowanie do nastÍpujπcych ProgramÛw lub podkomponentÛw:
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe
+
+Program moøe zawieraÊ komponenty w postaci kodu ürÛd≥owego (zwane dalej "Komponentami èrÛd≥owymi") oraz inne materia≥y okreúlone jako Materia≥y Przyk≥adowe. Licencjobiorca moøe kopiowaÊ i modyfikowaÊ Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe jedynie na uøytek wewnÍtrzny, pod warunkiem, øe uøytek taki mieúci siÍ w granicach praw licencyjnych na mocy niniejszej Umowy, zaú Licencjobiorca nie bÍdzie zmieniaÊ ani usuwaÊ øadnych informacji czy uwag o prawach autorskich zawartych w Komponentach èrÛd≥owych lub Materia≥ach Przyk≥adowych. IBM dostarcza Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe bez zobowiπzania do wsparcia, W STANIE, W JAKIM SI  ZNAJDUJ• ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (R KOJMI  R”WNIEØ WY£•CZA SI ), WYRAèNYCH LUB DOMNIEMANYCH, A W SZCZEG”LNOåCI GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNK”W PRZYDATNOåCI HANDLOWEJ I PRZYDATNOåCI DO OKREåLONEGO CELU.
+
+OgÛlne warunki op≥at
+
+Urzπdzenie Adresowalne to jednostka miary, wed≥ug ktÛrej moøe byÊ licencjonowany Program. Urzπdzenie Adresowalne to urzπdzenie, na ktÛrym jest zainstalowana aplikacja adresowalna za pomocπ Programu. Kaøda instalacja aplikacji adresowalnej za pomocπ Programu jest liczona jako oddzielne Urzπdzenie Adresowalne. Licencjobiorca musi nabyÊ uprawnienia wystarczajπce do objÍcia maksymalnej liczby UrzπdzeÒ Adresowalnych naliczonych w kaødym miesiπcu kalendarzowym.
+
+
+Warunki specyficzne dla ProgramÛw
+
+SzczegÛ≥owe informacje o Programach Wspierajπcych
+
+IBM WebSphere Application Server Liberty Core
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Workgroup Server Edition Version
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Enterprise Server Edition Version (tylko do systemu zLinux)
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM Web Application Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 with BLU Acceleration Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Uprawnienie: WspÛ≥czynnik 1 Serwer Wirtualny / 3600 Adresowalnych UrzπdzeÒ
+- Ograniczenia uøywania: kaødy uprawniony Serwer Wirtualny musi zostaÊ skonfigurowany w trybie autonomicznym. Licencjobiorca nie moøe ≥πczyÊ w klastry wielu SerwerÛw Wirtualnych w celu obs≥ugi Programu G≥Ûwnego. W celu obs≥ugi konfiguracji klastrowej Licencjobiorca musi nabyÊ oddzielne uprawnienia do SerwerÛw Wirtualnych.
+
+IBM API Connect Essentials
+- Uprawnienie: WspÛ≥czynnik 50 TysiÍcy MiesiÍcznych Wywo≥aÒ InterfejsÛw API / 200 UrzπdzeÒ Adresowalnych
+
+"WspÛ≥czynnik n/m" oznacza, øe Licencjobiorca otrzymuje okreúlonπ liczbÍ ('n') uprawnieÒ do uøywania Programu Wspierajπcego dla kaødej okreúlonej liczby ('m') uprawnieÒ do uøywania Programu G≥Ûwnego. O ile nie okreúlono inaczej, liczba uprawnieÒ dla Programu Wspierajπcego zaokrπglana jest w gÛrÍ do wielokrotnoúci 'n'. Jeúli na przyk≥ad Program obejmuje 100 jednostek PVU dla Programu Wspierajπcego dla kaødych 500 jednostek PVU dla Programu G≥Ûwnego i Licencjobiorca nabÍdzie 1200 jednostek PVU dla Programu, wÛwczas Licencjobiorca moøe zainstalowaÊ Program Wspierajπcy - oraz udostÍpniÊ mu rdzenie procesorÛw lub zarzπdzaÊ rdzeniami procesorÛw za jego pomocπ - dla maksymalnie 300 jednostek PVU. Tych jednostek PVU nie bÍdzie trzeba zliczaÊ na poczet ≥πcznych wymaganych jednostek PVU dla instalacji Programu u Licencjobiorcy w zwiπzku z instalowaniem Programu Wspierajπcego (chociaø moøe okazaÊ siÍ konieczne zliczanie tych jednostek PVU z innych przyczyn, jak choÊby pod wzglÍdem liczby rdzeni procesorÛw udostÍpnianych Programowi G≥Ûwnemu).
+
+"Uøywanie przez Program G≥Ûwny" oznacza, øe Program Wspierajπcy udostÍpniany jest wy≥πcznie na uøytek Programu. Ani Licencjobiorca, ani øadna aplikacja, program czy urzπdzenie nie sπ upowaønione do uzyskiwania bezpoúredniego dostÍpu do us≥ug Programu Wspierajπcego i korzystania z nich, z wyjπtkiem tego øe Licencjobiorca moøe uzyskiwaÊ dostÍp do Programu Wspierajπcego w celu wykonywania na potrzeby Programu Wspierajπcego funkcji administracyjnych, takich jak tworzenie i odtwarzanie kopii zapasowych oraz autoryzowana konfiguracja.
+
+"Serwer Wirtualny" to jednostka miary, wed≥ug ktÛrej licencjonowany jest Program Wspierajπcy. Serwer to komputer fizyczny, sk≥adajπcy siÍ z jednostek przetwarzajπcych, pamiÍci i funkcji wejúcia/wyjúcia, na ktÛrym wykonuje siÍ øπdane procedury lub komendy albo uruchamia aplikacje na uøytek uøytkownikÛw koÒcowych lub urzπdzeÒ klienckich (jednego lub wiÍcej). W przypadku wykorzystania stelaøy przemys≥owych, obudÛw na serwery kasetowe czy innych podobnych urzπdzeÒ kaøde oddzielne urzπdzenie fizyczne (np. serwer kasetowy czy urzπdzenie instalowane w stelaøu), ktÛre ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobÛw serwera fizycznego albo niespartycjonowany serwer fizyczny.
+
+"MiesiÍczne Wywo≥ania Interfejsu API" to jednostka miary, wed≥ug ktÛrej licencjonowany jest Program Wspierajπcy. Wywo≥anie Interfejsu API to wywo≥anie Programu za pomocπ programowalnego interfejsu. Naleøy uzyskaÊ uprawnienia wystarczajπce do objÍcia maksymalnej liczby Wywo≥aÒ Interfejsu API w dowolnym miesiπcu kalendarzowym.
+
+Platformy Mobilnych SystemÛw Operacyjnych
+
+IBM przetestowa≥ przyk≥adowe aplikacje utworzone za pomocπ narzÍdzi dla urzπdzeÒ mobilnych zawartych w Programie ("NarzÍdzi dla UrzπdzeÒ Mobilnych") w celu sprawdzenia, czy bÍdπ one poprawnie dzia≥aÊ na niektÛrych wersjach platform mobilnych systemÛw operacyjnych firm Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) oraz Google (Android), zwanych ≥πcznie "Platformami Mobilnych SystemÛw Operacyjnych", przy czym platformy te sπ dostarczane przez osoby trzecie, nie podlegajπ kontroli IBM i mogπ ulec zmianie bez powiadamiania IBM. Dlatego teø, bez wzglÍdu na stanowiπce inaczej warunki, IBM nie gwarantuje, øe jakiekolwiek aplikacje lub inne dane wyjúciowe utworzone przy uøyciu NarzÍdzi dla UrzπdzeÒ Mobilnych bÍdπ kompatybilne z Platformami Mobilnych SystemÛw Operacyjnych lub urzπdzeniami mobilnymi oraz øe bÍdπ na nich poprawnie dzia≥aÊ lub z nimi wspÛ≥dzia≥aÊ (rÍkojmia jest rÛwnieø wy≥πczona).
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Program (Z125-3301-14).
+
+Nazwa Programu: IBM MobileFirst Platform Foundation - Consumer V7.1
+Numer Programu: 5725-I43
+
+Zgodnie z MiÍdzynarodowπ Umowπ Licencyjnπ na Program ("IPLA") i niniejszym dokumentem Informacje licencyjne IBM udziela Licencjobiorcy ograniczonego prawa do uøywania Programu. Prawo to jest ograniczone do poziomu Autoryzowanego Uøywania, takiego jak Procesorowa Jednostka Wartoúci ("PVU"), Jednostka Wartoúci ZasobÛw ("RVU"), Jednostka Wartoúci ("VU") lub inny okreúlony poziom uøywania, op≥acony przez LicencjobiorcÍ i potwierdzony dokumentem Proof of Entitlement (PoE). Uøywanie Programu przez LicencjobiorcÍ moøe byÊ rÛwnieø ograniczone do okreúlonej maszyny, moøe podlegaÊ innym ograniczeniom lub moøe obejmowaÊ uøywanie Programu wy≥πcznie jako Programu Wspierajπcego. Jako øe Licencjobiorca nie zap≥aci≥ za ca≥π wartoúÊ ekonomicznπ Programu, uøywanie Programu w dowolnym innym celu bez uiszczenia dodatkowych op≥at jest zabronione. Ponadto Licencjobiorca nie jest upowaøniony do uøywania Programu do úwiadczenia osobom trzecim komercyjnych us≥ug informatycznych, us≥ug serwerowych ani us≥ug podzia≥u czasu, jak rÛwnieø nie jest upowaøniony do udzielania dalszych licencji na Program oraz wypoøyczania i wydzierøawiania Programu, chyba øe stosowne umowy, na mocy ktÛrych Licencjobiorca jest upowaøniony do uøywania Programu, wyraünie stanowiπ inaczej. Licencjobiorca moøe uzyskaÊ dodatkowe prawa pod warunkiem uiszczenia dodatkowych op≥at lub na mocy innych bπdü uzupe≥niajπcych warunkÛw. IBM zastrzega sobie prawo do decydowania, czy takie dodatkowe prawa zostanπ przyznane Licencjobiorcy.
+
+Specyfikacje Programu znajdujπ siÍ w zbiorczych punktach zawierajπcych opisy i informacje techniczne w dokumentach "Aktualnoúci produktowe" dotyczπcych Programu.
+
+Obraz instalacyjny obejmujπcy wiele produktÛw
+
+Program jest dostarczany jako czÍúÊ obrazu instalacyjnego obejmujπcego wiele produktÛw. Licencjobiorca jest upowaøniony do zainstalowania i uøywania tylko Programu (wraz z ewentualnymi Programami Wspierajπcymi), dla ktÛrego uzyska≥ uprawnienia, nie moøe natomiast instalowaÊ ani uøywaÊ innego oprogramowania zawartego w obrazie, chyba øe naby≥ odrÍbne uprawnienia do takiego oprogramowania.
+
+Programy Wspierajπce
+
+Program jest licencjonowany w postaci pakietu wieloproduktowego, zawierajπcego Programy Wspierajπce okreúlone poniøej. Licencjobiorca jest upowaøniony do zainstalowania i uøywania takich ProgramÛw Wspierajπcych jedynie w celu umoøliwienia Licencjobiorcy uøywania Programu G≥Ûwnego na mocy niniejszej Umowy i w zakresie ograniczeÒ nak≥adanych przez dokumenty Proof of Entitlement dla Programu (chyba øe w innej czÍúci niniejszego dokumentu "Informacje Licencyjne" oferowane sπ szersze uprawnienia). Fraza "w celu umoøliwienia Licencjobiorcy uøywania" obejmuje jedynie te zastosowania, ktÛre sπ niezbÍdne do licencjonowanego uøywania Programu G≥Ûwnego lub innego Programu Wspierajπcego albo bezpoúrednio zwiπzane z takim licencjonowanym uøywaniem. ProgramÛw Wspierajπcych nie moøna wykorzystywaÊ do jakichkolwiek innych celÛw. Licencjobiorca nie jest upowaøniony do przenoszenia ani odsprzedaøy ProgramÛw Wspierajπcych oddzielnie od Programu G≥Ûwnego. Do Programu Wspierajπcego mogπ byÊ do≥πczone warunki licencji. W takim przypadku warunki te majπ zastosowanie do uøywania takiego Programu Wspierajπcego przez LicencjobiorcÍ. W przypadku sprzecznoúci miÍdzy warunkami niniejszych Informacji licencyjnych a warunkami licencji Programu Wspierajπcego znaczenie rozstrzygajπce majπ warunki niniejszych Informacji licencyjnych. Kiedy prawo Licencjobiorcy do korzystania z Programu wygaúnie lub zostanie mu wypowiedziane, Licencjobiorca musi zaprzestaÊ korzystania z ProgramÛw Wspierajπcych oraz zniszczyÊ lub niezw≥ocznie zwrÛciÊ wszystkie ich egzemplarze do strony, od ktÛrej Licencjobiorca naby≥ Program. Jeúli Licencjobiorca pobra≥ Programy Wspierajπce, powinien skontaktowaÊ siÍ ze stronπ, od ktÛrej naby≥ Program. Jeúli Licencjobiorca zamierza licencjonowaÊ Programy Wspierajπce w celu uøywania nieobjÍtego ograniczeniami wyszczegÛlnionymi powyøej, powinien skontaktowaÊ siÍ z przedstawicielem handlowym IBM lub z podmiotem, od ktÛrego naby≥ Program, w celu uzyskania odpowiedniej licencji.
+
+Poniøej wymieniono Programy Wspierajπce licencjonowane z Programem:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Testy porÛwnawcze
+
+Licencjobiorca moøe ujawniÊ wyniki jakichkolwiek testÛw porÛwnawczych Programu lub jego podkomponentÛw jakimkolwiek osobom trzecim pod warunkiem, øe Licencjobiorca (A) publicznie ujawni pe≥nπ metodologiÍ wykorzystanπ w teúcie porÛwnawczym (na przyk≥ad konfiguracjÍ sprzÍtu i oprogramowania, procedurÍ instalacji i pliki konfiguracyjne), (B) przeprowadzi test porÛwnawczy uruchamiajπc Program w Okreúlonym årodowisku Pracy, uøywajπc najnowszych aktualizacji i poprawek dostÍpnych dla Programu, oferowanych przez IBM lub przez osoby trzecie dostarczajπce produkty IBM (zwane dalej "Osobami Trzecimi") oraz (C) bÍdzie postÍpowaÊ zgodnie ze wszelkimi wytycznymi dotyczπcymi strojenia wydajnoúci i "najlepszych procedur", dostÍpnymi w dokumentacji Programu oraz na stronach WWW IBM odnoszπcych siÍ do Programu. Jeúli Licencjobiorca opublikuje wyniki jakichkolwiek testÛw porÛwnawczych dla Programu, wÛwczas bez wzglÍdu na stanowiπce inaczej zapisy jakiejkolwiek umowy miÍdzy Uøytkownikiem a IBM lub Osobami Trzecimi, IBM lub Osoby Trzecie bÍdπ mieÊ prawo do publikowania wynikÛw testÛw porÛwnawczych produktÛw Licencjobiorcy, pod warunkiem przestrzegania przez IBM lub Osoby Trzecie powyøszych wymagaÒ (A), (B) i (C) przy testowaniu produktÛw Licencjobiorcy.
+
+Bez wzglÍdu na powyøsze warunki, w øadnych okolicznoúciach Licencjobiorca nie moøe publikowaÊ wynikÛw testÛw porÛwnawczych Outside In Technology firmy Oracle bez uprzedniej pisemnej zgody.
+
+Powyøsze warunki dotyczπce testÛw porÛwnawczych majπ zastosowanie do nastÍpujπcych ProgramÛw lub podkomponentÛw:
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe
+
+Program moøe zawieraÊ komponenty w postaci kodu ürÛd≥owego (zwane dalej "Komponentami èrÛd≥owymi") oraz inne materia≥y okreúlone jako Materia≥y Przyk≥adowe. Licencjobiorca moøe kopiowaÊ i modyfikowaÊ Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe jedynie na uøytek wewnÍtrzny, pod warunkiem, øe uøytek taki mieúci siÍ w granicach praw licencyjnych na mocy niniejszej Umowy, zaú Licencjobiorca nie bÍdzie zmieniaÊ ani usuwaÊ øadnych informacji czy uwag o prawach autorskich zawartych w Komponentach èrÛd≥owych lub Materia≥ach Przyk≥adowych. IBM dostarcza Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe bez zobowiπzania do wsparcia, W STANIE, W JAKIM SI  ZNAJDUJ• ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (R KOJMI  R”WNIEØ WY£•CZA SI ), WYRAèNYCH LUB DOMNIEMANYCH, A W SZCZEG”LNOåCI GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNK”W PRZYDATNOåCI HANDLOWEJ I PRZYDATNOåCI DO OKREåLONEGO CELU.
+
+OgÛlne warunki op≥at
+
+Tysiπc UrzπdzeÒ Adresowalnych to jednostka miary, wed≥ug ktÛrej moøe byÊ licencjonowany Program. Urzπdzenie Adresowalne to urzπdzenie, na ktÛrym jest zainstalowana aplikacja adresowalna za pomocπ Programu. Kaøda instalacja aplikacji adresowalnej za pomocπ Programu jest liczona jako oddzielne Urzπdzenie Adresowalne. Kaøde uprawnienie do Tysiπca UrzπdzeÒ Adresowalnych obejmuje jeden Tysiπc UrzπdzeÒ Adresowalnych. Licencjobiorca musi nabyÊ uprawnienia wystarczajπce do objÍcia maksymalnej liczby UrzπdzeÒ Adresowalnych naliczonych w kaødym miesiπcu kalendarzowym.
+
+
+Warunki specyficzne dla ProgramÛw
+
+Urzπdzenia Adresowalne Programu IBM MobileFirst Platform Foundation Consumer nie mogπ byÊ uøywane przez PracownikÛw Licencjobiorcy.
+
+Pracownik to osoba, ktÛra w zamian za wynagrodzenie (wed≥ug stawki godzinowej lub okresowej) úwiadczy pracÍ na rzecz Licencjobiorcy, lub jakikolwiek podmiot upowaøniony przez LicencjobiorcÍ zgodnie z warunkami niniejszej licencji do uøywania oprogramowania okreúlonego w niniejszej licencji.
+
+SzczegÛ≥owe informacje o Programach Wspierajπcych
+
+IBM WebSphere Application Server Liberty Core
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Workgroup Server Edition
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 Enterprise Server Edition (tylko na zLinux)
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM Web Application Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM DB2 with BLU Acceleration Pattern
+- Ograniczenia uøywania: Uøywanie przez Program G≥Ûwny
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Uprawnienie: WspÛ≥czynnik 1 Serwer Wirtualny / 150 TysiÍcy UrzπdzeÒ Adresowalnych
+- Ograniczenia uøywania: kaødy uprawniony Serwer Wirtualny musi zostaÊ skonfigurowany w trybie autonomicznym. Licencjobiorca nie moøe ≥πczyÊ w klastry wielu SerwerÛw Wirtualnych w celu obs≥ugi Programu G≥Ûwnego. W celu obs≥ugi konfiguracji klastrowej Licencjobiorca musi nabyÊ oddzielne uprawnienia do SerwerÛw Wirtualnych.
+
+IBM API Connect Essentials
+- Entitlement: Ratio 50 Thousand Monthly API Calls / 10 Thousand Addressable Devices
+
+"WspÛ≥czynnik n/m" oznacza, øe Licencjobiorca otrzymuje okreúlonπ liczbÍ ('n') uprawnieÒ do uøywania Programu Wspierajπcego dla kaødej okreúlonej liczby ('m') uprawnieÒ do uøywania Programu G≥Ûwnego. O ile nie okreúlono inaczej, liczba uprawnieÒ dla Programu Wspierajπcego zaokrπglana jest w gÛrÍ do wielokrotnoúci 'n'. Jeúli na przyk≥ad Program obejmuje 100 jednostek PVU dla Programu Wspierajπcego dla kaødych 500 jednostek PVU dla Programu G≥Ûwnego i Licencjobiorca nabÍdzie 1200 jednostek PVU dla Programu, wÛwczas Licencjobiorca moøe zainstalowaÊ Program Wspierajπcy - oraz udostÍpniÊ mu rdzenie procesorÛw lub zarzπdzaÊ rdzeniami procesorÛw za jego pomocπ - dla maksymalnie 300 jednostek PVU. Tych jednostek PVU nie bÍdzie trzeba zliczaÊ na poczet ≥πcznych wymaganych jednostek PVU dla instalacji Programu u Licencjobiorcy w zwiπzku z instalowaniem Programu Wspierajπcego (chociaø moøe okazaÊ siÍ konieczne zliczanie tych jednostek PVU z innych przyczyn, jak choÊby pod wzglÍdem liczby rdzeni procesorÛw udostÍpnianych Programowi G≥Ûwnemu).
+
+"Serwer Wirtualny" to jednostka miary, wed≥ug ktÛrej licencjonowany jest Program Wspierajπcy. Serwer to komputer fizyczny, sk≥adajπcy siÍ z jednostek przetwarzajπcych, pamiÍci i funkcji wejúcia/wyjúcia, na ktÛrym wykonuje siÍ øπdane procedury lub komendy albo uruchamia aplikacje na uøytek uøytkownikÛw koÒcowych lub urzπdzeÒ klienckich (jednego lub wiÍcej). W przypadku wykorzystania stelaøy przemys≥owych, obudÛw na serwery kasetowe czy innych podobnych urzπdzeÒ kaøde oddzielne urzπdzenie fizyczne (np. serwer kasetowy czy urzπdzenie instalowane w stelaøu), ktÛre ma wymagane komponenty, uznawane jest za oddzielny serwer. Serwer wirtualny to wirtualny komputer utworzony przez spartycjonowanie zasobÛw serwera fizycznego albo niespartycjonowany serwer fizyczny.
+
+"Uøywanie przez Program G≥Ûwny" oznacza, øe Program Wspierajπcy udostÍpniany jest wy≥πcznie na uøytek Programu G≥Ûwnego. Ani Licencjobiorca, ani øadna aplikacja, program czy urzπdzenie nie sπ upowaønione do uzyskiwania bezpoúredniego dostÍpu do us≥ug Programu Wspierajπcego i korzystania z nich, z wyjπtkiem tego øe Licencjobiorca moøe uzyskiwaÊ dostÍp do Programu Wspierajπcego w celu wykonywania na potrzeby Programu Wspierajπcego funkcji administracyjnych, takich jak tworzenie i odtwarzanie kopii zapasowych oraz autoryzowana konfiguracja.
+
+"Monthly API Calls" is a unit of measure by which the Supporting Program can be licensed. Wywo≥anie Interfejsu API to wywo≥anie Programu za pomocπ programowalnego interfejsu. Naleøy uzyskaÊ uprawnienia wystarczajπce do objÍcia maksymalnej liczby Wywo≥aÒ Interfejsu API w dowolnym miesiπcu kalendarzowym.
+
+Platformy Mobilnych SystemÛw Operacyjnych
+
+IBM przetestowa≥ przyk≥adowe aplikacje utworzone za pomocπ narzÍdzi dla urzπdzeÒ mobilnych zawartych w Programie ("NarzÍdzi dla UrzπdzeÒ Mobilnych") w celu sprawdzenia, czy bÍdπ one poprawnie dzia≥aÊ na niektÛrych wersjach platform mobilnych systemÛw operacyjnych firm Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) oraz Google (Android), zwanych ≥πcznie "Platformami Mobilnych SystemÛw Operacyjnych", przy czym platformy te sπ dostarczane przez osoby trzecie, nie podlegajπ kontroli IBM i mogπ ulec zmianie bez powiadamiania IBM. Dlatego teø, bez wzglÍdu na stanowiπce inaczej warunki, IBM nie gwarantuje, øe jakiekolwiek aplikacje lub inne dane wyjúciowe utworzone przy uøyciu NarzÍdzi dla UrzπdzeÒ Mobilnych bÍdπ kompatybilne z Platformami Mobilnych SystemÛw Operacyjnych lub urzπdzeniami mobilnymi oraz øe bÍdπ na nich poprawnie dzia≥aÊ lub z nimi wspÛ≥dzia≥aÊ (rÍkojmia jest rÛwnieø wy≥πczona).
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+

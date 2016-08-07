@@ -1,0 +1,327 @@
+AVISO
+
+Este documento incluye a continuación documentos de Información sobre Licencia para varios Programas. Cada documento de Información sobre Licencia identifica el Programa o Programas a los que se aplica. Sólo se aplican los documentos de Información sobre Licencia para el Programa o Programas para los cuales el Licenciatario haya adquirido autorizaciones.
+
+
+==============================================
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Programas bajo Licencia (Z125-3301-14).
+
+Nombre de Programa: IBM MobileFirst Platform Foundation V7.1
+Número de Programa: 5725-I43
+
+Nombre de Programa: IBM MobileFirst Platform Foundation for iOS V7.1
+Número de Programa: 5725-I43
+
+Nombre de Programa: IBM MobileFirst Platform Foundation - System Pattern V7.1
+Número de Programa: 5725-I43
+
+Tal como se estipula en el Acuerdo Internacional de Programas Bajo Licencia ("IPLA") y en la presente Información de Licencia, IBM otorga al Licenciatario un derecho limitado a utilizar el Programa. Este derecho está limitado a los niveles de Uso Autorizado, como una Value Unit de Procesador ("PVU"), una Value Unit de Recurso ("RVU"), una Value Unit ("VU") u otros niveles de uso estipulados que el Licenciatario hubiera pagado, tal como se indica en el Documento de Titularidad. El uso por parte del Licenciatario también se limitará a una máquina especificada o al uso como Programa de Soporte, o se someterá a otras restricciones. Puesto que el Licenciatario no ha pagado el valor económico íntegro del Programa, no se permitirá ningún otro uso sin abonar previamente los cargos adicionales correspondientes. Además, el Licenciatario no está autorizado a utilizar el Programa para prestar servicios de TI comerciales a terceros o para prestar servicios comerciales de alojamiento web u ofrecer el uso del Programa en régimen de multipropiedad, ni a otorgar licencias a terceros, alquilar o arrendar el Programa, salvo que así se estableciera explícitamente en los acuerdos aplicables en virtud de los cuales el Licenciatario obtiene las necesarias autorizaciones para utilizar el Programa. Podrán otorgarse al Licenciatario derechos adicionales previo pago de los cargos adicionales correspondientes o en virtud de unos términos distintos o complementarios. IBM se reserva el derecho a determinar si desea otorgar al Licenciatario dichos derechos adicionales.
+
+Encontrará las especificaciones del Programa en las cláusulas comunes Descripción e Información técnica incluidas en las Cartas de anuncio del Programa.
+
+Imagen de instalación de varios productos
+
+El Programa se proporciona como parte de una imagen de instalación de varios productos. El Licenciatario sólo está autorizado para instalar y utilizar el Programa (y los Programas de Soporte correspondientes, de haberlos) si ha obtenido una autorización válida y no puede instalar ni utilizar otro software incluido en la imagen, salvo que haya adquirido autorizaciones independientes para el software en cuestión.
+
+Programas de Soporte
+
+El Programa se licencia como un paquete de Programa de varios productos e incluye los Programas de Soporte definidos a continuación. El Licenciatario está autorizado para instalar y utilizar dichos Programas de Soporte únicamente para ofrecer soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo y dentro de los límites de los Documentos de Titularidad del Programa (salvo que en cualquier otra parte de este documento de Información de Licencia se proporcionen derechos que vayan más allá). La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. El Licenciatario no está autorizado para transferir ni recomercializar los Programas de Soporte separados del Programa Principal. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. Cuando el derecho del Licenciatario a utilizar el Programa expira o finaliza, el Licenciatario debe interrumpir el uso, destruir o devolver inmediatamente todas las copias de los Programas de Soporte al distribuidor de quien adquirió el Programa. Si el Licenciatario ha descargado los Programas de Soporte, el Licenciatario debe ponerse en contacto con el distribuidor de quien adquirió el Programa. Si el Licenciatario deseara adquirir una licencia para los Programas de Soporte para cualquier uso más allá de los límites que se establecen más arriba, deberá ponerse en contacto con un Representante de Ventas de IBM o con el distribuidor que le proporcionó el Programa para obtener la licencia adecuada.
+
+Los siguientes Programas de Soporte se licencian con el Programa:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Código con Licencia Separada
+
+Las estipulaciones que se establecen en este párrafo no se aplicarán en caso de que se declaren inválidas o sin fuerza ejecutoria bajo la ley que rige esta licencia. Los componentes que se enumeran a continuación se consideran "Código con Licencia Separada". El Código con Licencia Separada de IBM se licencia al Licenciatario de acuerdo con los términos que se establecen en el correspondiente acuerdo de licencia de terceros en el archivo NON_IBM_LICENSE que acompaña al Programa. Independientemente de los términos del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM, los términos de dichos acuerdos de licencia de terceros rigen el uso por parte del Licenciatario de todo el Código con Licencia Separada, excepto que se especifique de otro modo a continuación.
+
+Las futuras actualizaciones o correcciones del Programa pueden contener otros componentes del Código con Licencia Separada. Dicho Código con Licencia Separada adicional y sus correspondientes licencias se listarán en otro archivo NON_IBM_LICENSE que acompaña a la actualización o a la corrección del Programa. El Licenciatario reconoce que ha leído y acepta los acuerdos de licencia que se incluyen en los archivos NON_IBM_LICENSE. Si el Licenciatario no acepta los términos de estos acuerdos de licencia de terceros, el Licenciatario no puede utilizar el Código con Licencia Separada.
+
+En cuanto a los Programas adquiridos de acuerdo con el IPLA (Acuerdo Internacional de Programas bajo Licencia) o ILAN (Acuerdo Internacional de Licencia para Programas Sin Garantía) y siempre que el Licenciatario sea el licenciatario original del Programa, si el Licenciatario no acepta los acuerdos de licencia de terceros, el Licenciatario puede devolver el Programa de acuerdo con los términos del apartado "Garantía de devolución" del Acuerdo de IBM, IPLA o ILAN, y en el periodo de tiempo establecido.
+
+Nota: Independientemente de los términos del acuerdo de licencia de terceros, del Acuerdo o de cualquier otro acuerdo que el Licenciatario pudiera tener con IBM:
+(a) IBM proporciona este Código con Licencia Separada al Licenciatario SIN GARANTÍA DE NINGÚN TIPO;
+(b) IBM NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITA E IMPLÍCITA INCLUIDAS, PERO SIN LIMITARSE A, LA GARANTÍA DE TÍTULO, LA GARANTÍA RESPECTO A DERECHOS DE TERCEROS O INTERFERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA RESPECTO AL CÓDIGO CON LICENCIA SEPARADA;
+(c) IBM no será responsable ante el Licenciatario, y no defenderá, ni mantendrá indemne o fuera de toda responsabilidad al Licenciatario de ninguna reclamación que surja del Código con Licencia Separada o esté relacionada con éste; y
+(d) IBM no se responsabiliza de ningún daño directo, indirecto, incidental, especial, ejemplar, punitivo o consecuencial incluidas, pero sin limitarse a, la pérdida de datos, la pérdida de ahorros y la pérdida de beneficios respecto al Código con Licencia Separada.
+
+A pesar de estas exclusiones, en Alemania y Austria, la garantía y la responsabilidad de IBM para el Código con Licencia Separada se rigen únicamente por los respectivos términos aplicables en Alemania y en Austria en los acuerdos de licencia de IBM.
+
+Nota: Es posible que IBM proporcione soporte limitado para parte del Código con Licencia Separada. Si dicho soporte está disponible, los detalles y los términos adicionales relacionados con dicho soporte se establecerán en el documento de Información sobre Licencia.
+
+A continuación se enumera Código con Licencia Separada:
+Android Robot (graphic)
+android_device.png
+android.png
+
+Realización de evaluaciones comparativas (Benchmarking)
+
+El Licenciatario puede revelar los resultados de cualquier evaluación comparativa del Programa o de sus subcomponentes a cualquier tercero siempre que (A) revele de forma pública la metodología completa utilizada en las evaluaciones comparativas (por ejemplo, la configuración de hardware y software, el procedimiento de instalación y los archivos de configuración), (B) realice las evaluaciones comparativas ejecutando el Programa en su Entorno Operativo Especificado usando las actualizaciones, parches y arreglos aplicables más recientes disponibles para el Programa de IBM y (C) siga todos los ajustes de rendimiento y la guía de "mejores prácticas" disponibles en la documentación del Programa y en los sitios web de soporte de IBM para el Programa. Si el Licenciatario publica los resultados de cualquier evaluación comparativa para el Programa, aunque se indique lo contrario en cualquier acuerdo establecido entre el Licenciatario e IBM o Terceros, IBM y los Terceros tendrán el derecho de publicar las evaluaciones comparativas con respecto a los productos del Licenciatario, siempre que IBM o los Terceros cumplan los requisitos establecidos en los apartados (A), (B) y (C) anteriores durante la realización de las pruebas de los productos del Licenciatario.
+
+Independientemente de lo expuesto anteriormente, el Licenciatario no puede, bajo ninguna circunstancia, publicar los resultados de las evaluaciones comparativas en Oracle Outside In Technology, sin previo aviso por escrito.
+
+Los términos de realización de evaluaciones comparativas se aplican a los siguientes Programas o subcomponentes:
+IBM MobileFirst Platform Foundation V7.1
+IBM MobileFirst Platform Foundation for iOS V7.1
+IBM MobileFirst Platform Foundation - System Pattern V7.1
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa puede incluir algunos componentes en formato de código fuente ("Componente en Código Fuente") y otros materiales identificados como Materiales de muestra. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Aplicación
+
+Aplicación es una unidad de medida por la que se puede licenciar el Programa. Una Aplicación es un programa de software con una designación exclusiva que se puede instalar de forma independiente en un dispositivo informático. El Licenciatario debe obtener suficientes autorizaciones de Aplicación para dar cobertura a todas las Aplicaciones que incluyan una parte del Programa, estén conectadas al mismo o sean gestionadas por él.
+
+Términos Exclusivos del Programa
+
+Detalles de Programas de Soporte
+
+IBM WebSphere Application Server Liberty Core
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Workgroup Server Edition Version
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Enterprise Server Edition Version (únicamente en zLinux)
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM Web Application Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 with BLU Acceleration Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Autorización: Proporción 1 Servidor Virtual / 1 Aplicación
+- Limitación de Uso: Cada Servidor Virtual se debe configurar en modo autónomo; el Licenciatario no puede agrupar varios Servidores Virtuales para dar soporte al Programa Principal. Es necesario adquirir autorizaciones por separado para cada Servidor Virtual para dar soporte a una configuración en clúster.
+
+IBM API Connect Essentials
+- Autorización: Proporción 50.000 Llamadas de API mensuales / 1 Aplicación
+
+"Proporción n/m" significa que el Licenciatario recibe un número ('n') de autorizaciones para el Programa de Soporte por cada número especificado ('m') de autorizaciones del conjunto del Programa Principal. Salvo que se establezca de otro modo, el número de autorizaciones para el Programa de Soporte se redondeará a un múltiplo de 'n'. Por ejemplo, si un Programa incluye 100 PVU para un Programa de Soporte por cada 500 PVU obtenidas del Programa Principal y el Licenciatario adquiere 1.200 PVU del Programa, el Licenciatario deberá instalar el Programa de Soporte y disponer de núcleos de procesador para el Programa de Soporte o gestionados por el mismo de hasta 300 PVU. No es necesario que dichas PVU se tengan en cuenta como parte del requisito de PVU total para la instalación por parte del Licenciatario del Programa debido a la instalación del Programa de Soporte (aunque puede ser necesario que dichas PVU se tengan en cuenta por otros motivos, como también la disponibilidad de los núcleos de procesador para el Programa Principal).
+
+"Servidor virtual" hace referencia a una unidad de medida por la que se puede obtener licencia para el Programa de Soporte. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado.
+
+“Uso por parte del Programa Principal” significa que el Programa de Soporte se proporciona exclusivamente para su uso por parte del Programa Principal. Ni el Licenciatario ni ninguna aplicación, programa o dispositivo está autorizado para utilizar directamente el Programa de Soporte o para acceder a sus servicios, salvo cuando el Licenciatario necesite acceder al Programa de Soporte para realizar funciones administrativas para el Programa de Soporte como copias de seguridad, recuperación y configuración autorizada.
+
+"Llamadas de API mensuales" es una unidad de medida por la que se puede licenciar el Programa de Soporte. Una Llamada de API es la invocación del Programa a través de una interfaz programable. Se deben obtener suficientes autorizaciones para dar cobertura al número máximo de Llamadas de API en un mes natural.
+
+Plataformas de SO móviles
+
+IBM dispone de aplicaciones de muestra probadas creadas con las herramientas móviles proporcionadas en el Programa ("Herramientas móviles") para determinar si se ejecutarán correctamente en determinadas versiones de plataformas de sistemas operativos móviles de Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) y Google (Android) (denominadas en su conjunto "Plataformas de SO móviles"); no obstante, los proveedores de Plataformas de SO móviles son terceros, por lo que dichas Plataformas no están bajo el control de IBM y pueden modificarse sin previo aviso a IBM. Por tanto, y sin perjuicio de disposición en contrario, IBM no garantiza que las aplicaciones u otros productos creados utilizando las herramientas móviles se ejecuten o interactúen correctamente, o sean compatibles, con algunas Plataformas de SO móviles o dispositivos móviles.
+
+
+L/N:  L-BVID-A6ZPQX
+D/N:  L-BVID-A6ZPQX
+P/N:  L-BVID-A6ZPQX 
+
+
+
+==============================================
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Programas bajo Licencia (Z125-3301-14).
+
+Nombre de Programa: IBM MobileFirst Platform Foundation - Enterprise V7.1
+Número de Programa: 5725-I43
+
+Tal como se estipula en el Acuerdo Internacional de Programas Bajo Licencia ("IPLA") y en la presente Información de Licencia, IBM otorga al Licenciatario un derecho limitado a utilizar el Programa. Este derecho está limitado a los niveles de Uso Autorizado, como una Value Unit de Procesador ("PVU"), una Value Unit de Recurso ("RVU"), una Value Unit ("VU") u otros niveles de uso estipulados que el Licenciatario hubiera pagado, tal como se indica en el Documento de Titularidad. El uso por parte del Licenciatario también se limitará a una máquina especificada o al uso como Programa de Soporte, o se someterá a otras restricciones. Puesto que el Licenciatario no ha pagado el valor económico íntegro del Programa, no se permitirá ningún otro uso sin abonar previamente los cargos adicionales correspondientes. Además, el Licenciatario no está autorizado a utilizar el Programa para prestar servicios de TI comerciales a terceros o para prestar servicios comerciales de alojamiento web u ofrecer el uso del Programa en régimen de multipropiedad, ni a otorgar licencias a terceros, alquilar o arrendar el Programa, salvo que así se estableciera explícitamente en los acuerdos aplicables en virtud de los cuales el Licenciatario obtiene las necesarias autorizaciones para utilizar el Programa. Podrán otorgarse al Licenciatario derechos adicionales previo pago de los cargos adicionales correspondientes o en virtud de unos términos distintos o complementarios. IBM se reserva el derecho a determinar si desea otorgar al Licenciatario dichos derechos adicionales.
+
+Encontrará las especificaciones del Programa en las cláusulas comunes Descripción e Información técnica incluidas en las Cartas de anuncio del Programa.
+
+Imagen de instalación de varios productos
+
+El Programa se proporciona como parte de una imagen de instalación de varios productos. El Licenciatario sólo está autorizado para instalar y utilizar el Programa (y los Programas de Soporte correspondientes, de haberlos) si ha obtenido una autorización válida y no puede instalar ni utilizar otro software incluido en la imagen, salvo que haya adquirido autorizaciones independientes para el software en cuestión.
+
+Programas de Soporte
+
+El Programa se licencia como un paquete de Programa de varios productos e incluye los Programas de Soporte definidos a continuación. El Licenciatario está autorizado para instalar y utilizar dichos Programas de Soporte únicamente para ofrecer soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo y dentro de los límites de los Documentos de Titularidad del Programa (salvo que en cualquier otra parte de este documento de Información de Licencia se proporcionen derechos que vayan más allá). La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. El Licenciatario no está autorizado para transferir ni recomercializar los Programas de Soporte separados del Programa Principal. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. Cuando el derecho del Licenciatario a utilizar el Programa expira o finaliza, el Licenciatario debe interrumpir el uso, destruir o devolver inmediatamente todas las copias de los Programas de Soporte al distribuidor de quien adquirió el Programa. Si el Licenciatario ha descargado los Programas de Soporte, el Licenciatario debe ponerse en contacto con el distribuidor de quien adquirió el Programa. Si el Licenciatario deseara adquirir una licencia para los Programas de Soporte para cualquier uso más allá de los límites que se establecen más arriba, deberá ponerse en contacto con un Representante de Ventas de IBM o con el distribuidor que le proporcionó el Programa para obtener la licencia adecuada.
+
+Los siguientes Programas de Soporte se licencian con el Programa:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Realización de evaluaciones comparativas (Benchmarking)
+
+El Licenciatario puede revelar los resultados de cualquier evaluación comparativa del Programa o de sus subcomponentes a cualquier tercero siempre que (A) revele de forma pública la metodología completa utilizada en las evaluaciones comparativas (por ejemplo, la configuración de hardware y software, el procedimiento de instalación y los archivos de configuración), (B) realice las evaluaciones comparativas ejecutando el Programa en su Entorno Operativo Especificado usando las actualizaciones, parches y arreglos aplicables más recientes disponibles para el Programa de IBM y (C) siga todos los ajustes de rendimiento y la guía de "mejores prácticas" disponibles en la documentación del Programa y en los sitios web de soporte de IBM para el Programa. Si el Licenciatario publica los resultados de cualquier evaluación comparativa para el Programa, aunque se indique lo contrario en cualquier acuerdo establecido entre el Licenciatario e IBM o Terceros, IBM y los Terceros tendrán el derecho de publicar las evaluaciones comparativas con respecto a los productos del Licenciatario, siempre que IBM o los Terceros cumplan los requisitos establecidos en los apartados (A), (B) y (C) anteriores durante la realización de las pruebas de los productos del Licenciatario.
+
+Independientemente de lo expuesto anteriormente, el Licenciatario no puede, bajo ninguna circunstancia, publicar los resultados de las evaluaciones comparativas en Oracle Outside In Technology, sin previo aviso por escrito.
+
+Los términos de realización de evaluaciones comparativas se aplican a los siguientes Programas o subcomponentes:
+IBM MobileFirst Platform Foundation - Enterprise V7.1
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa puede incluir algunos componentes en formato de código fuente ("Componente en Código Fuente") y otros materiales identificados como Materiales de muestra. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Términos Generales de Cargos
+
+Dispositivo Direccionable es una unidad de medida por la que se puede licenciar el Programa. Un Dispositivo Direccionable es un dispositivo en el que se ha instalado una aplicación a la que puede acceder el Programa. Cada una de las instalaciones de aplicación a las que puede acceder el Programa cuentan como un Dispositivo Direccionable independiente. El Licenciatario debe obtener suficientes autorizaciones para dar cobertura al número máximo de Dispositivos Direccionables en un mes natural.
+
+
+Términos Exclusivos del Programa
+
+Detalles de Programas de Soporte
+
+IBM WebSphere Application Server Liberty Core
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Workgroup Server Edition Version
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Enterprise Server Edition Version (únicamente en zLinux)
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM Web Application Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 with BLU Acceleration Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+
+- Autorización: Proporción 1 Servidor Virtual / 3600 Dispositivos Direccionables
+- Limitación de Uso: Cada Servidor Virtual se debe configurar en modo autónomo; el Licenciatario no puede agrupar varios Servidores Virtuales para dar soporte al Programa Principal. Es necesario adquirir autorizaciones por separado para cada Servidor Virtual para dar soporte a una configuración en clúster.
+
+IBM API Connect Essentials
+- Autorización: Proporción 50.000 Llamadas de API mensuales / 200 Dispositivos accesibles
+
+"Proporción n/m" significa que el Licenciatario recibe un número ('n') de autorizaciones para el Programa de Soporte por cada número especificado ('m') de autorizaciones del conjunto del Programa Principal. Salvo que se establezca de otro modo, el número de autorizaciones para el Programa de Soporte se redondeará a un múltiplo de 'n'. Por ejemplo, si un Programa incluye 100 PVU para un Programa de Soporte por cada 500 PVU obtenidas del Programa Principal y el Licenciatario adquiere 1.200 PVU del Programa, el Licenciatario deberá instalar el Programa de Soporte y disponer de núcleos de procesador para el Programa de Soporte o gestionados por el mismo de hasta 300 PVU. No es necesario que dichas PVU se tengan en cuenta como parte del requisito de PVU total para la instalación por parte del Licenciatario del Programa debido a la instalación del Programa de Soporte (aunque puede ser necesario que dichas PVU se tengan en cuenta por otros motivos, como también la disponibilidad de los núcleos de procesador para el Programa Principal).
+
+“Uso por parte del Programa Principal” significa que el Programa de Soporte se proporciona exclusivamente para su uso por parte del Programa. Ni el Licenciatario ni ninguna aplicación, programa o dispositivo está autorizado para utilizar directamente el Programa de Soporte o para acceder a sus servicios, salvo cuando el Licenciatario necesite acceder al Programa de Soporte para realizar funciones administrativas para el Programa de Soporte como copias de seguridad, recuperación y configuración autorizada.
+
+"Servidor virtual" hace referencia a una unidad de medida por la que se puede obtener licencia para el Programa de Soporte. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado.
+
+"Llamadas de API mensuales" es una unidad de medida por la que se puede licenciar el Programa de Soporte. Una Llamada de API es la invocación del Programa a través de una interfaz programable. Se deben obtener suficientes autorizaciones para dar cobertura al número máximo de Llamadas de API en un mes natural.
+
+Plataformas de SO móviles
+
+IBM dispone de aplicaciones de muestra probadas creadas con las herramientas móviles proporcionadas en el Programa ("Herramientas móviles") para determinar si se ejecutarán correctamente en determinadas versiones de plataformas de sistemas operativos móviles de Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) y Google (Android) (denominadas en su conjunto "Plataformas de SO móviles"); no obstante, los proveedores de Plataformas de SO móviles son terceros, por lo que dichas Plataformas no están bajo el control de IBM y pueden modificarse sin previo aviso a IBM. Por tanto, y sin perjuicio de disposición en contrario, IBM no garantiza que las aplicaciones u otros productos creados utilizando las herramientas móviles se ejecuten o interactúen correctamente, o sean compatibles, con algunas Plataformas de SO móviles o dispositivos móviles.
+
+
+L/N:  L-BVID-A72MNQ
+D/N:  L-BVID-A72MNQ
+P/N:  L-BVID-A72MNQ 
+
+
+
+==============================================
+
+
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Programas bajo Licencia (Z125-3301-14).
+
+Nombre de Programa: IBM MobileFirst Platform Foundation - Consumer V7.1
+Número de Programa: 5725-I43
+
+Tal como se estipula en el Acuerdo Internacional de Programas Bajo Licencia ("IPLA") y en la presente Información de Licencia, IBM otorga al Licenciatario un derecho limitado a utilizar el Programa. Este derecho está limitado a los niveles de Uso Autorizado, como una Value Unit de Procesador ("PVU"), una Value Unit de Recurso ("RVU"), una Value Unit ("VU") u otros niveles de uso estipulados que el Licenciatario hubiera pagado, tal como se indica en el Documento de Titularidad. El uso por parte del Licenciatario también se limitará a una máquina especificada o al uso como Programa de Soporte, o se someterá a otras restricciones. Puesto que el Licenciatario no ha pagado el valor económico íntegro del Programa, no se permitirá ningún otro uso sin abonar previamente los cargos adicionales correspondientes. Además, el Licenciatario no está autorizado a utilizar el Programa para prestar servicios de TI comerciales a terceros o para prestar servicios comerciales de alojamiento web u ofrecer el uso del Programa en régimen de multipropiedad, ni a otorgar licencias a terceros, alquilar o arrendar el Programa, salvo que así se estableciera explícitamente en los acuerdos aplicables en virtud de los cuales el Licenciatario obtiene las necesarias autorizaciones para utilizar el Programa. Podrán otorgarse al Licenciatario derechos adicionales previo pago de los cargos adicionales correspondientes o en virtud de unos términos distintos o complementarios. IBM se reserva el derecho a determinar si desea otorgar al Licenciatario dichos derechos adicionales.
+
+Encontrará las especificaciones del Programa en las cláusulas comunes Descripción e Información técnica incluidas en las Cartas de anuncio del Programa.
+
+Imagen de instalación de varios productos
+
+El Programa se proporciona como parte de una imagen de instalación de varios productos. El Licenciatario sólo está autorizado para instalar y utilizar el Programa (y los Programas de Soporte correspondientes, de haberlos) si ha obtenido una autorización válida y no puede instalar ni utilizar otro software incluido en la imagen, salvo que haya adquirido autorizaciones independientes para el software en cuestión.
+
+Programas de Soporte
+
+El Programa se licencia como un paquete de Programa de varios productos e incluye los Programas de Soporte definidos a continuación. El Licenciatario está autorizado para instalar y utilizar dichos Programas de Soporte únicamente para ofrecer soporte al uso por parte del Licenciatario del Programa Principal bajo el presente Acuerdo y dentro de los límites de los Documentos de Titularidad del Programa (salvo que en cualquier otra parte de este documento de Información de Licencia se proporcionen derechos que vayan más allá). La frase "para ofrecer soporte al uso por parte del Licenciatario" incluiría únicamente los usos necesarios o de otro modo relacionados directamente con un uso bajo licencia del Programa Principal u otro Programa de Soporte. Los Programas de Soporte no pueden utilizarse con ninguna otra finalidad. El Licenciatario no está autorizado para transferir ni recomercializar los Programas de Soporte separados del Programa Principal. Un Programa de Soporte puede ir acompañado de términos de licencia y, dichos términos, de haberlos, se aplicarán al uso del Programa de Soporte por parte del Licenciatario. En el supuesto de que se produjera un conflicto, los términos de este documento de Licencia prevalecerán sobre los términos del Programa de Soporte. Cuando el derecho del Licenciatario a utilizar el Programa expira o finaliza, el Licenciatario debe interrumpir el uso, destruir o devolver inmediatamente todas las copias de los Programas de Soporte al distribuidor de quien adquirió el Programa. Si el Licenciatario ha descargado los Programas de Soporte, el Licenciatario debe ponerse en contacto con el distribuidor de quien adquirió el Programa. Si el Licenciatario deseara adquirir una licencia para los Programas de Soporte para cualquier uso más allá de los límites que se establecen más arriba, deberá ponerse en contacto con un Representante de Ventas de IBM o con el distribuidor que le proporcionó el Programa para obtener la licencia adecuada.
+
+Los siguientes Programas de Soporte se licencian con el Programa:
+IBM DB2 Workgroup Server Edition Version 10.5
+IBM DB2 Enterprise Server Edition Version 10.5 (on zLinux only)
+IBM WebSphere Application Server Liberty Core V8.5.5
+IBM WebSphere Application Server Network Deployment Patterns v1.0.0.2
+IBM DB2 with BLU Acceleration Pattern 1.2
+IBM MobileFirst Platform Foundation Developer Edition V7.1
+IBM MobileFirst Platform Cloudant Data Layer Local Edition V1.0
+IBM API Connect Essentials V5.0
+
+Realización de evaluaciones comparativas (Benchmarking)
+
+El Licenciatario puede revelar los resultados de cualquier evaluación comparativa del Programa o de sus subcomponentes a cualquier tercero siempre que (A) revele de forma pública la metodología completa utilizada en las evaluaciones comparativas (por ejemplo, la configuración de hardware y software, el procedimiento de instalación y los archivos de configuración), (B) realice las evaluaciones comparativas ejecutando el Programa en su Entorno Operativo Especificado usando las actualizaciones, parches y arreglos aplicables más recientes disponibles para el Programa de IBM y (C) siga todos los ajustes de rendimiento y la guía de "mejores prácticas" disponibles en la documentación del Programa y en los sitios web de soporte de IBM para el Programa. Si el Licenciatario publica los resultados de cualquier evaluación comparativa para el Programa, aunque se indique lo contrario en cualquier acuerdo establecido entre el Licenciatario e IBM o Terceros, IBM y los Terceros tendrán el derecho de publicar las evaluaciones comparativas con respecto a los productos del Licenciatario, siempre que IBM o los Terceros cumplan los requisitos establecidos en los apartados (A), (B) y (C) anteriores durante la realización de las pruebas de los productos del Licenciatario.
+
+Independientemente de lo expuesto anteriormente, el Licenciatario no puede, bajo ninguna circunstancia, publicar los resultados de las evaluaciones comparativas en Oracle Outside In Technology, sin previo aviso por escrito.
+
+Los términos de realización de evaluaciones comparativas se aplican a los siguientes Programas o subcomponentes:
+IBM MobileFirst Platform Foundation - Consumer V7.1
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa puede incluir algunos componentes en formato de código fuente ("Componente en Código Fuente") y otros materiales identificados como Materiales de muestra. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+Términos Generales de Cargos
+
+Mil Dispositivos Direccionables es una unidad de medida por la que se puede licenciar el Programa. Un Dispositivo Direccionable es un dispositivo en el que se ha instalado una aplicación a la que puede acceder el Programa. Cada una de las instalaciones de aplicación a las que puede acceder el Programa cuentan como un Dispositivo Direccionable independiente. Una autorización para Mil Dispositivos Direccionables representa mil Dispositivos Direccionables. El Licenciatario debe obtener suficientes autorizaciones para dar cobertura al número máximo de Dispositivos Direccionables en un mes natural.
+
+
+Términos Exclusivos del Programa
+
+El Licenciatario tiene prohibido utilizar los dispositivo accesibles del Programa IBM MobileFirst Platform Foundation con Empleados.
+
+Un Empleado es una persona contratada a cambio de un sueldo, salario, tarifa periódica o por horas, comisión o pago para llevar a cabo una tarea para el Licenciatario, o bien una entidad a la que el Licenciatario proporcione, de conformidad con los términos de la presente licencia, autoridad para utilizar el software autorizado por la licencia en cuestión.
+
+Detalles de Programas de Soporte
+
+IBM WebSphere Application Server Liberty Core
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Workgroup Server Edition
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 Enterprise Server Edition (únicamente en zLinux)
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM Web Application Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM DB2 with BLU Acceleration Pattern
+- Limitaciones de uso: Uso desde el Programa Principal
+
+IBM MobileFirst Platform Cloudant Data Layer Local Edition
+- Autorización: Proporción 1 Servidor Virtual / 150.000 Dispositivos Direccionables
+- Limitación de Uso: Cada Servidor Virtual se debe configurar en modo autónomo; el Licenciatario no puede agrupar varios Servidores Virtuales para dar soporte al Programa Principal. Es necesario adquirir autorizaciones por separado para cada Servidor Virtual para dar soporte a una configuración en clúster.
+
+IBM API Connect Essentials
+- Autorización: Proporción 50.000 Llamadas de API mensuales / 10.000 Dispositivos accesibles
+
+"Proporción n/m" significa que el Licenciatario recibe un número ('n') de autorizaciones para el Programa de Soporte por cada número especificado ('m') de autorizaciones del conjunto del Programa Principal. Salvo que se establezca de otro modo, el número de autorizaciones para el Programa de Soporte se redondeará a un múltiplo de 'n'. Por ejemplo, si un Programa incluye 100 PVU para un Programa de Soporte por cada 500 PVU obtenidas del Programa Principal y el Licenciatario adquiere 1.200 PVU del Programa, el Licenciatario deberá instalar el Programa de Soporte y disponer de núcleos de procesador para el Programa de Soporte o gestionados por el mismo de hasta 300 PVU. No es necesario que dichas PVU se tengan en cuenta como parte del requisito de PVU total para la instalación por parte del Licenciatario del Programa debido a la instalación del Programa de Soporte (aunque puede ser necesario que dichas PVU se tengan en cuenta por otros motivos, como también la disponibilidad de los núcleos de procesador para el Programa Principal).
+
+"Servidor virtual" hace referencia a una unidad de medida por la que se puede obtener licencia para el Programa de Soporte. Un servidor es un sistema físico que consta de unidades de proceso, memoria y funciones de entrada/salida y que ejecuta los procedimientos, mandatos o aplicaciones solicitados para uno o varios usuarios o dispositivos cliente. Siempre que se utilizan bastidores, alojamientos blade u otro equipo similar, cada dispositivo físico desmontable (por ejemplo, un blade o un dispositivo montado en bastidor) que tenga los componentes solicitados se considera un servidor independiente. Un servidor virtual es un sistema virtual creado mediante la partición de los recursos disponibles en un servidor físico, o bien un servidor físico no particionado.
+
+“Uso por parte del Programa Principal” significa que el Programa de Soporte se proporciona exclusivamente para su uso por parte del Programa Principal. Ni el Licenciatario ni ninguna aplicación, programa o dispositivo está autorizado para utilizar directamente el Programa de Soporte o para acceder a sus servicios, salvo cuando el Licenciatario necesite acceder al Programa de Soporte para realizar funciones administrativas para el Programa de Soporte como copias de seguridad, recuperación y configuración autorizada.
+
+"Llamadas de API mensuales" es una unidad de medida por la que se puede licenciar el Programa de Soporte. Una Llamada de API es la invocación del Programa a través de una interfaz programable. Se deben obtener suficientes autorizaciones para dar cobertura al número máximo de Llamadas de API en un mes natural.
+
+Plataformas de SO móviles
+
+IBM dispone de aplicaciones de muestra probadas creadas con las herramientas móviles proporcionadas en el Programa ("Herramientas móviles") para determinar si se ejecutarán correctamente en determinadas versiones de plataformas de sistemas operativos móviles de Apple (iOS), RIM (Blackberry), Microsoft (Windows, Windows RT, Windows Phone) y Google (Android) (denominadas en su conjunto "Plataformas de SO móviles"); no obstante, los proveedores de Plataformas de SO móviles son terceros, por lo que dichas Plataformas no están bajo el control de IBM y pueden modificarse sin previo aviso a IBM. Por tanto, y sin perjuicio de disposición en contrario, IBM no garantiza que las aplicaciones u otros productos creados utilizando las herramientas móviles se ejecuten o interactúen correctamente, o sean compatibles, con algunas Plataformas de SO móviles o dispositivos móviles.
+
+
+L/N:  L-BVID-A72LZJ
+D/N:  L-BVID-A72LZJ
+P/N:  L-BVID-A72LZJ 
+
+
+
+
+
